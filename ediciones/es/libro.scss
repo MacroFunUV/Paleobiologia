@@ -1,0 +1,9 @@
+/*-- scss:defaults --*/
+$primary: #265f5c;
+$body-bg: #fcfaf5;
+$body-color: #243b3b;
+$font-family-sans-serif: Georgia, "Times New Roman", serif;
+$headings-font-family: Georgia, serif;
+$headings-font-weight: 400;
+/*-- scss:rules --*/
+#quarto-content{max-width:1500px;margin:auto}.sidebar,.navbar,.quarto-title-meta{font-family:Arial,sans-serif}main.content{max-width:850px}p{text-wrap:pretty}strong,b{font-weight:400}.pasaje{position:relative;scroll-margin-top:100px}.passage-link{position:absolute;left:-7.5em;top:.3em;width:7em;font:10px/1.5 Arial;color:#5c7773;opacity:0;border:0;background:transparent;text-align:right;cursor:pointer}.pasaje:hover>.passage-link,.pasaje:focus-within>.passage-link{opacity:1}.pasaje:target{background:#edf3ec;outline:8px solid #edf3ec}.show-codes .passage-link{opacity:1}.code-toggle{font:12px Arial;border:1px solid #8fa7a0;background:#f4f6ef;border-radius:5px;padding:7px 10px;margin:8px 0}.quarto-figure img{max-height:520px;object-fit:contain}@media(max-width:1100px){.passage-link{position:static;display:block;width:auto;text-align:left}.pasaje:hover>.passage-link{opacity:1}}@media print{.passage-link,.code-toggle{display:none}}

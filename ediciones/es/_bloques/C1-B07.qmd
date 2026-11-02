@@ -1,0 +1,435 @@
+::: {#C1-B07.P001 .pasaje data-passage-id="C1-B07.P001"}
+
+### Siglo XX: avances en las subdisciplinas de la paleontología {#sec-siglo-xx-avances-en-las-subdisciplinas-de-la-paleontologia}
+
+:::
+
+::: {#C1-B07.P002 .pasaje data-passage-id="C1-B07.P002"}
+
+Durante el siglo XX se ampliaron los métodos con los que podían estudiarse los organismos del pasado. La descripción y clasificación de fósiles siguieron siendo indispensables, pero se conectaron de forma más estrecha con la investigación de su conservación, sus modos de vida y su distribución. Tafonomía, paleoecología y paleobiogeografía consolidaron preguntas que tenían antecedentes anteriores y proporcionaron herramientas complementarias para relacionar la historia biológica con la historia de la Tierra.
+
+:::
+
+::: {#C1-B07.P003 .pasaje data-passage-id="C1-B07.P003"}
+
+#### Tafonomía: descifrando el proceso de fosilización {#sec-tafonomia-descifrando-el-proceso-de-fosilizacion}
+
+:::
+
+::: {#C1-B07.P004 .pasaje data-passage-id="C1-B07.P004"}
+
+Ivan Efremov propuso en 1940 la denominación tafonomía para un campo que estudiaría la transición de la información biológica al registro geológico. Su interés no se limitaba a describir fósiles bien conservados: trataba de comprender por qué se formaban determinadas acumulaciones y qué relación guardaban con las comunidades de origen. La tafonomía examina procesos como descomposición, transporte, enterramiento, alteración y exposición, así como la selección de restos y señales que esos procesos producen.
+
+Una concentración de huesos, por ejemplo, puede reunir organismos que vivieron en momentos o ambientes distintos. Antes de interpretar su abundancia como una propiedad de la comunidad original, hay que considerar cómo se acumuló y preservó el material. La tafonomía permite así evaluar la calidad y el significado de las evidencias; además, sus alteraciones pueden conservar información sobre el propio ambiente de depósito (Efremov, 1940; Foote y Miller, 2007, pp. 2–3).
+
+:::
+
+::: {#C1-B07.P005 .pasaje data-passage-id="C1-B07.P005"}
+
+#### Paleoecología: explorando ecosistemas del pasado {#sec-paleoecologia-explorando-ecosistemas-del-pasado}
+
+:::
+
+::: {#C1-B07.P006 .pasaje data-passage-id="C1-B07.P006"}
+
+La paleoecología reconstruye las relaciones de los organismos con su ambiente y entre sí. Puede investigar desde la forma de alimentación de una especie hasta la organización de comunidades y los cambios de los ecosistemas. El término ya aparece en trabajos de Edward W. Berry de 1911 y de Frederic Clements de 1916, según la revisión histórica de Wingard y colaboradores. En 1933, Gekker publicó un manual basado en su docencia e investigaciones en la Unión Soviética, y su posterior síntesis de 1957 tuvo una amplia difusión. Estos antecedentes permiten situar el desarrollo del campo sin atribuir su nacimiento a una única fecha o tradición (Wingard et al., 2017).
+
+Durante el periodo de entreguerras y, de forma más amplia, después de la Segunda Guerra Mundial, se fortalecieron programas paleobiológicos en distintas tradiciones europeas y americanas; las décadas siguientes vieron nuevas síntesis y métodos de análisis.
+
+La reconstrucción ecológica necesita combinar identificación de organismos, sedimentología, tafonomía y comparación con sistemas actuales. Una asociación fósil no es una comunidad detenida intacta en el tiempo: puede haber sufrido transporte, selección y mezcla temporal. Precisamente por ello, el estudio de su formación es parte de la explicación ecológica, no una tarea previa desligada de ella (Rudwick, 2018, pp. 138–141).
+
+:::
+
+::: {#C1-B07.P007 .pasaje data-passage-id="C1-B07.P007"}
+
+#### Paleobiogeografía: en el contexto de la tectónica de placas {#sec-paleobiogeografia-en-el-contexto-de-la-tectonica-de-placas}
+
+:::
+
+::: {#C1-B07.P008 .pasaje data-passage-id="C1-B07.P008"}
+
+La paleobiogeografía estudia cómo cambió la distribución de los organismos a través del tiempo. La consolidación de la tectónica de placas durante la década de 1960 proporcionó un marco decisivo para interpretar esos cambios y transformó la disciplina durante las décadas siguientes. La apertura de un océano podía separar poblaciones; la colisión de masas continentales, permitir intercambios; y el desplazamiento latitudinal, alterar los ambientes disponibles.
+
+Los fósiles habían sido ya una fuente importante de argumentos sobre antiguas conexiones continentales. A su vez, las reconstrucciones paleogeográficas permitieron contrastar hipótesis de dispersión, aislamiento y distribución ambiental. La semejanza entre faunas de dos regiones no demuestra por sí sola una conexión directa: deben considerarse su edad, las condiciones ecológicas y las posibilidades de intercambio. La explicación se construye mediante la concordancia entre evidencias biológicas y geológicas, evitando que unas se utilicen circularmente para confirmar las otras (U.S. Geological Survey, *This Dynamic Earth*).
+
+:::
+
+::: {#C1-B07.P009 .pasaje data-passage-id="C1-B07.P009"}
+
+### Síntesis evolutiva en el siglo XX: entre el estancamiento y la renovación {#sec-sintesis-evolutiva-en-el-siglo-xx-entre-el-estancamiento-y-la-renovacion}
+
+:::
+
+::: {#C1-B07.P010 .pasaje data-passage-id="C1-B07.P010"}
+
+La expansión de estos campos hizo más visibles algunos límites de las interpretaciones adaptacionistas. Si una estructura se consideraba adaptativa solo porque persistía y su persistencia se explicaba a su vez por su adaptación, el razonamiento resultaba circular. El problema no residía en la selección natural como mecanismo, sino en atribuirle una explicación concreta sin comprobar el rendimiento de la estructura, sus alternativas y su historia.
+
+:::
+
+::: {#C1-B07.P011 .pasaje data-passage-id="C1-B07.P011"}
+
+La dificultad era especialmente importante en los fósiles, porque no podemos observar directamente cómo funcionaba un organismo extinguido. Una forma distinta no implica necesariamente una adaptación distinta, y una semejanza no garantiza una misma función. Había que desarrollar procedimientos que permitiesen formular predicciones y comparar interpretaciones. La morfología funcional y el estudio de la construcción de las formas ofrecieron dos vías relacionadas para abordar ese problema.
+
+:::
+
+::: {#C1-B07.P012 .pasaje data-passage-id="C1-B07.P012"}
+
+#### El método de los paradigmas {#sec-el-metodo-de-los-paradigmas}
+
+:::
+
+::: {#C1-B07.P013 .pasaje data-passage-id="C1-B07.P013"}
+
+![Retrato de Martin Rudwick. © The University of Chicago Press.](assets/71f7c584a6a5.jpeg){#fig-rudwickmartin width=50% fig-alt="Retrato de Martin Rudwick. © The University of Chicago Press."}
+
+:::
+
+::: {#C1-B07.P014 .pasaje data-passage-id="C1-B07.P014"}
+
+Martin J. S. Rudwick, paleontólogo e historiador británico nacido en 1932, desarrolló un procedimiento de inferencia funcional que denominó método de los paradigmas y publicó con ese nombre en 1961. Su programa se apoyaba en investigaciones sobre braquiópodos fósiles y buscaba relacionar estructuras conservadas con funciones posibles. La cuestión no era encontrar una utilidad convincente mediante la imaginación, sino evaluar si una estructura podía realizar una tarea bajo principios físicos definidos (Rudwick, 2018, pp. 148–150).
+
+:::
+
+::: {#C1-B07.P015 .pasaje data-passage-id="C1-B07.P015"}
+
+Un paradigma era aquí un modelo de organización particularmente eficiente para cumplir una función especificada. Se construía a partir de condiciones físicas y se comparaba con la estructura real. Si una hipótesis proponía una función hidrodinámica, por ejemplo, debía explicar cómo circularía el agua y qué consecuencias tendría la forma observada. La proximidad al modelo podía apoyar una interpretación, siempre que sus supuestos fueran pertinentes; no demostraba que el organismo fuese perfecto.
+
+Rudwick lo ilustró mediante una tetera. Una persona que desconociese el hábito de beber té podría estudiar su pico y comprobar que su forma permite conducir un líquido poco viscoso y producir un chorro al inclinar el recipiente. La comparación convierte una atribución funcional en una hipótesis con consecuencias mecánicas. Si se propusiera, en cambio, que el pico alojaba la mecha de una lámpara, habría que evaluar su adecuación a esa tarea y compararla con la primera interpretación (Rudwick, 2018, pp. 149–150).
+
+:::
+
+::: {#C1-B07.P016 .pasaje data-passage-id="C1-B07.P016"}
+
+El análisis permite valorar la plausibilidad relativa de las funciones propuestas y descartar algunas cuando sus consecuencias resultan incompatibles con la estructura. No obliga a reconocer una función física para cada detalle. La decoración de la tetera, por ejemplo, puede tener significado estético o social sin contribuir al flujo del líquido. Y cuando una característica no admite una interpretación satisfactoria, puede ocurrir que careciera de una función mecánica relevante o que la información disponible no permita descubrirla. La ausencia de una explicación no decide automáticamente entre ambas posibilidades.
+
+En un organismo, además, los caracteres forman parte de un sistema integrado: una solución eficiente para una tarea puede comprometer otra, y su forma depende de materiales, crecimiento y herencia. Por ello, los modelos funcionales deben hacer explícitos sus supuestos y contrastarse con la anatomía, las condiciones ambientales y, cuando sea posible, experimentos o comparaciones con organismos actuales (Rudwick, 2018, pp. 149–150).
+
+:::
+
+::: {#C1-B07.P017 .pasaje data-passage-id="C1-B07.P017"}
+
+Este programa ayudó a dar contenido contrastable a la reconstrucción de modos de vida. La anatomía dejaba de servir únicamente para identificar y ordenar formas, y podía utilizarse para investigar alimentación, locomoción e interacción con el medio. El método recibió críticas y su alcance varió entre problemas, pero planteó una exigencia duradera: una interpretación funcional debe apoyarse en consecuencias que puedan examinarse, y una interpretación adaptativa necesita, además, una explicación evolutiva de la función. Ambas preguntas se relacionan, aunque no son idénticas.
+
+:::
+
+::: {#C1-B07.P018 .pasaje data-passage-id="C1-B07.P018"}
+
+:::::::: {.reading-recommendation}
+Lectura recomendada
+
+Rudwick, M. J. S. (2018). Functional Morphology in Paleobiology: Origins of the Method of ‘Paradigms’. *Journal of the History of Biology*, 51(1), 135–178. Lectura dirigida especialmente a los antecedentes del método y a la analogía de la tetera; los casos de braquiópodos permiten ampliar su aplicación.
+::::::::
+
+:::
+
+::: {#C1-B07.P019 .pasaje data-passage-id="C1-B07.P019"}
+
+#### Biomorfodinámica y las limitaciones evolutivas: el legado de Adolf Seilacher {#sec-biomorfodinamica-y-las-limitaciones-evolutivas-el-legado-de-adolf-seilacher}
+
+:::
+
+::: {#C1-B07.P020 .pasaje data-passage-id="C1-B07.P020"}
+
+![Retrato de Adolf Seilacher. Imagen disponible bajo licencia Creative Commons CC0.](assets/fc8d465d1425.jpg){#fig-adolfseilacher width=50% fig-alt="Retrato de Adolf Seilacher. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B07.P021 .pasaje data-passage-id="C1-B07.P021"}
+
+Adolf Seilacher (1925–2014) amplió el análisis de la forma mediante la morfología construccional, desarrollada en relación con la biomorfodinámica. Su conocido esquema triangular reúne tres dimensiones que se condicionan mutuamente: la adecuación funcional, la herencia filogenética y los procesos de fabricación o construcción. No son tres causas que actúen de manera aislada ni tres listas independientes de prohibiciones. La forma observada resulta de su interacción, y comprenderla requiere averiguar qué posibilidades ofrece y qué límites impone cada dimensión (Tamborini, 2020, pp. 279 y 282–283).
+
+:::
+
+::: {#C1-B07.P022 .pasaje data-passage-id="C1-B07.P022"}
+
+![Visualización original de la morfología construccional de Seilacher. Esquema de Seilacher (1970), reproducido y discutido en Tamborini (2020).](assets/6ddd2949d5fd.png){#fig-figuraseilacher width=50% fig-alt="Visualización original de la morfología construccional de Seilacher. Esquema de Seilacher (1970), reproducido y discutido en Tamborini (2020)."}
+
+:::
+
+::: {#C1-B07.P023 .pasaje data-passage-id="C1-B07.P023"}
+
+La dimensión funcional se refiere a las consecuencias de una estructura para las actividades del organismo en su ambiente. La selección puede favorecer configuraciones que mejoren alimentación, locomoción o reproducción, pero la eficiencia depende de la tarea y del contexto. Un ala adecuada para cierto tipo de vuelo no representa una solución óptima para todas las formas de desplazamiento. Los compromisos entre tareas impiden interpretar la anatomía como una colección de piezas perfeccionadas por separado.
+
+:::
+
+::: {#C1-B07.P024 .pasaje data-passage-id="C1-B07.P024"}
+
+La dimensión histórica recuerda que cada linaje transforma una organización heredada. Las extremidades de los mamíferos, por ejemplo, derivan de la organización de sus antepasados tetrápodos; caminar, nadar o volar implican modificaciones de ese material previo. La herencia puede limitar determinadas trayectorias y facilitar otras. Un mismo patrón óseo puede mantenerse mientras cambian las proporciones y las funciones de sus elementos. La historia filogenética permite reconstruir el origen de ese patrón; el análisis funcional ayuda a explicar cómo se utiliza y qué modificaciones pueden favorecerse en cada modo de vida.
+
+:::
+
+::: {#C1-B07.P025 .pasaje data-passage-id="C1-B07.P025"}
+
+La dimensión constructiva comprende propiedades de los materiales, mecanismos de crecimiento, procesos fisicoquímicos y organización del desarrollo. Una estructura solo puede aparecer mediante procesos capaces de producirla, pero esos mismos procesos pueden generar regularidades y abrir posibilidades de transformación. Seilacher hablaba también de licencias arquitectónicas para destacar esta faceta productiva.
+
+Una forma físicamente imaginable no tiene por qué ser accesible durante el desarrollo de un organismo, y una modificación accesible no tiene por qué resultar viable o seleccionada. Son condiciones distintas. Investigar cómo se fabrica una estructura evita atribuir todos sus detalles a demandas funcionales y permite comprender por qué algunas variantes aparecen con mayor facilidad que otras (Tamborini, 2020, pp. 282–283).
+
+El método de Rudwick hizo más rigurosa la investigación de la función, mientras que Seilacher amplió la explicación de la forma al integrar adaptación, historia y construcción. David Raup y Stephen Jay Gould contribuyeron a difundir el enfoque de Seilacher entre los paleontólogos de habla inglesa (Rudwick, 2018; Tamborini, 2020, pp. 270–271).
+
+En 1979, Gould y Richard Lewontin dieron una nueva proyección a este debate con *The spandrels of San Marco and the Panglossian paradigm*. Su crítica al «paradigma panglosiano» cuestionaba la costumbre de atribuir una explicación adaptativa independiente a cada rasgo. Los autores la dirigían especialmente a la tradición anglosajona y recuperaban perspectivas integradoras arraigadas en Europa continental, entre ellas las de Seilacher. Retomaremos esta crítica y la analogía de San Marcos en el capítulo de morfología evolutiva (Gould y Lewontin, 1979).
+
+:::
+
+::: {#C1-B07.P026 .pasaje data-passage-id="C1-B07.P026"}
+
+:::::::: {.reading-recommendation}
+Lectura recomendada
+
+Tamborini, M. (2020). Challenging the Adaptationist Paradigm: Morphogenesis, Constraints, and Constructions. *Journal of the History of Biology*, 53(2), 269–294. Ampliación histórica; los pasajes sobre Seilacher y el triángulo construccional son los más pertinentes para este apartado.
+::::::::
+
+:::
+
+::: {#C1-B07.P027 .pasaje data-passage-id="C1-B07.P027"}
+
+### Equilibrio interrumpido o puntuado en la teoría de la evolución {#sec-equilibrio-interrumpido-o-puntuado-en-la-teoria-de-la-evolucion}
+
+:::
+
+::: {#C1-B07.P028 .pasaje data-passage-id="C1-B07.P028"}
+
+![Retratos de Stephen Jay Gould (izquierda) y Niles Eldredge (derecha). © timetoast.](assets/8b0161e78143.jpeg){#fig-eldredgegould width=50% fig-alt="Retratos de Stephen Jay Gould (izquierda) y Niles Eldredge (derecha). © timetoast."}
+
+:::
+
+::: {#C1-B07.P029 .pasaje data-passage-id="C1-B07.P029"}
+
+En 1972, Niles Eldredge y Stephen Jay Gould propusieron que muchas especies conservan una morfología relativamente estable durante buena parte de su existencia y que una parte importante del cambio se produce al originarse especies nuevas. Llamaron equilibrio puntuado a este patrón, que reunía dos ideas relacionadas: la frecuencia de la estasis y la concentración del cambio en episodios de especiación.
+
+La propuesta cambió la forma de interpretar el registro fósil. Las largas etapas de estabilidad adquirían importancia como información biológica, y las apariciones relativamente rápidas de nuevas formas planteaban preguntas sobre cómo y dónde se habían originado. Las discontinuidades dejaban de atribuirse de antemano a que faltasen fósiles entre una forma y otra (Hunt et al., 2025).
+
+:::
+
+::: {#C1-B07.P030 .pasaje data-passage-id="C1-B07.P030"}
+
+La estasis es la estabilidad relativa de la morfología a lo largo del tiempo. Los individuos de una especie pueden presentar diferencias y las poblaciones pueden cambiar de una generación a otra, pero esas variaciones permanecen dentro de un intervalo acotado, sin producir una transformación sostenida en una dirección. También pueden coexistir poblaciones que cambian en sentidos distintos, de modo que el conjunto conserve cierta estabilidad. La estasis de un carácter puede coexistir con cambios en otros rasgos o en el genoma. Para reconocerla hay que indicar qué se mide, durante cuánto tiempo y con qué resolución.
+
+:::
+
+::: {#C1-B07.P031 .pasaje data-passage-id="C1-B07.P031"}
+
+Una puntuación es un episodio de cambio morfológico breve en comparación con el tiempo durante el que persiste una especie. «Breve» se entiende a escala geológica: puede abarcar muchas generaciones y producirse mediante selección, deriva y otros procesos poblacionales. Eldredge y Gould relacionaron estos episodios con la formación de especies en pequeñas poblaciones aisladas. Una especie podía diferenciarse fuera de la región muestreada y extenderse después hacia ella; en la sucesión local aparecería entonces de forma relativamente brusca, mientras que la especie ancestral podía continuar existiendo.
+
+La interpretación exige reconstruir esa historia. Las lagunas del registro, la llegada de una especie por migración o los cambios en el muestreo también pueden producir apariciones abruptas. Por ello, hay que combinar la comparación de las formas con su posición en los estratos, su distribución geográfica y sus relaciones de parentesco. La propuesta admite cambios dentro de las especies y episodios de especiación con escasas diferencias anatómicas; la cuestión es cuánto cambio se concentra en la formación de especies nuevas (Hunt et al., 2025).
+
+:::
+
+::: {#C1-B07.P032 .pasaje data-passage-id="C1-B07.P032"}
+
+![Diagrama que ejemplifica el gradualismo filético (arriba) y el equilibrio interrumpido (abajo). Imagen disponible bajo licencia Creative Commons CC0.](assets/cec68871ec92.png){#fig-equilibriointerrumpido width=50% fig-alt="Diagrama que ejemplifica el gradualismo filético (arriba) y el equilibrio interrumpido (abajo). Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B07.P033 .pasaje data-passage-id="C1-B07.P033"}
+
+El equilibrio puntuado hizo más visible la diferencia entre dos escalas de cambio. Una es la transformación de los caracteres dentro de una misma especie; otra, la historia de las especies que aparecen, persisten y se extinguen. Una especie puede conservar una morfología relativamente estable y, al mismo tiempo, el grupo al que pertenece puede cambiar porque se originan especies distintas y desaparecen otras. Comprender la evolución del grupo requiere estudiar ambas historias y explicar también por qué algunos caracteres permanecen estables durante tanto tiempo.
+
+:::
+
+::: {#C1-B07.P034 .pasaje data-passage-id="C1-B07.P034"}
+
+Por eso, una tendencia evolutiva puede surgir de maneras distintas. El tamaño corporal medio de un grupo, por ejemplo, puede aumentar porque aumenta el tamaño dentro de sus especies, porque se originan más especies grandes o porque se extinguen más especies pequeñas. Estas posibilidades ayudan a entender el desacoplamiento parcial entre microevolución y macroevolución: los cambios dentro de las poblaciones y la diversificación de los linajes aportan información diferente.
+
+Los mecanismos de herencia, selección y deriva siguen actuando en las poblaciones. Para hablar de selección de especies es necesario, además, comprobar que determinadas características heredables de los linajes influyen en sus tasas de especiación o extinción. Estas relaciones y las formas de contrastarlas se desarrollarán en el capítulo sobre diversificación y extinción.
+
+:::
+
+::: {#C1-B07.P035 .pasaje data-passage-id="C1-B07.P035"}
+
+Los estudios comparativos permiten valorar hasta qué punto se cumplen las dos ideas del equilibrio puntuado. Hunt, Voje y Liow concluyen en 2025 que la estasis es frecuente, pero no es la explicación mejor respaldada para la mayoría de las series analizadas. Las tendencias mantenidas en una dirección son poco comunes; también se observan fluctuaciones sin una dirección persistente e historias que combinan etapas de estabilidad y de cambio.
+
+Comprobar cuánto cambio se asocia a la especiación ha resultado más difícil. Se necesita relacionar las series de antepasados y descendientes con sus vínculos de parentesco y comparar las diferencias surgidas al separarse las especies con las acumuladas durante su existencia. Hay casos compatibles con episodios de cambio ligados a la especiación, pero todavía resulta difícil establecer su frecuencia e importancia relativas. Las dos ideas deben ponerse a prueba por separado. El equilibrio puntuado impulsó precisamente esa tarea: medir la estabilidad y el cambio, comparar modelos y reconocer que distintos caracteres y grupos pueden seguir historias diferentes (Hunt et al., 2025).
+
+:::
+
+::: {#C1-B07.P036 .pasaje data-passage-id="C1-B07.P036"}
+
+### La diversidad fanerozoica y las extinciones en masa {#sec-la-diversidad-fanerozoica-y-las-extinciones-en-masa}
+
+:::
+
+::: {#C1-B07.P037 .pasaje data-passage-id="C1-B07.P037"}
+
+![Jack Sepkoski (izquierda) con David Raup (derecha). © extinctblog](assets/7ef2c967682c.jpeg){#fig-sepkoskiraup width=50% fig-alt="Jack Sepkoski (izquierda) con David Raup (derecha). © extinctblog"}
+
+:::
+
+::: {#C1-B07.P038 .pasaje data-passage-id="C1-B07.P038"}
+
+Las mismas décadas vieron crecer el análisis cuantitativo de la diversidad a lo largo del Fanerozoico. La recopilación de distribuciones temporales de taxones permitió pasar de ejemplos particulares a preguntas sobre tasas de originación, extinción y reemplazo. Durante los años setenta y ochenta, Raup y Sepkoski contribuyeron de manera decisiva a este programa, junto con otros investigadores. Su trabajo combinó compilaciones de datos, modelos y evaluación de los sesgos para investigar tanto las regularidades de la diversidad como los episodios de crisis.
+
+:::
+
+::: {#C1-B07.P039 .pasaje data-passage-id="C1-B07.P039"}
+
+David M. Raup (1933–2015) utilizó modelos para investigar cuánto de un patrón podía surgir mediante procesos de originación y extinción y cuánto requería una explicación adicional. La comparación con escenarios de referencia ayudaba a distinguir regularidades biológicas de resultados del muestreo o del azar. Sus investigaciones abordaron también el papel de episodios excepcionales: que un linaje se extinga no implica que sus organismos fueran, en todos los sentidos, menos capaces que los supervivientes.
+
+Glaciaciones, grandes episodios volcánicos e impactos podían alterar las condiciones y la selectividad de la extinción. Pero relacionar una crisis con uno de esos procesos exige determinar la cronología y un mecanismo de daño plausible. La coincidencia temporal, el patrón de organismos afectados y las evidencias físicas se complementan para evaluar esas explicaciones; las respuestas ecológicas pueden amplificar una perturbación sin reemplazar la investigación de su causa.
+
+:::
+
+::: {#C1-B07.P040 .pasaje data-passage-id="C1-B07.P040"}
+
+J. John Sepkoski Jr. (1948–1999) elaboró compilaciones que hicieron posible investigar tendencias y contrastar modelos a escala fanerozoica. Su modelo cinético de 1978 relacionaba diversidad, originación y extinción, e incluía posibles efectos de dependencia de la diversidad. El modelo permitía explorar cómo las oportunidades y las interacciones de una biota podían influir en sus propias tasas de diversificación.
+
+El análisis conjunto de Raup y Sepkoski de 1982 distinguió grandes aumentos de extinción de un nivel de fondo en datos de familias marinas. Su aportación metodológica consistió en hacer explícitos los criterios y la resolución temporal con que se reconocían las crisis, teniendo en cuenta las limitaciones de esos datos. Las curvas recogen la parte de la diversidad que puede recuperarse de los fósiles y de su clasificación. El capítulo siguiente examinará cómo se construyen, qué sesgos contienen y qué información permiten recuperar (Sepkoski, 1978; Raup y Sepkoski, 1982).
+
+En 1984, Raup y Sepkoski propusieron que varios episodios de extinción de los últimos 250 millones de años mostraban una posible periodicidad de unos 26 millones de años en los datos de familias marinas que habían analizado. Entre las explicaciones que consideraron figuraban causas extraterrestres relacionadas con el Sol, el sistema solar o la galaxia. La búsqueda de perturbaciones externas recurrentes abría así una vía para interpretar las crisis; establecer su periodicidad y demostrar el mecanismo capaz de producirlas seguían siendo cuestiones por resolver (Raup y Sepkoski, 1984).
+
+:::
+
+::: {#C1-B07.P041 .pasaje data-passage-id="C1-B07.P041"}
+
+:::::::: {.reading-recommendation}
+Lecturas recomendadas
+
+Sepkoski, J. J., Jr. (1997). Biodiversity: past, present, and future. *Journal of Paleontology*, 71(4), 533–539. Síntesis histórica de las preguntas sobre diversidad; sus resultados se deben situar en la fecha de publicación.
+
+Hunt, G., Voje, K. L. y Liow, L. H. (2025). Punctuated equilibrium: state of the evidence. *Paleobiology*, 51(4), 652–661. Revisión actual y accesible para distinguir las dos hipótesis y conocer sus pruebas; se retomará en el capítulo sobre interpretación evolutiva del registro fósil.
+::::::::
+
+:::
+
+::: {#C1-B07.P042 .pasaje data-passage-id="C1-B07.P042"}
+
+### Dinámicas internas de los ecosistemas: la criticalidad autoorganizada {#sec-posturas-internlistas-la-criticalidad-autoorganizada}
+
+:::
+
+::: {#C1-B07.P043 .pasaje data-passage-id="C1-B07.P043"}
+
+![Ricard Solé. Imagen disponible bajo licencia Creative Commons CC0.](assets/e3e3f892961a.png){#fig-ricardsole width=50% fig-alt="Ricard Solé. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B07.P044 .pasaje data-passage-id="C1-B07.P044"}
+
+La búsqueda de causas externas para las crisis convivió con otra pregunta: hasta qué punto las propias interacciones ecológicas pueden generar patrones de gran escala. Ricard Solé y otros investigadores exploraron la criticalidad y la criticalidad autoorganizada como marcos para estudiar esas dinámicas internas. En ciertos modelos, un sistema con numerosos componentes interdependientes se aproxima, por su propio funcionamiento, a un estado en el que las perturbaciones pueden propagarse a escalas muy diferentes. Una alteración pequeña puede entonces generar una respuesta pequeña o una cascada extensa (Solé et al., 1999).
+
+:::
+
+::: {#C1-B07.P045 .pasaje data-passage-id="C1-B07.P045"}
+
+El montículo de arena proporciona una analogía sencilla. Al añadir granos lentamente, aumentan las pendientes y se producen reajustes locales. Bajo las reglas de los modelos clásicos, algunos reajustes afectan a pocos granos y otros se propagan como avalanchas de mayor tamaño. Lo importante no es que cada grano provoque una catástrofe, sino que el conjunto puede mostrar eventos de muchas escalas sin que haya que ajustar externamente un parámetro hasta un valor crítico.
+
+La distribución del tamaño de esos eventos puede aproximarse a una ley de potencias: N(s) es proporcional a s elevado a −τ, donde s representa el tamaño de la avalancha y τ un exponente positivo. Hay muchos eventos pequeños y pocos grandes, y la relación entre sus frecuencias conserva una regularidad al cambiar de escala. En un gráfico con ambos ejes logarítmicos, una ley de potencias ideal aparece como una recta. La forma observada debe comprobarse estadísticamente; un tramo aproximadamente recto no identifica por sí solo el mecanismo que lo produjo (Solé et al., 1999, pp. 156–159).
+
+:::
+
+::: {#C1-B07.P046 .pasaje data-passage-id="C1-B07.P046"}
+
+![Escalado y autosimilitud en el esquema de Solé et al. (1999). (A) Relación ideal entre tamaño y frecuencia de eventos según una ley de potencias, en ejes logarítmicos. (B) Variación de la tasa de extinción de familias marinas a lo largo del Fanerozoico, multiplicada por 100 en la figura original; se conserva su escala temporal histórica. (C) Analogía del montículo de arena. La semejanza de patrones no demuestra por sí sola un mecanismo común.](assets/b6daec990f42.png){#fig-criticalidadautoorganizada width=75%}
+
+:::
+
+::: {#C1-B07.P047 .pasaje data-passage-id="C1-B07.P047"}
+
+En ecología evolutiva, una red de interacciones permite imaginar cómo la desaparición de una especie puede afectar a otras y desencadenar extinciones secundarias. Los modelos explorados por Solé y colaboradores mostraban que ciertas reglas de interacción podían producir cascadas y distribuciones semejantes a algunos patrones del registro. Esa posibilidad obliga a distinguir entre la perturbación que inicia un cambio y la organización del sistema que condiciona su propagación. No demuestra que los ecosistemas reales evolucionen inevitablemente hacia un estado crítico al aumentar el número de conexiones.
+
+Las leyes de potencias se han estudiado también en terremotos, mercados y otros sistemas. Esa semejanza estadística justifica comparar modelos, pero no establece una explicación universal. En paleobiología, la resolución temporal, la mezcla de mecanismos y los sesgos de muestreo pueden afectar a las distribuciones observadas. La identificación de una dinámica requiere contrastar predicciones adicionales y comparar explicaciones alternativas.
+
+El final del Pérmico ilustra por qué esta distinción importa. La investigación actual relaciona la crisis con el magmatismo de las Trampas Siberianas y una cascada de perturbaciones ambientales, entre ellas calentamiento y cambios en la oxigenación oceánica. Persisten incertidumbres sobre la secuencia y la contribución de cada mecanismo. Su explicación requiere relacionar esos desencadenantes con la respuesta de los ecosistemas, incluida la posible propagación de sus efectos a través de las interacciones entre especies (Dal Corso et al., 2022).
+
+Los modelos de interacciones exploran efectos colectivos que no se observan al estudiar una especie aislada. Las hipótesis de desencadenantes externos y las de dinámica interna abordan componentes distintos de una crisis: qué perturbación la inicia, cómo la estructura de la biota condiciona su propagación y qué cambios pueden surgir de las propias interacciones. Ambos componentes pueden actuar conjuntamente (Solé et al., 1999).
+
+:::
+
+::: {#C1-B07.P048 .pasaje data-passage-id="C1-B07.P048"}
+
+:::::::: {.reading-recommendation}
+Lecturas recomendadas
+
+Bak, P. y Chen, K. (1991). Criticalidad auto-organizada. *Investigación y Ciencia*, 174, 18–25. Introducción conceptual en español; los modelos deben distinguirse de las demostraciones sobre sistemas naturales concretos.
+
+Solé, R. V., Manrubia, S. C., Benton, M., Kauffman, S. y Bak, P. (1999). Criticality and scaling in evolutionary ecology. *Trends in Ecology & Evolution*, 14(4), 156–160. Presentación del programa de investigación y de sus problemas abiertos, que debe leerse como propuesta teórica situada históricamente.
+::::::::
+
+:::
+
+::: {#C1-B07.P049 .pasaje data-passage-id="C1-B07.P049"}
+
+### Siglo XXI ¿Es necesaria una nueva síntesis? {#sec-siglo-xxi-es-necesaria-una-nueva-sintesis}
+
+:::
+
+::: {#C1-B07.P050 .pasaje data-passage-id="C1-B07.P050"}
+
+Desde mediados del siglo XX, la genética molecular, la ecología, la paleobiología y la biología del desarrollo han ampliado nuestra comprensión de la evolución. El estudio de la regulación de los genes, de la formación de los organismos y de sus relaciones con el ambiente ha dado un nuevo alcance a las preguntas sobre variación, herencia y cambio evolutivo. El debate sobre una síntesis evolutiva extendida se refiere al papel que corresponde a esos procesos y a cómo integrarlos: para algunos autores esa integración requiere reorganizar el marco teórico, mientras que otros la consideran parte del desarrollo de la teoría existente (Laland et al., 2014).
+
+:::
+
+::: {#C1-B07.P051 .pasaje data-passage-id="C1-B07.P051"}
+
+Waddington había defendido ya la importancia de conectar desarrollo, ambiente y evolución, y los debates posteriores sobre estasis, jerarquía y macroevolución ampliaron esas preguntas. El equilibrio puntuado fue formulado en 1972. Su relevancia para esta discusión reside en las preguntas que abrió sobre las escalas y modalidades del cambio.
+
+En 2007, artículos de Massimo Pigliucci y Gerd B. Müller contribuyeron a hacer explícita la discusión sobre una ampliación de la síntesis y el papel de la biología evolutiva del desarrollo. Son parte de una historia plural de propuestas, y no de un reemplazo consensuado de la teoría anterior. La controversia publicada en *Nature* en 2014 permite reconocer posiciones distintas dentro de esa discusión (Pigliucci, 2007; Müller, 2007; Laland et al., 2014).
+
+:::
+
+::: {#C1-B07.P052 .pasaje data-passage-id="C1-B07.P052"}
+
+Los conceptos reunidos en esta discusión no son todos nuevos ni pertenecen en exclusiva a un mismo programa. Su interés común reside en examinar cómo se produce la variación, qué se transmite entre generaciones y cómo los organismos contribuyen a modificar las condiciones de su propia evolución. Conviene definirlos por separado antes de discutir qué relaciones mantienen.
+
+:::
+
+::: {#C1-B07.P053 .pasaje data-passage-id="C1-B07.P053"}
+
+La selección multinivel estudia situaciones en las que las diferencias de reproducción o persistencia pueden analizarse entre entidades de distintos niveles. Una ventaja dentro de un grupo no tiene por qué coincidir con una ventaja para el grupo frente a otros. El análisis exige especificar las entidades, las características heredables y la contribución diferencial correspondiente; invocar un beneficio colectivo no demuestra por sí solo selección de grupos. La selección de especies plantea problemas relacionados a una escala macroevolutiva.
+
+:::
+
+::: {#C1-B07.P054 .pasaje data-passage-id="C1-B07.P054"}
+
+La plasticidad fenotípica es la capacidad de un genotipo para producir fenotipos distintos en ambientes diferentes. Una misma planta puede modificar su crecimiento o la forma de sus hojas según las condiciones. Esa respuesta puede alterar la supervivencia, la reproducción y las variantes sobre las que actúa la selección, pero no toda plasticidad es adaptativa. Uno de los debates se refiere a cuándo una respuesta plástica facilita cambios evolutivos posteriores y cuándo amortigua la selección sobre ellos.
+
+El efecto Baldwin y la asimilación genética constituyen antecedentes de estas preguntas. La síntesis extendida recupera su interés por la relación entre respuestas plásticas y cambio hereditario, que desarrollaremos en el capítulo de morfología evolutiva (Laland et al., 2015).
+
+:::
+
+::: {#C1-B07.P055 .pasaje data-passage-id="C1-B07.P055"}
+
+La herencia epigenética transgeneracional examina la persistencia de estados reguladores a través de generaciones sin reducirla a cambios de secuencia del ADN. Como vimos, debe distinguirse de efectos sobre individuos directamente expuestos. Su relevancia evolutiva depende de la estabilidad, los mecanismos de transmisión y las consecuencias fenotípicas de cada caso. Forma parte de una discusión más amplia sobre herencia no genética, que incluye transmisión cultural y legados ambientales, sin que todos esos procesos sean equivalentes.
+
+:::
+
+::: {#C1-B07.P056 .pasaje data-passage-id="C1-B07.P056"}
+
+La construcción de nichos estudia cómo los organismos modifican condiciones que después influyen en ellos y en otros seres vivos. Una presa de castores cambia circulación del agua y hábitats; la actividad de las lombrices altera el suelo. Si esas modificaciones persisten, los descendientes pueden encontrar un ambiente configurado parcialmente por generaciones anteriores. La cuestión evolutiva consiste en determinar cómo esa retroalimentación cambia la selección y la dinámica de las poblaciones, no en atribuir intención o previsión a los organismos.
+
+:::
+
+::: {#C1-B07.P057 .pasaje data-passage-id="C1-B07.P057"}
+
+La evolucionabilidad se refiere a la capacidad de producir y transmitir variación que pueda contribuir al cambio evolutivo. Su definición y medida dependen del problema: puede estudiarse la respuesta a la selección en determinadas direcciones o la posibilidad de generar novedades a más largo plazo. No equivale a estar bien adaptado en el presente ni representa una propiedad única que pueda ordenarse sin especificar caracteres, ambientes y escalas.
+
+:::
+
+::: {#C1-B07.P058 .pasaje data-passage-id="C1-B07.P058"}
+
+La biología evolutiva del desarrollo, o evo-devo, investiga cómo los cambios y la conservación de los procesos de desarrollo se relacionan con la evolución de los fenotipos. Sus resultados permiten preguntar por qué ciertas variantes son accesibles, por qué otras son infrecuentes y cómo se originan estructuras nuevas. Los sesgos del desarrollo pueden limitar trayectorias y facilitar otras; reconocerlos no implica que la evolución esté predeterminada ni que dejen de actuar selección y deriva. Esta relación entre producción de formas y cambio evolutivo ocupará un lugar central en el capítulo de morfología.
+
+:::
+
+::: {#C1-B07.P059 .pasaje data-passage-id="C1-B07.P059"}
+
+La controversia de 2014 presenta con claridad el desacuerdo. Laland y sus colaboradores defienden que desarrollo, plasticidad, construcción de nichos y herencia ampliada deben tratarse como componentes causales centrales, no solo como resultados o condiciones secundarias. Wray, Hoekstra y sus colaboradores sostienen que la teoría actual ya puede incorporar esos fenómenos y que su importancia debe establecerse mediante modelos y pruebas, sin que una nueva denominación sea necesaria.
+
+La diferencia no consiste en que un grupo reconozca esos fenómenos y el otro los niegue, ni en que quienes cuestionan la síntesis extendida afirmen que todo está explicado. Se discute su peso causal, el alcance de las formulaciones existentes y la utilidad de una reorganización conceptual. Evaluar cada propuesta requiere estudiar qué predice, qué datos la apoyan y en qué condiciones añade capacidad explicativa (Laland et al., 2014, debate completo).
+
+:::
+
+::: {#C1-B07.P060 .pasaje data-passage-id="C1-B07.P060"}
+
+Para la paleobiología, estas discusiones son útiles cuando permiten formular preguntas sobre datos concretos: cómo se mantiene una forma, cómo se generan novedades, por qué unas ramas se diversifican y otras desaparecen, o cómo las alteraciones ambientales reorganizan ecosistemas. El registro fósil aporta la dimensión temporal para contrastarlas. Su contribución depende, a la vez, de comprender cómo se formó ese registro y de reconocer qué aspectos del pasado permite observar, el problema que abordaremos a continuación.
+
+:::
+
+::: {#C1-B07.P061 .pasaje data-passage-id="C1-B07.P061"}
+
+:::::::: {.reading-recommendation}
+Lectura recomendada
+
+Laland, K. y otros catorce autores (2014). Does evolutionary theory need a rethink? *Nature*, 514, 161–164. Debate con dos posiciones: la defensa de la síntesis extendida por Laland y colaboradores y la respuesta de Wray, Hoekstra y colaboradores. Deben leerse ambas contribuciones y distinguir sus argumentos de los datos que invocan.
+::::::::
+
+:::

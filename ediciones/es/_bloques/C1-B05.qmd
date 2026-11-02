@@ -1,0 +1,501 @@
+::: {#C1-B05.P001 .pasaje data-passage-id="C1-B05.P001"}
+
+### Elementos clave para la comprensión de la evolución en el siglo XIX {#sec-elementos-clave-para-la-comprension-de-la-evolucion-en-el-siglo-xix}
+
+:::
+
+::: {#C1-B05.P002 .pasaje data-passage-id="C1-B05.P002"}
+
+Durante el siglo XIX, el desarrollo de la anatomía comparada, la embriología, la biogeografía y la paleontología hizo cada vez más precisa una pregunta compartida: ¿cómo se relacionaban las formas de vida entre sí y a través del tiempo? Las homologías y las semejanzas embrionarias podían interpretarse como expresiones de un plan común; las sucesiones fósiles, como reemplazos de organismos. Convertir esas correspondencias en una historia de descendencia exigía un paso adicional, y explicar esa historia requería proponer mecanismos que pudieran contrastarse.
+
+:::
+
+::: {#C1-B05.P003 .pasaje data-passage-id="C1-B05.P003"}
+
+Robert Chambers (1802–1871) llevó la transformación de la naturaleza a un público muy amplio con *Vestiges of the Natural History of Creation*, publicado de forma anónima en 1844. La obra situaba el origen de las formas de vida dentro de una historia general del universo gobernada por leyes. Esto no equivalía simplemente a negar a Dios: una creación mediante leyes naturales podía formar parte de su interpretación. El libro alcanzó numerosas ediciones y suscitó críticas tanto científicas como religiosas.
+
+Chambers reunía fósiles, desarrollo y especulaciones sobre el origen de la vida. Entre estas últimas figuraban supuestas generaciones espontáneas y explicaciones químicas o eléctricas que no estaban demostradas. La popularidad de la obra hizo visibles las posibilidades de una historia transformista, pero también las dificultades de sostenerla con argumentos anatómicos y geológicos adecuados. Darwin ya trabajaba en su propia explicación antes de que apareciera *Vestiges*; su recepción le mostró la necesidad de fundamentar cuidadosamente la publicación. Wallace, por su parte, encontró en el libro un estímulo para investigar el origen de las especies (Rudwick, 1985, pp. 205–207 y 230–232).
+
+:::
+
+::: {#C1-B05.P004 .pasaje data-passage-id="C1-B05.P004"}
+
+Heinrich Georg Bronn (1800–1862) contribuyó mediante otro programa: reunir y comparar grandes cantidades de información sobre la distribución temporal de los fósiles. Sus síntesis permitían preguntar por la aparición y desaparición de especies, la diversidad y las tendencias de organización. Su importancia no depende de que aceptara la transformación de unas especies en otras, posibilidad frente a la que mantuvo reservas. Al formular regularidades a partir del registro, ayudó a establecer los problemas que tendría que explicar una teoría evolutiva. La descripción de un patrón histórico podía preparar una discusión causal sin resolverla de antemano (Rudwick, 1985, pp. 218–224).
+
+:::
+
+::: {#C1-B05.P005 .pasaje data-passage-id="C1-B05.P005"}
+
+![Retrato de Richard Owen. Imagen disponible bajo licencia Creative Commons CC0.](assets/924dfcbbdbe3.jpeg){#fig-richardowen width=50% fig-alt="Retrato de Richard Owen. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B05.P006 .pasaje data-passage-id="C1-B05.P006"}
+
+Richard Owen (1804–1892) dio una formulación precisa a una distinción que resultaba esencial para la anatomía comparada. Dos estructuras podían desempeñar una misma función y, sin embargo, corresponder a partes diferentes del cuerpo; otras podían tener formas y funciones muy distintas y conservar una organización reconocible. Owen reservó el término homología para esta segunda relación y lo diferenció de la analogía, entendida como semejanza funcional. El brazo humano, la aleta de una ballena y el ala de un ave son homólogos como miembros anteriores: pese a sus diferencias, sus elementos esqueléticos pueden ponerse en correspondencia. El ala de un ave y la de un insecto son análogas como órganos de vuelo, pero no representan un mismo miembro modificado (Owen, 1843, citado en Nelson, 2011, p. 137).
+
+Su trabajo prolongaba la búsqueda de una unidad de organización defendida por Geoffroy Saint-Hilaire y se nutría también de la anatomía alemana. El principio de las conexiones de Geoffroy ofrecía un criterio para reconocer elementos correspondientes por sus relaciones con los elementos vecinos. Owen desarrolló estas comparaciones con mayor detalle e integró sus resultados en el arquetipo de los vertebrados, presentado en 1848: un modelo ideal de organización del esqueleto. En él, la diversidad de los vertebrados podía entenderse como una serie de modificaciones de una estructura común (Rudwick, 1985, pp. 210–211; Nelson, 2011, p. 137).
+
+Hay una diferencia de vocabulario que conviene tener presente. Los «análogos» de Geoffroy eran elementos correspondientes dentro de un plan de organización, próximos a lo que después se llamaría homólogos. La analogía en el sentido delimitado por Owen se refería, en cambio, a la función compartida. La relación entre ambos autores se entiende mejor como una continuidad de problemas y criterios anatómicos, acompañada por una precisión de los conceptos, que como la sustitución de una explicación por otra completamente distinta.
+
+La descendencia común no formaba parte de aquella definición inicial de homología. Para Owen, el arquetipo expresaba un orden ideal de la naturaleza; no era la reconstrucción de un antepasado que hubiese vivido. La teoría evolutiva proporcionaría después una explicación histórica de las correspondencias: las estructuras homólogas se habrían heredado, con modificaciones, de un antepasado común. Reconocer la correspondencia anatómica y explicar su origen eran, por tanto, dos problemas relacionados, que podían plantearse por separado (Rudwick, 1985, pp. 207–211).
+
+:::
+
+::: {#C1-B05.P007 .pasaje data-passage-id="C1-B05.P007"}
+
+![Arquetipo de vertebrado según Richard Owen. Imagen disponible bajo licencia Creative Commons CC0.](assets/d8363cde01b9.jpg){#fig-vertebratearchetype width=50% fig-alt="Arquetipo de vertebrado según Richard Owen. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B05.P008 .pasaje data-passage-id="C1-B05.P008"}
+
+
+
+:::
+
+::: {#C1-B05.P009 .pasaje data-passage-id="C1-B05.P009"}
+
+
+
+:::
+
+::: {#C1-B05.P010 .pasaje data-passage-id="C1-B05.P010"}
+
+#### Charles Darwin: selección natural, geología y registro fósil {#sec-charles-darwin}
+
+:::
+
+::: {#C1-B05.P011 .pasaje data-passage-id="C1-B05.P011"}
+
+![Retrato de Charles Darwin. Imagen disponible bajo licencia Creative Commons CC0.](assets/700e4bbbaefe.jpg){#fig-charlesdarwin width=50% fig-alt="Retrato de Charles Darwin. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B05.P012 .pasaje data-passage-id="C1-B05.P012"}
+
+El viaje de Charles Darwin (1809–1882) a bordo del *Beagle*, entre 1831 y 1836, le proporcionó una experiencia directa de fenómenos geológicos y biológicos muy diversos. Los cambios del terreno, la distribución de los organismos y las relaciones entre mamíferos fósiles y actuales se convertirían en partes de un problema más amplio. La teoría no surgió ya completa de una única observación: se desarrolló después mediante cuadernos, comparación de ejemplares, lecturas, experimentos y correspondencia.
+
+:::
+
+::: {#C1-B05.P013 .pasaje data-passage-id="C1-B05.P013"}
+
+La geología de Lyell contribuyó a su manera de conectar pequeños procesos con efectos acumulados durante grandes intervalos. Sin embargo, Darwin no trasladó simplemente una ley de ritmo constante desde las rocas a los organismos. La cuestión consistía en encontrar una causa capaz de producir modificaciones y divergencia de formas, y comprobar si sus consecuencias concordaban con la variación, la distribución y la historia de la vida. Su interpretación de la evolución acabaría separándose del rechazo inicial de Lyell a la transformación de las especies (Rudwick, 1985, pp. 230–235).
+
+:::
+
+::: {#C1-B05.P014 .pasaje data-passage-id="C1-B05.P014"}
+
+Darwin distinguía dos problemas relacionados: que las especies descendieran de otras anteriores y que la selección natural contribuyera a explicar sus modificaciones adaptativas. Una teoría podía aceptar la transformación y proponer otro mecanismo; por eso la posterior aceptación de la evolución no implicó una aceptación inmediata de la selección. En *On the Origin of Species*, publicado en 1859, Darwin construyó un argumento extenso que conectaba observaciones sobre poblaciones con patrones de mucha mayor escala. La fuerza de su propuesta debía depender de la concordancia de esas evidencias, no de desacreditar como superficiales todas las explicaciones anteriores (Rudwick, 1985, pp. 234–238; Allmon, 2020, pp. 423–425).
+
+:::
+
+::: {#C1-B05.P015 .pasaje data-passage-id="C1-B05.P015"}
+
+![Portada de la edición original de 1859 de *On the origin of species* de Charles Darwin. Imagen disponible bajo licencia Creative Commons CC0.](assets/6143dce55386.jpg){#fig-originspecies width=50% fig-alt="Portada de la edición original de 1859 de On the origin of species de Charles Darwin. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B05.P016 .pasaje data-passage-id="C1-B05.P016"}
+
+La selección artificial proporcionaba una analogía y un campo de observación especialmente útil. Agricultores y criadores podían conservar variantes y modificar una población mediante la reproducción diferencial de ciertos individuos. Darwin estudió estas prácticas y realizó experimentos, en particular con palomas, para explorar el alcance de la variación. En la naturaleza no hacía falta un criador que eligiera con intención: si algunas diferencias heredables se asociaban de manera consistente con una mayor contribución a las generaciones siguientes, la composición de la población podía cambiar.
+
+La analogía no identificaba todos los detalles de ambos procesos. Permitía mostrar, sin embargo, que la acumulación de diferencias podía producir transformaciones importantes y que era necesario investigar la variación dentro de las poblaciones, además de describir las diferencias entre especies (Rudwick, 1985, pp. 234–235).
+
+:::
+
+::: {#C1-B05.P017 .pasaje data-passage-id="C1-B05.P017"}
+
+La lectura de Thomas Malthus en 1838 ayudó a Darwin a conectar la reproducción con los límites al crecimiento de las poblaciones. Los organismos pueden producir más descendientes de los que llegan a reproducirse, pero las poblaciones no aumentan indefinidamente. La disponibilidad de alimento, las condiciones físicas, los enemigos y las relaciones con otros organismos contribuyen a esa diferencia. «Lucha por la existencia» tenía para Darwin un sentido amplio, que incluía dependencias y dificultades ambientales además de enfrentamientos directos.
+
+La selección natural requiere algo más que mortalidad o competencia: diferencias entre individuos, un componente heredable y una relación entre esas diferencias y el éxito reproductivo. Los resultados son probabilísticos; no significa que sobreviva siempre el individuo que describamos como mejor adaptado ni que todos los cambios evolutivos sean adaptaciones. Cuando las diferencias heredables afectan de manera persistente a la contribución reproductiva, sus efectos pueden acumularse durante generaciones. La adecuación se refiere a condiciones concretas, que también cambian, y no a una perfección absoluta.
+
+:::
+
+::: {#C1-B05.P018 .pasaje data-passage-id="C1-B05.P018"}
+
+El tiempo geológico proporcionaba un marco para esa acumulación, pero los ritmos podían variar. Una transformación pequeña por generación puede resultar rápida a la resolución de una sucesión sedimentaria; a la inversa, una forma puede persistir durante intervalos muy prolongados. Darwin reconocía dificultades de esta clase y no debe resumirse su teoría como la obligación de que cada especie cambie siempre a una velocidad constante. El problema para la paleontología era establecer qué parte del patrón observado correspondía a la historia biológica y qué parte a la conservación y al muestreo.
+
+:::
+
+::: {#C1-B05.P019 .pasaje data-passage-id="C1-B05.P019"}
+
+El registro fósil planteaba una dificultad importante: faltaban muchas de las transiciones que cabía esperar en una historia de modificaciones graduales. Darwin explicó parte de esa ausencia por la discontinuidad de la sedimentación, la erosión, las diferencias de fosilización y el conocimiento limitado de los afloramientos. Al mismo tiempo, la sucesión de las faunas y las afinidades entre organismos de épocas distintas ofrecían evidencias con las que reconstruir su historia (Rudwick, 1985, pp. 231–238).
+
+La duración de esa historia seguía siendo una cuestión abierta. En la década de 1860, William Thomson, más tarde lord Kelvin, calculó el tiempo transcurrido desde la solidificación de la corteza terrestre suponiendo que la Tierra se había enfriado desde un estado inicialmente fundido. Su estimación de unos 98 millones de años admitía un intervalo muy amplio, de entre 20 y 400 millones, debido a la incertidumbre de los datos y supuestos empleados. Incluso ese límite superior parecía restringir severamente los tiempos que Darwin y Lyell consideraban necesarios. La controversia enfrentaba así dos maneras de estimar el pasado: reconstruir la acumulación de procesos geológicos y biológicos o calcular la historia térmica del planeta mediante modelos físicos (Rudwick, 1985, pp. 257–259).
+
+:::
+
+::: {#C1-B05.P020 .pasaje data-passage-id="C1-B05.P020"}
+
+##### El argumento de El origen de las especies: los catorce capítulos de 1859 {#sec-resumen-de-los-capitulos-de-el-origen-de-las-especies}
+
+:::
+
+::: {#C1-B05.P021 .pasaje data-passage-id="C1-B05.P021"}
+
+El capítulo I, sobre la variación en domesticación, presenta las diferencias entre razas y variedades y el efecto de la selección por los criadores. Perros, palomas y plantas cultivadas muestran que la variación y su acumulación no son posibilidades puramente imaginarias. La selección artificial sirve como punto de partida para una explicación que después deberá trasladarse, con sus diferencias, a condiciones naturales.
+
+:::
+
+::: {#C1-B05.P022 .pasaje data-passage-id="C1-B05.P022"}
+
+El capítulo II, dedicado a la variación en la naturaleza, aborda las diferencias entre individuos, variedades y especies. La dificultad práctica de delimitar esas categorías forma parte del argumento: las especies no aparecen como entidades sin variación, y las variedades pueden ofrecer información sobre los primeros pasos de la divergencia. Esa variabilidad proporciona el material sobre el que podrá actuar la selección.
+
+:::
+
+::: {#C1-B05.P023 .pasaje data-passage-id="C1-B05.P023"}
+
+El capítulo III desarrolla la lucha por la existencia. La capacidad de aumento de las poblaciones contrasta con las limitaciones que impiden un crecimiento indefinido. Darwin examina competencia, condiciones físicas y relaciones entre organismos, utilizando «lucha» en un sentido que rebasa el combate directo. El argumento prepara la pregunta por las consecuencias de las diferencias heredables en ese contexto.
+
+:::
+
+::: {#C1-B05.P024 .pasaje data-passage-id="C1-B05.P024"}
+
+El capítulo IV presenta la selección natural y sus consecuencias. Las variantes favorables en determinadas condiciones pueden dejar más descendencia, mientras otras disminuyen. Darwin relaciona ese proceso con la divergencia de caracteres y con la extinción, de manera que la historia resultante puede ramificarse en lugar de formar una cadena lineal. La selección explica modificaciones adaptativas sin una decisión consciente ni una meta futura.
+
+:::
+
+::: {#C1-B05.P025 .pasaje data-passage-id="C1-B05.P025"}
+
+El capítulo V examina las llamadas leyes de la variación. Darwin reconoce que sus causas no se conocen suficientemente y discute condiciones de vida, uso y desuso, correlación del crecimiento y reversión, entre otros problemas. Este capítulo permite distinguir su propuesta histórica del conocimiento genético posterior: no toda explicación de herencia o variación que admitía se identifica con la selección natural.
+
+:::
+
+::: {#C1-B05.P026 .pasaje data-passage-id="C1-B05.P026"}
+
+El capítulo VI reúne dificultades de la teoría, entre ellas las transiciones entre modos de vida, la escasez de formas intermedias y el origen de estructuras complejas como el ojo. Darwin plantea cómo funciones y grados de organización diferentes pueden relacionarse mediante pasos útiles en sus respectivas condiciones. No basta con imaginar una serie: la explicación debe considerar su viabilidad y contrastarse con los organismos conocidos.
+
+:::
+
+::: {#C1-B05.P027 .pasaje data-passage-id="C1-B05.P027"}
+
+El capítulo VII de esta primera edición trata del instinto. Darwin explora si comportamientos complejos, como los de las abejas constructoras de panales, pueden modificarse y adquirir una historia evolutiva. También examina dificultades particulares, como los insectos sociales con individuos estériles. El objetivo es extender el problema de la modificación heredable a caracteres que no se reducen a la anatomía externa.
+
+:::
+
+::: {#C1-B05.P028 .pasaje data-passage-id="C1-B05.P028"}
+
+El capítulo VIII, sobre hibridismo, compara los resultados de cruzar especies y variedades. La esterilidad no aparece como una frontera simple e invariable: importa distinguir la dificultad del primer cruzamiento de la fertilidad de los híbridos y reconocer variaciones entre casos. Darwin discute hasta qué punto estas propiedades permiten sostener una diferencia esencial entre especie y variedad.
+
+:::
+
+::: {#C1-B05.P029 .pasaje data-passage-id="C1-B05.P029"}
+
+El capítulo IX aborda la imperfección del registro geológico. La formación de depósitos, su destrucción y el conocimiento parcial de los fósiles restringen las secuencias que podemos observar. Darwin utiliza esas limitaciones para explicar por qué faltan numerosas transiciones, una pieza fundamental de su defensa frente a las apariciones aparentemente súbitas.
+
+:::
+
+::: {#C1-B05.P030 .pasaje data-passage-id="C1-B05.P030"}
+
+El capítulo X estudia la sucesión geológica de los seres orgánicos. En lugar de centrarse solo en lo que falta, considera patrones que pueden concordar con la descendencia: extinción, reemplazo de grupos y afinidades entre formas de momentos próximos. La relación entre organismos extintos y actuales constituye una evidencia histórica que la teoría debe explicar.
+
+:::
+
+::: {#C1-B05.P031 .pasaje data-passage-id="C1-B05.P031"}
+
+El capítulo XI inicia el estudio de la distribución geográfica. Las semejanzas y diferencias entre regiones no se explican únicamente por su clima presente. Darwin examina barreras, dispersión y cambios geográficos para relacionar la ocupación de los territorios con una historia de descendencia y movimiento.
+
+:::
+
+::: {#C1-B05.P032 .pasaje data-passage-id="C1-B05.P032"}
+
+El capítulo XII continúa esa discusión, con atención a organismos de agua dulce e islas oceánicas. La afinidad con las regiones de procedencia, la ausencia de ciertos grupos y las posibilidades de dispersión deben interpretarse conjuntamente. Un parecido ambiental no garantiza una fauna idéntica, y una distribución actual puede conservar señales de acontecimientos pasados.
+
+:::
+
+::: {#C1-B05.P033 .pasaje data-passage-id="C1-B05.P033"}
+
+El capítulo XIII reúne clasificación, morfología, embriología y órganos rudimentarios. Las homologías y las afinidades pueden entenderse como consecuencias de la descendencia común, y los caracteres conservados durante el desarrollo o reducidos en el adulto adquieren un significado histórico. La genealogía proporciona así una explicación que conecta observaciones antes tratadas en campos separados.
+
+:::
+
+::: {#C1-B05.P034 .pasaje data-passage-id="C1-B05.P034"}
+
+El capítulo XIV recapitula el argumento. Darwin compara las dificultades pendientes con la capacidad explicativa de la descendencia con modificación y la selección natural. La conclusión depende de la convergencia de evidencias de variación, distribución, organización y sucesión temporal; la fuerza del conjunto no exige que cada detalle de su propuesta histórica permanezca inalterado en la biología posterior.
+
+:::
+
+::: {#C1-B05.P035 .pasaje data-passage-id="C1-B05.P035"}
+
+#### Alfred Russel Wallace: el descubrimiento independiente de la selección natural {#sec-alfred-russel-wallace-el-descubrimiento-independiente-de-la-seleccion-natural}
+
+:::
+
+::: {#C1-B05.P036 .pasaje data-passage-id="C1-B05.P036"}
+
+![Retrato de Alfred Russel Wallace.](assets/d62c03f5db92.jpg){#fig-alfredwallace width=50%}
+
+:::
+
+::: {#C1-B05.P037 .pasaje data-passage-id="C1-B05.P037"}
+
+Alfred Russel Wallace (1823–1913), naturalista nacido en Gales, desarrolló de manera independiente una explicación de la selección natural. Su investigación en el archipiélago malayo lo llevó a relacionar distribución geográfica, afinidades y sucesión de especies. En 1855 ya había formulado una regularidad: las especies aparecían en proximidad espacial y temporal a otras estrechamente relacionadas. Esa generalización sobre el patrón precedió a su propuesta del mecanismo selectivo (Rudwick, 1985, pp. 226–227).
+
+:::
+
+::: {#C1-B05.P038 .pasaje data-passage-id="C1-B05.P038"}
+
+Darwin había alcanzado la idea de selección en 1838 y la había desarrollado en un bosquejo de 1842 y un ensayo de 1844. Desde 1856 trabajaba en un tratado extenso sobre selección natural. En 1858 recibió un ensayo de Wallace que proponía un mecanismo muy semejante. La llegada del texto precipitó una publicación conjunta de materiales, mientras el tratado de Darwin quedó interrumpido y dio paso al argumento abreviado de *El origen de las especies* (Rudwick, 1985, pp. 226–227 y 230–235).
+
+:::
+
+::: {#C1-B05.P039 .pasaje data-passage-id="C1-B05.P039"}
+
+Charles Lyell y Joseph Dalton Hooker organizaron la comunicación presentada a la Linnean Society de Londres el 1 de julio de 1858. Reunía extractos del ensayo de Darwin de 1844, parte de su carta a Asa Gray de 1857 y el ensayo de Wallace. La publicación reconocía que ambos naturalistas habían llegado de forma independiente a una explicación afín. La organización de esa comunicación, las pruebas de formulación anterior y las circunstancias de sus autores forman parte de la historia del reconocimiento científico; su publicación dependió de una iniciativa mediada por colegas y de las redes de comunicación de la época (Hooker y Lyell, 1858).
+
+:::
+
+::: {#C1-B05.P040 .pasaje data-passage-id="C1-B05.P040"}
+
+El episodio permite reconocer aportaciones independientes sin hacerlas idénticas en todos sus desarrollos posteriores. Darwin elaboró en 1859 una extensa defensa de la descendencia con modificación, mientras Wallace continuó investigando evolución y biogeografía. La referencia al principio de Darwin y Wallace resulta apropiada para recordar la formulación independiente de la selección natural; la evaluación de sus propuestas exige, además, distinguir el mecanismo compartido de las diferencias que mantuvieron sobre otros aspectos de la evolución.
+
+:::
+
+::: {#C1-B05.P041 .pasaje data-passage-id="C1-B05.P041"}
+
+#### Al-Jahiz: historia natural e interpretaciones de la transformación de los seres vivos {#sec-al-jahiz-raices-historicas-de-la-seleccion-natural}
+
+:::
+
+::: {#C1-B05.P042 .pasaje data-passage-id="C1-B05.P042"}
+
+![Representación de al-Jahiz.](assets/94fd4730110c.png){#fig-aljahiz width=50%}
+
+:::
+
+::: {#C1-B05.P043 .pasaje data-passage-id="C1-B05.P043"}
+
+La observación de los animales y la reflexión sobre sus cambios habían florecido también en otras tradiciones intelectuales. En el mundo islámico medieval, las traducciones de obras griegas, los intercambios entre regiones y el desarrollo de una extensa cultura escrita favorecieron nuevas discusiones sobre la naturaleza. En ese ambiente surgió una obra de singular amplitud: el *Libro de los animales* de al-Jahiz, donde la vida animal se entrelaza con la literatura, la filosofía y la teología (Álvarez, 2007, pp. 25–27).
+
+:::
+
+::: {#C1-B05.P044 .pasaje data-passage-id="C1-B05.P044"}
+
+Abu Uthman Amr ibn Bahr al-Jahiz nació en Basora, en el actual Irak, hacia 776 y murió en 868 o 869. Su trayectoria transcurrió entre Basora y Bagdad, en el periodo abasí, y estuvo vinculada al ambiente de discusión racional de la teología mutazilí. Escribió sobre lengua, retórica, religión y naturaleza para lectores de intereses muy diversos. La observación de animales, las noticias de viajeros y la lectura de autores anteriores alimentaron una prosa que alternaba argumentaciones, relatos y digresiones para mantener el interés de su público (Álvarez, 2007, pp. 25–27).
+
+:::
+
+::: {#C1-B05.P045 .pasaje data-passage-id="C1-B05.P045"}
+
+El *Kitab al-Hayawan*, o *Libro de los animales*, se conserva en una edición organizada en siete volúmenes. Según la síntesis de Álvarez, reúne noticias sobre más de 350 especies e incluye cuestiones tan diversas como la alimentación, la reproducción, los sentidos, la comunicación, el parasitismo o la domesticación. Una observación sobre el comportamiento puede dar paso a un poema, una discusión del significado de una palabra o una controversia filosófica. Esa composición responde a una forma de cultura escrita en la que el conocimiento de la naturaleza compartía espacio con la formación literaria y la reflexión moral.
+
+La obra recoge observaciones propias y noticias transmitidas por otras personas, junto con materiales de Aristóteles, Galeno y diversas tradiciones árabes. Su interés por los animales abarca tanto la estructura del cuerpo como las relaciones entre organismos: cómo obtienen alimento, construyen refugios, cuidan sus crías o responden a otros animales. Esta amplitud permite reconocer problemas que hoy estudiaríamos desde la zoología, la etología y la ecología, aunque las categorías y explicaciones de al-Jahiz pertenecieran a su propio contexto intelectual (Álvarez, 2007, p. 27).
+
+:::
+
+::: {#C1-B05.P045a .pasaje data-passage-id="C1-B05.P045a"}
+
+Las relaciones de alimentación ocupan un lugar especialmente sugerente. Los animales necesitan capturar o encontrar otros seres para vivir y, a su vez, pueden convertirse en alimento. La depredación enlaza así la suerte de unas formas con la de otras. Los refugios, las defensas y las distintas maneras de conseguir alimento ayudan a explicar diferencias de supervivencia. Álvarez interpreta estas descripciones como una aproximación temprana a las redes tróficas y a la lucha por la existencia, extendida tanto a las relaciones entre especies como a los miembros de una misma especie (Álvarez, 2007, p. 28).
+
+Para apreciar el alcance de la comparación con Darwin conviene seguir un paso más. La depredación o la escasez pueden producir diferencias de mortalidad; la selección natural explica un cambio evolutivo cuando diferencias heredables entre individuos se relacionan con su contribución a las generaciones siguientes. Una descripción de quién se alimenta de quién puede mostrar interdependencia y presiones sobre la supervivencia sin desarrollar todavía esa explicación del cambio hereditario. La distinción permite reconocer el valor de las observaciones ecológicas y precisar qué añade una teoría de la evolución por selección.
+
+:::
+
+::: {#C1-B05.P045b .pasaje data-passage-id="C1-B05.P045b"}
+
+Otro eje de la interpretación de Álvarez es la acción del ambiente. Su artículo reúne pasajes sobre la influencia del clima, el alimento, el agua o el lugar de residencia en los rasgos de animales y seres humanos, y los relaciona con una posible transformación de las especies. También considera que ciertas agrupaciones de animales por sus semejanzas podrían apuntar hacia relaciones de origen. Leídos conjuntamente, esos temas le llevan a proponer un «esbozo evolucionista» en el que el ambiente produciría variaciones y la lucha por la supervivencia favorecería a los organismos mejor dotados (Álvarez, 2007, pp. 27–28).
+
+Esta lectura plantea una cuestión histórica interesante: qué significa cambiar en cada uno de esos pasajes. Una modificación del individuo por las condiciones de vida, una metamorfosis narrada por la tradición y una transformación hereditaria entre generaciones son procesos diferentes. También lo son ordenar los animales por semejanzas y reconstruir su descendencia. El vocabulario de la transformación puede acercar esas cuestiones, pero su relación debe establecerse atendiendo a los argumentos y al contexto de cada texto.
+
+:::
+
+::: {#C1-B05.P046 .pasaje data-passage-id="C1-B05.P046"}
+
+Malik (2019) cuestiona esta interpretación mediante un examen del contexto y la traducción de los pasajes. Un caso central es *miskh*, presentado en una de las lecturas evolucionistas como una forma ancestral de cuadrúpedo. Según su análisis, el término alude aquí a una metamorfosis, vinculada con relatos de castigo divino; además, al-Jahiz está exponiendo opiniones ajenas. El pasaje no permite atribuirle sin más una genealogía de los animales. Malik reconoce el interés de sus observaciones sobre la naturaleza, pero rechaza que los textos examinados formulen una teoría de transformación de las especies (Malik, 2019, pp. 512–515).
+
+:::
+
+::: {#C1-B05.P047 .pasaje data-passage-id="C1-B05.P047"}
+
+![Páginas de *El Libro de los Animales* de Al-Jahiz. Imagen disponible bajo licencia Creative Commons CC0.](assets/74c9d4789e96.jpg){#fig-libroaljahiz width=50% fig-alt="Páginas de El Libro de los Animales de Al-Jahiz. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B05.P048 .pasaje data-passage-id="C1-B05.P048"}
+
+El *Libro de los animales* ocupa así un lugar propio en la historia del conocimiento de la vida: reúne observaciones de comportamiento y relaciones alimentarias, compara seres vivos e investiga el papel de las condiciones en que viven. Su composición literaria muestra, además, una manera de transmitir ese conocimiento a públicos amplios. Las discusiones actuales sobre su relación con la evolución ayudan a distinguir el interés de esas observaciones del alcance de sus explicaciones. Tampoco se ha establecido que Darwin conociera la obra o se apoyara en ella al formular la selección natural, posibilidad que el propio Álvarez considera insuficientemente fundada (Álvarez, 2007, pp. 28–29).
+
+:::
+
+::: {#C1-B05.P048a .pasaje data-passage-id="C1-B05.P048a"}
+
+##### Nasir al-Din al-Tusi y la gradación de los seres {#sec-al-tusi-gradacion-seres}
+
+:::
+
+::: {#C1-B05.P048b .pasaje data-passage-id="C1-B05.P048b"}
+
+Siglos después, el filósofo y científico persa Nasir al-Din al-Tusi (1201–1274) trató la diversidad natural en su *Akhlaq-i Nasiri*, una obra de ética, economía doméstica y política compuesta hacia 1235. Su primera parte reelaboraba la tradición de Ibn Miskawayh y situaba al ser humano dentro de una explicación más amplia del orden de la naturaleza. Las relaciones entre los seres servían para comprender las facultades humanas y las posibilidades de su perfeccionamiento moral (Madelung, 1985/2011).
+
+En ese marco aparecen gradaciones entre minerales, plantas, animales y seres humanos, así como transformaciones de los cuerpos por sus interacciones y por condiciones como el calor o el frío. Los rasgos defensivos y las capacidades de los animales ofrecen ejemplos de adecuación a distintas formas de vida: unos disponen de órganos de defensa y otros recurren a la rapidez o la astucia. Estas ideas han dado lugar a interpretaciones evolucionistas que destacan el cambio, la diversidad de capacidades y las diferencias de supervivencia (Sönmez, 2018).
+
+:::
+
+::: {#C1-B05.P048c .pasaje data-passage-id="C1-B05.P048c"}
+
+La gradación de capacidades y el perfeccionamiento no equivalen, por sí solos, a una historia de descendencia entre especies. Incluso Sönmez, que defiende la proximidad de algunas ideas de al-Tusi a la evolución, reconoce la dificultad de deducir una transformación de unas especies en otras a partir de la continuidad entre sus grados de organización. El interés histórico del caso reside en esa articulación entre cambios de la materia, diversidad de los organismos y jerarquía de facultades. Compararla con una teoría evolutiva exige preguntar si explica el origen de nuevas formas mediante generaciones de descendientes y cómo se produciría ese cambio (Sönmez, 2018).
+
+:::
+
+::: {#C1-B05.P049 .pasaje data-passage-id="C1-B05.P049"}
+
+Lecturas recomendadas
+
+Álvarez, F. (2007). «El Libro de los Animales» de al-Jahiz, un esbozo evolucionista del siglo IX. *eVOLUCIÓN*, 2(1), 25–29. Introducción breve en español al autor, a su obra y a su interpretación como antecedente evolucionista.
+
+Como contrapunto, el apartado sobre al-Jahiz de Malik (2019, pp. 512–515) permite examinar cómo la traducción y el contexto de un pasaje pueden modificar una interpretación histórica.
+
+:::
+
+::: {#C1-B05.P049a .pasaje data-passage-id="C1-B05.P049a"}
+
+#### Tradiciones chinas: transformación de la naturaleza y recepción del evolucionismo {#sec-tradiciones-chinas-evolucionismo}
+
+:::
+
+::: {#C1-B05.P049b .pasaje data-passage-id="C1-B05.P049b"}
+
+En China, la reflexión sobre la naturaleza también concedió un lugar central al cambio y a las relaciones entre los seres. El *Zhuangzi*, una obra compuesta por materiales de distintas épocas y asociada al pensador Zhuang Zhou, del siglo IV a. C., ofrece relatos en los que las formas de vida se transforman unas en otras. Su interés se inscribe en preguntas sobre la vida, la muerte y la posición humana en una naturaleza en transformación. La semejanza de algunos de sus temas con los de la biología evolutiva despertaría especial atención entre los intelectuales chinos de finales del siglo XIX y comienzos del XX (Liu, 2016, pp. 46–51; Chapman, 2017).
+
+:::
+
+::: {#C1-B05.P049c .pasaje data-passage-id="C1-B05.P049c"}
+
+Uno de los pasajes más comentados, al final del capítulo «La felicidad suprema», describe una sucesión de transformaciones entre plantas, pequeños animales y otras formas de vida que termina por incluir a los seres humanos y regresar al punto de partida. En esa secuencia se mezclan observaciones, asociaciones y cambios que hoy no interpretaríamos como procesos de reproducción o descendencia. Su forma circular expresa una continuidad de la naturaleza que desborda las fronteras entre sus distintos seres. El significado de los términos antiguos y el propósito del relato resultan esenciales para comprender por qué esa continuidad no puede identificarse automáticamente con un árbol genealógico de especies (Shen, 2014, pp. 51–52; Chapman, 2017, pp. 64–65).
+
+También las tradiciones del *Yijing*, o *Libro de los cambios*, y del pensamiento neoconfuciano ofrecían concepciones dinámicas del orden natural. Sin embargo, las ideas de generación, transformación y perfeccionamiento podían referirse tanto a la organización del cosmos como a la formación moral del ser humano. Ese trasfondo proporcionó un lenguaje desde el que interpretar el evolucionismo moderno, con coincidencias y diferencias que influyeron en su recepción (Shen, 2014, pp. 51–54).
+
+:::
+
+::: {#C1-B05.P049d .pasaje data-passage-id="C1-B05.P049d"}
+
+Yan Fu (1854–1921) desempeñó un papel decisivo en esa recepción. Su *Tianyanlun*, publicado en 1898 a partir de *Evolution and Ethics* de Thomas Henry Huxley, difundió ideas sobre evolución y competencia en un momento de intensa preocupación por el futuro de China. La traducción incorporaba comentarios y referencias a la tradición china, y dialogaba con el pensamiento de Herbert Spencer. La lucha por la existencia se convirtió así en una imagen con la que pensar también la competencia entre sociedades y la necesidad de reformas. La teoría biológica adquiría significados políticos y morales ligados a las circunstancias de sus nuevos lectores (Shen, 2014, pp. 49–50 y 55–57; Chapman, 2017).
+
+Otra vía de incorporación fue la traducción de *El origen de las especies* realizada por Ma Junwu (1881–1940), publicada en 1920. Shen destaca su atención a la precisión del vocabulario biológico y a la estructura del argumento de Darwin. El contraste entre ambas empresas muestra que la circulación de una teoría requería construir términos, elegir equivalencias y decidir qué relaciones establecer con los conocimientos anteriores (Shen, 2014, pp. 57–58).
+
+:::
+
+::: {#C1-B05.P049e .pasaje data-passage-id="C1-B05.P049e"}
+
+Hu Shi (1891–1962) llevó esa conversación con los clásicos al terreno de la historia de la filosofía. Influido por el evolucionismo y por el pragmatismo de John Dewey, interpretó el *Laozi* y el *Zhuangzi* mediante problemas de su tiempo. En los pasajes sobre transformación del *Zhuangzi* creyó reconocer una explicación temprana del origen de las formas de vida. Al mismo tiempo, criticó lo que consideraba una aceptación pasiva del curso de la naturaleza, incompatible con el esfuerzo de reforma que juzgaba necesario. Su lectura relacionaba, por tanto, una interpretación de la historia natural con un proyecto de intervención en la sociedad (Liu, 2016, pp. 46–51; Chapman, 2017, pp. 64–67).
+
+Estas interpretaciones suscitaron objeciones por proyectar categorías modernas sobre textos de otro contexto. Liu analiza la tensión entre la búsqueda de antecedentes y los intereses de modernización que guiaban a Hu Shi. Li recoge, además, su revisión autocrítica de 1958, cuando reconoció las dificultades de haber interpretado cambios cíclicos como evolución biológica. El episodio permite seguir dos historias relacionadas: la de las reflexiones antiguas sobre la transformación y la de los nuevos significados que adquirieron al entrar en contacto con la teoría evolutiva moderna (Liu, 2016, pp. 46–51; Li, 2026, pp. 25–27).
+
+:::
+
+::: {#C1-B05.P049f .pasaje data-passage-id="C1-B05.P049f"}
+
+Lecturas recomendadas
+
+Shen, T.-s. V. (2014). Evolutionism through Chinese Eyes: Yan Fu, Ma Junwu and Their Translations of Darwinian Evolutionism. *ASIANetwork Exchange*, 22(1), 49–60. Ampliación general sobre traducción, tradición intelectual y recepción de la evolución.
+
+Para profundizar en la reinterpretación de los clásicos, pueden consultarse el capítulo 2 de Liu (2016, pp. 46–58) o el estudio de Chapman (2017). Son lecturas complementarias de historia intelectual.
+
+:::
+
+::: {#C1-B05.P050 .pasaje data-passage-id="C1-B05.P050"}
+
+### La recepción de la teoría de la evolución por parte de los paleontólogos del siglo XIX {#sec-la-recepcion-de-la-teoria-de-la-evolucion-por-parte-de-los-paleontologos-del-siglo-xix}
+
+:::
+
+::: {#C1-B05.P051 .pasaje data-passage-id="C1-B05.P051"}
+
+La recepción paleontológica de la evolución fue diversa. Aceptar que los organismos descendían de formas anteriores no resolvía automáticamente cómo se habían producido las transformaciones, y los fósiles podían apoyar una sucesión genealógica sin identificar por sí solos su mecanismo. Muchos paleontólogos aceptaron la descendencia con modificación y mantuvieron reservas ante la selección natural. Esa distinción permite entender la coexistencia de investigaciones evolutivas con explicaciones que después perderían aceptación (Allmon, 2020, pp. 423–425).
+
+:::
+
+::: {#C1-B05.P052 .pasaje data-passage-id="C1-B05.P052"}
+
+![Retrato de Thomas Huxley. Imagen disponible bajo licencia Creative Commons CC0.](assets/e3894ff49260.jpg){#fig-thomashuxley width=50% fig-alt="Retrato de Thomas Huxley. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B05.P053 .pasaje data-passage-id="C1-B05.P053"}
+
+Thomas Henry Huxley (1825–1895) defendió públicamente la evolución, pero no compartió sin reservas todos los compromisos de Darwin. Señaló el valor de buscar conexiones entre grandes grupos y examinó qué podían mostrar los fósiles y la anatomía. Su intervención ayuda a separar la evidencia de parentesco de la exigencia de una secuencia continua en cada sucesión estratigráfica. La expresión «bulldog de Darwin» resume una faceta de su actuación pública, pero no sustituye la evaluación de sus argumentos y desacuerdos (Rudwick, 1985, capítulo 5).
+
+:::
+
+::: {#C1-B05.P054 .pasaje data-passage-id="C1-B05.P054"}
+
+Los ejemplares de *Archaeopteryx* de las calizas del entorno de Solnhofen, en Alemania, adquirieron una importancia excepcional tras los hallazgos de 1861. Proceden del Jurásico tardío, de hace unos 150 millones de años, y conservan una combinación de caracteres muy reveladora: alas con largas plumas, junto con dientes y una extensa cola ósea. Su anatomía abrió nuevas posibilidades de comparar las aves con otros reptiles fósiles y proporcionó uno de los casos más influyentes en las discusiones sobre formas transicionales.
+
+En la reconstrucción filogenética actual, las aves pertenecen a los dinosaurios terópodos. *Archaeopteryx* documenta una etapa temprana de la diversificación de formas próximas al origen de las aves, en la que coexistían rasgos presentes en las aves actuales y otros heredados de sus antepasados terópodos. La comparación de sus caracteres con los de otros dinosaurios emplumados permite investigar cómo se configuraron el esqueleto y el plumaje asociados al vuelo.
+
+:::
+
+::: {#C1-B05.P055 .pasaje data-passage-id="C1-B05.P055"}
+
+![Ejemplar de *Archaeopteryx lithographica* del Museum für Naturkunde de Berlín. Imagen disponible bajo licencia Creative Commons CC0.](assets/cb75589e6f76.jpg){#fig-archaeopteryxlithographica width=50% fig-alt="Ejemplar de Archaeopteryx lithographica del Museum für Naturkunde de Berlín. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B05.P056 .pasaje data-passage-id="C1-B05.P056"}
+
+Albert Gaudry (1827–1908) encontró en los mamíferos del Mioceno superior de Pikermi, en Grecia, materiales para construir hipótesis de filiación. Los restos de *Hipparion* reducían diferencias entre caballos actuales y otros perisodáctilos fósiles. La abundancia de ejemplares permitía, además, reconocer variación dentro de una misma forma y advertir que muestras pequeñas podían multiplicar artificialmente los nombres de especies.
+
+Al relacionar anatomía, sucesión estratigráfica y variación, Gaudry elaboró algunas de las primeras genealogías paleontológicas apoyadas en conjuntos abundantes de fósiles. Sus árboles organizaban relaciones que podrían revisarse con nuevos descubrimientos. La aceptación de la descendencia con modificación coexistía en su pensamiento con reservas ante el papel que Darwin atribuía a la selección natural (Rudwick, 1985, p. 246).
+
+:::
+
+::: {#C1-B05.P057 .pasaje data-passage-id="C1-B05.P057"}
+
+Othniel Charles Marsh (1831–1899) amplió el conocimiento de los équidos de Norteamérica y propuso conexiones entre formas de edades diferentes. Sus secuencias influyeron en Huxley y favorecieron explicaciones biogeográficas sobre la relación entre fósiles europeos y americanos. Constituían hipótesis concretas que podían modificarse con nuevos hallazgos, en lugar de depender únicamente de la ausencia de registro.
+
+La evolución de los caballos se representa hoy mediante un árbol con múltiples ramas, coexistencias y extinciones. Los cambios de talla, dentición y locomoción no avanzaron de una manera única hacia *Equus*. Algunas ramas aumentaron de tamaño, otras conservaron tallas semejantes y otras disminuyeron. La riqueza del registro mantiene su valor como evidencia evolutiva, pero obliga a sustituir las antiguas escaleras lineales por una historia de diversificación (Rudwick, 1985, p. 252; MacFadden, 2005).
+
+:::
+
+::: {#C1-B05.P058 .pasaje data-passage-id="C1-B05.P058"}
+
+Las transiciones entre especies planteaban un problema complementario al de las conexiones entre grandes grupos. Había que seguir variaciones de caracteres en sucesiones bien ordenadas y distinguirlas de cambios de ambiente, diferencias de muestreo o reemplazos por inmigración. La calidad de la muestra y la resolución temporal condicionaban qué tipo de inferencia podía hacerse. La falta de una serie continua en muchos yacimientos no impedía investigar aquellos en los que la conservación y el muestreo eran más favorables (Allmon, 2020, pp. 427 y 431–432).
+
+:::
+
+::: {#C1-B05.P059 .pasaje data-passage-id="C1-B05.P059"}
+
+Melchior Neumayr (1845–1890) estudió moluscos continentales del Neógeno de Europa central y oriental. En el trabajo publicado con Carl Maria Paul en 1875 sobre las capas de Congeria y Paludina de Eslavonia, ordenó formas de conchas en sucesiones que interpretó como transformaciones evolutivas. El interés residía en conectar diferencias morfológicas con una secuencia estratigráfica, y no solo en reunir especies de parecido general.
+
+Estos estudios figuran entre los primeros intentos influyentes de documentar series evolutivas a escala de especie. Su importancia histórica no convierte cada filiación propuesta en una conclusión definitiva: una sucesión de formas necesita contrastarse con su contexto ambiental, variación y continuidad de muestreo (Rudwick, 1985, p. 255).
+
+:::
+
+::: {#C1-B05.P060 .pasaje data-passage-id="C1-B05.P060"}
+
+![Lámina ilustrando moluscos de agua dulce del trabajo de Melchior Neumayr. Imagen disponible bajo licencia Creative Commons CC0.](assets/a351083b047f.png){#fig-melchiorneumayr width=50% fig-alt="Lámina ilustrando moluscos de agua dulce del trabajo de Melchior Neumayr. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B05.P061 .pasaje data-passage-id="C1-B05.P061"}
+
+Arthur Rowe (1858–1926) publicó en 1899 un estudio de *Micraster* basado en unos dos mil ejemplares de la creta británica. Su análisis siguió cambios morfológicos a través de una sucesión e incorporó descripciones cuantitativas y una documentación fotográfica destacada para su tiempo. El trabajo permitió plantear relaciones entre formas sucesivas con una muestra mucho más amplia que la disponible en numerosas descripciones anteriores.
+
+Allmon subraya una distinción relevante: Rowe documentó patrones, sin ofrecer una demostración de su mecanismo. Investigaciones posteriores, apoyadas en nuevas colecciones, mostraron una historia más compleja que la aceptada durante décadas. El caso ilustra tanto el potencial del registro para estudiar evolución como la necesidad de revisar tendencias que una comunidad científica puede haber terminado tratando como evidentes (Allmon, 2020, pp. 431–432).
+
+:::
+
+::: {#C1-B05.P062 .pasaje data-passage-id="C1-B05.P062"}
+
+![Lámina ilustrando relaciones de descendencia entre equinoideos en el trabajo de Arthur Rowe. Imagen tomada de Allmon (2020).](assets/534f2bf1b87a.png){#fig-arthurrowe width=50% fig-alt="Lámina ilustrando relaciones de descendencia entre equinoideos en el trabajo de Arthur Rowe. Imagen tomada de Allmon (2020)."}
+
+:::
+
+::: {#C1-B05.P063 .pasaje data-passage-id="C1-B05.P063"}
+
+Las conexiones entre los grandes grupos resultaban todavía más difíciles de reconstruir. Durante el siglo XIX se consideró que el metamorfismo podía haber destruido posibles testimonios precámbricos, y los primeros animales conocidos parecían presentar ya organizaciones muy diferenciadas. La anatomía y la embriología ofrecían correspondencias, pero no resolvían por sí solas todas las relaciones genealógicas.
+
+No todos los hallazgos propuestos como solución resistieron el contraste. Las estructuras canadienses llamadas *Eozoon*, defendidas durante un tiempo como fósiles muy antiguos, resultaron de origen inorgánico y metamórfico. Por tanto, no debe contarse el descubrimiento decimonónico de esos supuestos organismos como la confirmación de antepasados de los filos animales. El registro precámbrico que hoy conocemos se desarrolló mediante investigaciones posteriores y requiere distinguir grupos troncales, grupos corona y combinaciones de caracteres, cuestiones que retomaremos al estudiar la evolución de los planes corporales (Rudwick, 1985, pp. 255–258; Olson, 1981).
+
+:::
+
+::: {#C1-B05.P064 .pasaje data-passage-id="C1-B05.P064"}
+
+Lecturas recomendadas
+
+Allmon, W. D. (2020). Invertebrate paleontology and evolutionary thinking in the US and Britain, 1860–1940. *Journal of the History of Biology*, 53, 423–450. Lectura principal para distinguir aceptación de la descendencia, propuestas de mecanismo y uso de tendencias fósiles.
+
+Olson, E. C. (1981). The problem of missing links: today and yesterday. *The Quarterly Review of Biology*, 56(4), 405–442. Ampliación histórica sobre el problema de los eslabones. Sus afirmaciones sobre el registro disponible deben situarse en 1981 y no sustituir las revisiones actuales.
+
+:::

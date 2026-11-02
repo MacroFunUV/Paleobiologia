@@ -1,0 +1,455 @@
+::: {#C1-B04.P001 .pasaje data-passage-id="C1-B04.P001"}
+
+### El siglo XVIII: cambios en la perspectiva de los fósiles y la influencia de la teología natural {#sec-el-siglo-xviii-cambios-en-la-perspectiva-de-los-fosiles-y-la-influencia-de-la-teologia-natural}
+
+:::
+
+::: {#C1-B04.P002 .pasaje data-passage-id="C1-B04.P002"}
+
+Durante el siglo XVIII, la acumulación de descripciones y las comparaciones con organismos actuales favorecieron la aceptación del origen orgánico de un conjunto cada vez mayor de fósiles. Las dificultades no desaparecieron a la vez para todos los grupos: una concha bien conservada resultaba más fácil de reconocer que un belemnite o un fragmento aislado de crinoideo. El problema fue pasando de la identificación de las piedras figuradas a la reconstrucción de la historia que explicaba su presencia y distribución.
+
+La teología natural continuó ofreciendo un marco influyente, especialmente en Gran Bretaña. Buscaba conocer atributos de Dios mediante el estudio de la naturaleza, y la adecuación entre las estructuras de los organismos y sus funciones constituía uno de sus argumentos centrales. La desaparición de especies podía plantear dificultades para una creación concebida como permanentemente completa. Sin embargo, las posiciones no se repartían en dos bandos simples: las explicaciones diluviales también podían favorecer el reconocimiento de fósiles como restos de seres vivos y estimular su descripción. A mediados de siglo, la interpretación orgánica estaba ampliamente extendida, aunque la extinción y la historia de las rocas siguieran abiertas a discusión (Rudwick, 1985, pp. 87–94).
+
+:::
+
+::: {#C1-B04.P003 .pasaje data-passage-id="C1-B04.P003"}
+
+La ordenación de los organismos proporcionó otro instrumento común para estudiar seres actuales y fósiles. Carl Linnaeus, o Carlos Linneo (1707–1778), publicó la primera edición de *Systema naturae* en 1735. Su importancia no consiste en haber inventado toda clasificación biológica, que tenía una larga historia, sino en haber desarrollado un sistema de gran alcance y contribuido decisivamente a estabilizar el uso de nombres binominales. La aplicación sistemática de estos nombres se asocia a *Species plantarum* (1753) para las plantas y a la décima edición de *Systema naturae* (1758) para los animales.
+
+El nombre de una especie combina un nombre genérico, con inicial mayúscula, y un epíteto específico, en minúscula; ambos se escriben habitualmente en cursiva. El epíteto aislado no es el nombre completo de la especie. Este convenio facilita comunicar identificaciones, pero debemos distinguir nomenclatura, que regula los nombres, de taxonomía, que delimita y clasifica los organismos. Un sistema de nombres estable no elimina las revisiones de la clasificación cuando aparecen nuevas evidencias (Linnean Society, 2023; Código Internacional de Nomenclatura Zoológica, artículos 3 y 5).
+
+:::
+
+::: {#C1-B04.P004 .pasaje data-passage-id="C1-B04.P004"}
+
+### Avances a finales del siglo XVIII: teoría del origen de la Tierra y del origen orgánico de los fósiles {#sec-avances-a-finales-del-siglo-xviii-teoria-del-origen-de-la-tierra-y-del-origen-organico-de-los-fosile}
+
+:::
+
+::: {#C1-B04.P005 .pasaje data-passage-id="C1-B04.P005"}
+
+El origen orgánico de los fósiles podía integrarse en modelos muy distintos de la historia terrestre. Uno de ellos imaginaba una Tierra inicialmente incandescente, seguida por el enfriamiento de la corteza y la formación de océanos y depósitos sedimentarios. Leibniz, que recogió ideas de Descartes y admiraba el trabajo de Stensen, desarrolló una síntesis de este tipo en *Protogaea*, redactada a finales del siglo XVII y publicada de forma póstuma en 1749. Su interés no se limitaba al origen del planeta: incorporaba fósiles y estratos como testimonios de acontecimientos sucesivos (Rudwick, 1985, pp. 90–94).
+
+:::
+
+::: {#C1-B04.P006 .pasaje data-passage-id="C1-B04.P006"}
+
+En las clasificaciones de rocas del siglo XVIII se extendió una división general que relacionaba su disposición y su contenido con diferentes momentos de esa historia. Los términos no tenían todavía exactamente el significado ni los límites que adquirirían después.
+
+:::
+
+::: {#C1-B04.P007 .pasaje data-passage-id="C1-B04.P007"}
+
+Los materiales llamados primarios o primitivos comprendían rocas generalmente antiguas y sin fósiles reconocidos, frecuentes en regiones montañosas. Se interpretaban como productos de la consolidación inicial de la Tierra o como anteriores al Diluvio. La ausencia observada de fósiles formaba parte de su caracterización, aunque hoy sabemos que una roca sin fósiles no tiene por ello una edad única ni debe proceder de un mundo anterior a la vida.
+
+:::
+
+::: {#C1-B04.P008 .pasaje data-passage-id="C1-B04.P008"}
+
+Los materiales secundarios eran, de manera general, rocas estratificadas que contenían fósiles y se habían formado después de las primitivas. Los autores diluvialistas podían relacionarlos con el Diluvio, mientras que otros los situaban en etapas posteriores de la historia terrestre sin aceptar esa causa. La coincidencia en una clasificación práctica no implicaba un acuerdo completo sobre el mecanismo que había producido las rocas (Rudwick, 1985, pp. 90–91).
+
+:::
+
+::: {#C1-B04.P009 .pasaje data-passage-id="C1-B04.P009"}
+
+En algunas síntesis se reservaba una tercera categoría para depósitos superficiales o aluviales, a menudo poco consolidados y considerados recientes o posteriores al Diluvio. El uso de «terciario» cambió a lo largo de esta historia y no debe equipararse sin más con una clase de sedimento fluvial. Más adelante designaría conjuntos estratificados de una parte del Cenozoico; en la escala formal actual ese intervalo se distribuye entre Paleógeno y Neógeno. Seguir los cambios de significado evita leer una clasificación antigua como si fuera nuestra escala del tiempo geológico (Rudwick, 1985, pp. 90–91).
+
+:::
+
+::: {#C1-B04.P010 .pasaje data-passage-id="C1-B04.P010"}
+
+La duración disponible para esa historia también cambió de escala. Georges-Louis Leclerc, conde de Buffon (1707–1788), utilizó experiencias con cuerpos que se enfriaban para razonar sobre la antigüedad de la Tierra. En *Las épocas de la naturaleza* (1778) defendió una historia de decenas de miles de años, aunque consideró que la acumulación de ciertos depósitos podía exigir tiempos mucho mayores. Sus cálculos no proporcionaban la edad que aceptamos hoy, pero abrían la posibilidad de estimar duraciones mediante procesos físicos y de situar la historia humana dentro de un pasado natural mucho más extenso (Rudwick, 1985, pp. 93–94).
+
+El contraste resulta claro frente a la cronología que James Ussher (1581–1656), arzobispo de Armagh, publicó en sus *Annales veteris testamenti* de 1650. Ussher llegó a situar el comienzo de la creación al anochecer anterior al domingo 23 de octubre de 4004 a. C., según el calendario juliano. La precisión de la fecha resulta llamativa, pero detrás había un extenso trabajo de comparación de genealogías bíblicas, reinados y acontecimientos recogidos por los cronistas antiguos. Su propósito era encajar esas noticias en una historia universal ordenada, utilizando los documentos que consideraba más fiables (Ussher, 1650, p. 1; McCafferty, 2009).
+
+La incorporación de esa cronología a los márgenes de ediciones inglesas de la Biblia, a partir de 1701, contribuyó a su difusión. Para quienes la aceptaban, toda la historia de la Tierra cabía en apenas unos milenios: el pasado del planeta y el de la humanidad comenzaban prácticamente juntos. Frente a ese horizonte, los tiempos de Buffon abrían un pasado natural mucho más extenso que la historia humana. También cambiaba la forma de investigarlo: el enfriamiento de los materiales y la formación de los estratos empezaban a ofrecer una medida del tiempo independiente de las genealogías (Linda Hall Library, s. f.; Rudwick, 1985, pp. 93–94).
+
+:::
+
+::: {#C1-B04.P011 .pasaje data-passage-id="C1-B04.P011"}
+
+![Retrato del Conde de Buffon. Imagen disponible bajo licencia Creative Commons CC0.](assets/5f3b8d452664.jpg){#fig-condebuffon width=50% fig-alt="Retrato del Conde de Buffon. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P012 .pasaje data-passage-id="C1-B04.P012"}
+
+### Siglo XVIII y principios del siglo XIX: debates clave en la paleontología y geología {#sec-siglo-xviii-y-principios-del-siglo-xix-debates-clave-en-la-paleontologia-y-geologia}
+
+:::
+
+::: {#C1-B04.P013 .pasaje data-passage-id="C1-B04.P013"}
+
+Entre finales del siglo XVIII y las primeras décadas del XIX, los fósiles empezaban a dibujar una historia de ambientes y seres vivos que se sucedían en el tiempo. Reconstruirla planteaba preguntas estrechamente relacionadas: cómo se habían producido los cambios del terreno, por qué desaparecían unas faunas y aparecían otras, y si las especies podían transformarse. Las respuestas dieron lugar a debates que atravesaban la geología y la biología y en los que cada naturalista podía combinar posiciones diferentes.
+
+:::
+
+::: {#C1-B04.P014 .pasaje data-passage-id="C1-B04.P014"}
+
+
+
+:::
+
+::: {#C1-B04.P015 .pasaje data-passage-id="C1-B04.P015"}
+
+Uno de los problemas era explicar las discontinuidades entre los conjuntos de fósiles. Los planteamientos que después se llamarían catastrofistas atribuían algunos cambios importantes a episodios relativamente rápidos e intensos. Cuvier, por ejemplo, imaginaba revoluciones de la superficie terrestre capaces de eliminar una fauna y alterar sus condiciones de vida. Esos episodios interrumpían largos periodos de sedimentación ordinaria; podían tener causas naturales, aunque su mecanismo exacto siguiera en discusión.
+
+:::
+
+::: {#C1-B04.P016 .pasaje data-passage-id="C1-B04.P016"}
+
+Lyell daría otra respuesta al insistir en la capacidad de las causas observables en el presente para explicar los cambios antiguos. Su uniformismo reunía ese método con dos compromisos adicionales: limitar las diferencias de intensidad entre procesos pasados y presentes y defender un equilibrio global de la historia terrestre. El actualismo, como método de investigación, consiste en interpretar procesos antiguos a partir del conocimiento de los actuales. Puede emplearse sin suponer tasas constantes y admite que sucesos infrecuentes de gran magnitud formen parte de la historia natural. Distinguir el método de los compromisos particulares de Lyell permite entender mejor el alcance de la controversia (Rudwick, 1985, pp. 110–112 y 180–185).
+
+:::
+
+::: {#C1-B04.P017 .pasaje data-passage-id="C1-B04.P017"}
+
+
+
+:::
+
+::: {#C1-B04.P018 .pasaje data-passage-id="C1-B04.P018"}
+
+La discusión sobre los cambios del terreno se entrelazaba con otra: la estabilidad de las especies. El fijismo sostenía que estas conservaban sus diferencias dentro de ciertos límites y no se transformaban unas en otras. Podía, sin embargo, admitir extinciones y sucesiones de faunas. Así, Cuvier podía reconocer mundos habitados por animales distintos de los actuales y seguir defendiendo la estabilidad de cada especie.
+
+:::
+
+::: {#C1-B04.P019 .pasaje data-passage-id="C1-B04.P019"}
+
+Para los transformistas, en cambio, las formas de vida podían modificarse a lo largo de las generaciones. Lamarck y Geoffroy Saint-Hilaire desarrollaron explicaciones diferentes de ese cambio, con distintos papeles para el ambiente, los hábitos y la organización de los seres vivos. Aceptar el transformismo no suponía adoptar un único mecanismo ni equivalía todavía a explicarlo mediante selección natural. Tampoco resolvía por sí solo cómo se ramificaban los linajes o qué papel desempeñaba la extinción.
+
+:::
+
+::: {#C1-B04.P020 .pasaje data-passage-id="C1-B04.P020"}
+
+
+
+:::
+
+::: {#C1-B04.P021 .pasaje data-passage-id="C1-B04.P021"}
+
+A estas preguntas se añadía la de si la historia de la Tierra seguía una dirección global. La imagen de un planeta que se enfriaba progresivamente, como en Buffon, describía una historia direccional: los estados posteriores diferían de los anteriores según una tendencia general. Algunos naturalistas relacionaron esos cambios físicos con una sucesión de organismos cada vez más complejos. El progresionismo biológico añadía así una interpretación particular a la dirección de la historia terrestre, pues un cambio físico sostenido no implica por sí mismo una mejora de los seres vivos ni una marcha hacia una finalidad.
+
+:::
+
+::: {#C1-B04.P022 .pasaje data-passage-id="C1-B04.P022"}
+
+El modelo estacionario que defendería inicialmente Lyell admitía, por el contrario, cambios locales continuos dentro de un balance general. La erosión, la sedimentación y la elevación del terreno podían compensarse; una región podía cambiar de clima y de habitantes mientras el conjunto conservaba su equilibrio. La idea de un estado estacionario permitía, por tanto, imaginar una Tierra muy dinámica sin atribuir a toda su historia una tendencia única.
+
+:::
+
+::: {#C1-B04.P023 .pasaje data-passage-id="C1-B04.P023"}
+
+
+
+:::
+
+::: {#C1-B04.P024 .pasaje data-passage-id="C1-B04.P024"}
+
+Al intentar explicar los cambios de los organismos, el ambiente adquiría un papel central. Las explicaciones ambientalistas recurrían al clima o a la distribución de tierras y mares para dar cuenta de desplazamientos, extinciones o transformaciones de la forma. Una misma alteración ambiental podía llevar a Cuvier a pensar en la desaparición de una fauna y a un transformista a proponer la modificación de sus habitantes. El desacuerdo afectaba tanto a los efectos del cambio como a los mecanismos capaces de producirlos.
+
+:::
+
+::: {#C1-B04.P025 .pasaje data-passage-id="C1-B04.P025"}
+
+Otros argumentos concedían mayor peso a propiedades internas de los organismos, como sus tendencias de organización o los procesos de desarrollo. Estas explicaciones internalistas se centraban en cómo se construía y modificaba el propio ser vivo. La competencia y otras relaciones entre especies pertenecen a un ámbito diferente, el de las interacciones bióticas, que estudiaremos al abordar la diversificación y la extinción. El ambiente físico, las relaciones entre organismos y los mecanismos de desarrollo ofrecían, así, distintos niveles desde los que investigar el cambio biológico.
+
+:::
+
+::: {#C1-B04.P026 .pasaje data-passage-id="C1-B04.P026"}
+
+
+
+:::
+
+::: {#C1-B04.P027 .pasaje data-passage-id="C1-B04.P027"}
+
+También importaba la magnitud de los cambios que podían acumularse entre generaciones. En las teorías evolutivas, el gradualismo atribuye las transformaciones a la acumulación de modificaciones pequeñas. Ese proceso puede acelerarse o ralentizarse y afectar de manera distinta a diferentes caracteres. Además, cuando se habla de procesos geológicos, lo gradual suele referirse a su duración, de modo que el término conecta discusiones relacionadas, pero no idénticas.
+
+:::
+
+::: {#C1-B04.P028 .pasaje data-passage-id="C1-B04.P028"}
+
+El saltacionismo propone, en cambio, modificaciones hereditarias de gran magnitud capaces de producir diferencias importantes en pocas generaciones. La velocidad con la que aparece una transición en las rocas plantea otro problema: un intervalo geológicamente breve puede abarcar miles de generaciones, y una laguna puede ocultar gran parte de la transformación. La magnitud del cambio biológico y su expresión temporal en el registro deben estudiarse conjuntamente, una distinción que retomaremos con el equilibrio puntuado.
+
+:::
+
+::: {#C1-B04.P029 .pasaje data-passage-id="C1-B04.P029"}
+
+Mientras se discutían estas explicaciones, la ordenación de los estratos y el reconocimiento de sus fósiles característicos fueron construyendo un marco temporal compartido. Las grandes divisiones que llamamos Paleozoico, Mesozoico y Cenozoico se consolidaron durante el siglo XIX, junto con la definición y revisión de sus subdivisiones. Los fósiles permitían relacionar sucesiones de regiones diferentes y reconocer una historia común. Para reconstruirla había que distinguir las diferencias de edad de las diferencias ambientales que también podían modificar sus asociaciones (Rudwick, 1985, capítulos 3–4).
+
+:::
+
+::: {#C1-B04.P030 .pasaje data-passage-id="C1-B04.P030"}
+
+Las colecciones y los afloramientos proporcionaban las pruebas con las que contrastar aquellas ideas. París y los centros británicos reunieron programas diferentes de anatomía, geología y clasificación, conectados por la circulación de ejemplares, libros y correspondencia. En ese intercambio, las preguntas generales adquirieron formas concretas: qué revelaba un hueso sobre una especie desaparecida, cómo reconocer la continuidad de un estrato o qué significaba encontrar faunas distintas unas encima de otras.
+
+:::
+
+::: {#C1-B04.P031 .pasaje data-passage-id="C1-B04.P031"}
+
+### Siglo XVIII y principios del siglo XIX en París {#sec-siglo-xviii-y-principios-del-siglo-xix-en-paris}
+
+:::
+
+::: {#C1-B04.P032 .pasaje data-passage-id="C1-B04.P032"}
+
+#### La extinción: los aportes de Cuvier y Brongniart al conocimiento paleontológico {#sec-cuvier-y-brongniart}
+
+:::
+
+::: {#C1-B04.P033 .pasaje data-passage-id="C1-B04.P033"}
+
+![Retrato de Georges Cuvier. Imagen disponible bajo licencia Creative Commons CC0.](assets/b9b8f1bf13ce.jpg){#fig-georgescuvier width=50% fig-alt="Retrato de Georges Cuvier. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P034 .pasaje data-passage-id="C1-B04.P034"}
+
+Georges Cuvier (1769–1832), anatomista del Muséum national d'Histoire naturelle de París, hizo de la comparación entre organismos una herramienta para interpretar los vertebrados fósiles. Estudiaba el cuerpo como un conjunto funcionalmente integrado: la alimentación, la locomoción y otras funciones imponían relaciones entre sus partes. Su principio de correlación de las partes orientaba la comparación de restos incompletos con esqueletos conocidos, aunque las reconstrucciones efectivas dependían también de colecciones y observaciones detalladas (Rudwick, 1985, pp. 103–105).
+
+:::
+
+::: {#C1-B04.P035 .pasaje data-passage-id="C1-B04.P035"}
+
+La comparación de elefantes actuales y fósiles ofreció un argumento especialmente convincente para la extinción. Los elefantes africanos y asiáticos diferían entre sí, y los mamuts presentaban caracteres que impedían tratarlos simplemente como una de esas formas actuales. Los mastodontes mostraban, además, una dentición muy distinta. El tamaño de estos animales hacía poco verosímil que todas aquellas especies desconocidas siguieran ocultas en alguna región sin explorar. La conclusión no procedía de un parecido general con los elefantes, sino de diferencias anatómicas consistentes entre formas actuales y fósiles (Rudwick, 1985, pp. 105–109).
+
+:::
+
+::: {#C1-B04.P036 .pasaje data-passage-id="C1-B04.P036"}
+
+Cuvier buscó después una causa para la desaparición de animales que consideraba bien ajustados a su modo de vida. En su interpretación, un cambio gradual del ambiente podía permitir desplazamientos hacia condiciones favorables; un acontecimiento brusco, en cambio, podía eliminar una fauna antes de que escapara. Propuso revoluciones de la superficie terrestre e incursiones del mar, y consideró también cambios rápidos de temperatura. No estableció un mecanismo físico único para todas ellas.
+
+El término «revoluciones» resulta sugerente en una época marcada por la Revolución Francesa, pues evoca cambios bruscos capaces de reemplazar un orden establecido. Esa resonancia política acompañaba una explicación que Cuvier fundamentaba en el estudio de los fósiles y los estratos. Reconocía largos periodos de sedimentación tranquila y no concebía necesariamente cada revolución como una destrucción simultánea de toda la vida del planeta (Rudwick, 1985, pp. 109–112 y 130–131).
+
+:::
+
+::: {#C1-B04.P037 .pasaje data-passage-id="C1-B04.P037"}
+
+La ampliación de las comparaciones mostró que el problema no se limitaba a los elefantes. Cuvier estudió el gran perezoso sudamericano *Megatherium*, mastodontes de Norteamérica y restos de hipopótamos, rinocerontes y otros mamíferos. En cada caso, la identificación de afinidades con grupos actuales podía combinarse con el reconocimiento de especies distintas. El registro revelaba así faunas anteriores, no una colección de anomalías aisladas. Aceptar su desaparición obligaba a explicar una historia de la diversidad diferente de la simple permanencia de los mismos organismos (Rudwick, 1985, pp. 105 y 112).
+
+:::
+
+::: {#C1-B04.P038 .pasaje data-passage-id="C1-B04.P038"}
+
+Con Alexandre Brongniart, Cuvier estudió las formaciones de la cuenca de París y reconoció una sucesión de asociaciones fósiles. Los moluscos ayudaban a identificar capas y a distinguir depósitos marinos de otros formados en agua dulce. La alternancia entre ambos ambientes proporcionaba información sobre cambios geográficos; la superposición ordenaba esos cambios en el tiempo. Se combinaban así dos usos del fósil: indicador de condiciones de vida y herramienta de correlación.
+
+Las discontinuidades entre faunas reforzaron la interpretación de extinciones y reemplazos. Sin embargo, Cuvier no formuló como solución general una teoría explícita de creaciones sucesivas. Para algunas repoblaciones consideró la inmigración desde regiones no afectadas por una revolución, y tendió a dejar abierto el origen último de las especies cuando estimaba insuficiente la evidencia. Las interpretaciones creacionistas de su obra, especialmente influyentes en ciertas recepciones posteriores, no deben confundirse con una explicación evolutiva que él hubiera defendido (Rudwick, 1985, pp. 129–134 y 149).
+
+:::
+
+::: {#C1-B04.P039 .pasaje data-passage-id="C1-B04.P039"}
+
+Adolphe Brongniart, hijo de Alexandre, extendió estas preguntas a las plantas fósiles. En 1828 publicó su *Prodrome d'une histoire des végétaux fossiles*, junto al proyecto más amplio de una historia de los vegetales fósiles. Distinguió cuatro grandes periodos florísticos: uno dominado por criptógamas vasculares; otro con una flora más pobre y primeras coníferas; un tercero con cícadas y coníferas destacadas; y un cuarto caracterizado por la presencia y predominio de dicotiledóneas. Esta era su reconstrucción a partir de los materiales disponibles, no una datación de las primeras apariciones que podamos trasladar sin revisión a la actualidad.
+
+Brongniart relacionó la sucesión con un enfriamiento global y propuso vínculos entre la vegetación, el almacenamiento de carbono y los cambios de la atmósfera. Imaginó que los bosques carboníferos habían reducido una atmósfera inicialmente rica en dióxido de carbono y favorecido condiciones para otros grupos de organismos. Su esquema reunía fósiles, fisiología e historia ambiental, pero no constituye nuestra reconstrucción actual de esos procesos. Por ejemplo, las angiospermas ya están representadas en el registro cretácico, de modo que su historia no comienza en el Terciario (Rudwick, 1985, pp. 146–149; Natural History Museum, «The Cretaceous Period»).
+
+:::
+
+::: {#C1-B04.P040 .pasaje data-passage-id="C1-B04.P040"}
+
+#### La herencia de los caracteres adquiridos: Lamarck y su impacto en la biología {#sec-la-herencia-de-los-caracteres-adquiridos-lamarck-y-su-impacto-en-la-biologia}
+
+:::
+
+::: {#C1-B04.P041 .pasaje data-passage-id="C1-B04.P041"}
+
+Las ideas de transformación de los seres vivos tienen antecedentes diversos, pero una semejanza de vocabulario no demuestra que distintos autores formularan la misma teoría. Las especulaciones antiguas sobre el origen de los animales o las reflexiones sobre sus relaciones de alimentación deben interpretarse en su propio contexto. Para reconocer una teoría evolutiva necesitamos precisar qué cambia, cómo se transmite ese cambio y qué papel desempeñan las generaciones, la descendencia y la extinción. Esta precaución permite situar a Lamarck sin convertir toda reflexión previa sobre la naturaleza en una anticipación de la biología moderna.
+
+:::
+
+::: {#C1-B04.P042 .pasaje data-passage-id="C1-B04.P042"}
+
+Jean-Baptiste Lamarck (1744–1829), botánico y después estudioso de los invertebrados en el Muséum de París, desarrolló una explicación extensa de la transformación de los organismos. Su propuesta, expuesta en obras como *Philosophie zoologique* (1809), no se reducía a la herencia de caracteres adquiridos. Combinaba una tendencia de la organización hacia una mayor complejidad con la modificación de los hábitos y órganos bajo circunstancias ambientales diversas. Los fósiles aportaban, para él, formas anteriores que podían haberse transformado gradualmente en otras (Rudwick, 1985, pp. 117–120).
+
+:::
+
+::: {#C1-B04.P043 .pasaje data-passage-id="C1-B04.P043"}
+
+![Retrato de Jean Baptiste Lamarck. Imagen disponible bajo licencia Creative Commons CC0.](assets/1e65d62fe59c.jpg){#fig-lamark width=50% fig-alt="Retrato de Jean Baptiste Lamarck. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P044 .pasaje data-passage-id="C1-B04.P044"}
+
+En el esquema de Lamarck, las formas más simples podían originarse por generación espontánea y, con tiempo suficiente, aumentar su grado de organización. Los cambios del ambiente alteraban las necesidades y los hábitos; el uso o desuso de los órganos modificaba su desarrollo, y las modificaciones adquiridas podían transmitirse a la descendencia. El ejemplo de una musculatura fortalecida mediante actividad ilustra esa lógica: el cambio producido durante la vida del individuo se convertía en una fuente de diferencias heredables.
+
+Estos mecanismos no deben confundirse con una explicación genética actual. Tampoco conviene imaginar una única fila en la que cada especie ocupara un peldaño fijo: el aumento de organización y las modificaciones vinculadas con las circunstancias cumplían funciones distintas en su teoría. Una diferencia importante respecto de Cuvier era su interpretación de la aparente desaparición de especies. Lamarck tendía a explicarla mediante transformación y continuidad de la vida, no como una sucesión de extinciones catastróficas. Ese contraste resulta decisivo para entender sus lecturas opuestas de los fósiles (Rudwick, 1985, pp. 117–120).
+
+:::
+
+::: {#C1-B04.P045 .pasaje data-passage-id="C1-B04.P045"}
+
+El valor histórico de Lamarck reside en haber planteado un programa amplio para explicar la transformación de la organización y su relación con las condiciones de vida. Sus aportaciones a la clasificación de invertebrados y a la distinción entre lo vivo y lo inerte forman parte de ese proyecto. La selección natural desarrollada después ofreció otra explicación del cambio adaptativo, pero no sustituyó de manera inmediata y uniforme todas las ideas de herencia por uso o desuso; incluso Darwin admitió algunos mecanismos que hoy distinguiríamos de la selección. Comparar ambas propuestas exige atender al conjunto de sus supuestos, y no enfrentar una sola frase atribuida a cada autor (Darwin, 1859, p. 455).
+
+:::
+
+::: {#C1-B04.P046 .pasaje data-passage-id="C1-B04.P046"}
+
+#### Del fijismo al transformismo: el impacto de Geoffroy Saint-Hilaire en la biología {#sec-del-fijismo-al-transformismo-el-impacto-de-geoffroy-saint-hilaire-en-la-biologia}
+
+:::
+
+::: {#C1-B04.P047 .pasaje data-passage-id="C1-B04.P047"}
+
+![Retrato de Étienne Geoffroy Saint-Hilaire.](assets/ba2fa9625723.jpg){#fig-saint-hilaire width=50%}
+
+:::
+
+::: {#C1-B04.P048 .pasaje data-passage-id="C1-B04.P048"}
+
+Étienne Geoffroy Saint-Hilaire (1772–1844) fue colega y colaborador de Cuvier antes de convertirse en uno de sus principales interlocutores críticos. Compartían el interés por la anatomía comparada, pero se preguntaban por aspectos diferentes de la organización animal. Cuvier daba prioridad a las relaciones funcionales entre las partes del cuerpo y distinguía grandes tipos anatómicos. Geoffroy buscaba, en cambio, las correspondencias que permitían reconocer un mismo plan de organización bajo formas muy distintas. Sus investigaciones contribuyeron a hacer de la posición relativa de las partes un criterio fundamental de comparación, incluso cuando variaban su aspecto y su función (Rudwick, 1985, p. 150).
+
+Esa búsqueda se extendió al desarrollo embrionario y a la teratología, el estudio de las malformaciones. Las alteraciones del desarrollo ofrecían una vía para investigar hasta qué punto podía modificarse la organización del cuerpo. En experimentos con huevos de aves, Geoffroy observó que los cambios de las condiciones de incubación podían inducir malformaciones. Relacionó esos resultados con la influencia del ambiente y exploró sus consecuencias para la historia de la vida. En 1825 comparó cocodrilos fósiles y actuales y planteó que las especies vivas podían descender de las antiguas mediante una continuidad de generaciones (Rudwick, 1985, pp. 151–152; Buffetaut, 1991, p. 126).
+
+Su explicación transformista concedía al desarrollo un papel distinto del que tenían los hábitos y el uso de los órganos en Lamarck. Geoffroy llegó a proponer que cambios ambientales intensos podían producir modificaciones importantes de la organización, relacionando así las revoluciones geológicas con las transformaciones biológicas. Las malformaciones inducidas durante la incubación le ofrecían una analogía experimental, aunque la transmisión hereditaria de aquellas modificaciones seguía siendo una cuestión por demostrar. La controversia pública con Cuvier en 1830 alcanzó también a su intento de extender la unidad del plan anatómico más allá de los vertebrados. Se discutían los criterios para reconocer correspondencias y los límites de las grandes divisiones del reino animal, además de la posibilidad de transformar las especies (Rudwick, 1985, pp. 152–153).
+
+:::
+
+::: {#C1-B04.P049 .pasaje data-passage-id="C1-B04.P049"}
+
+![Dibujo de una teratología de Geoffroy Saint-Hilaire. Imagen disponible bajo licencia Creative Commons CC0.](assets/a3bc5d8c476d.jpg){#fig-laminasaint-hilaire width=50% fig-alt="Dibujo de una teratología de Geoffroy Saint-Hilaire. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P050 .pasaje data-passage-id="C1-B04.P050"}
+
+La teoría de los análogos y el principio de las conexiones expresaban esa búsqueda de correspondencias anatómicas. Geoffroy llamaba «análogos» a elementos que podían reconocerse como equivalentes dentro de un mismo plan de organización, aun cuando su forma y su función fueran diferentes.
+
+:::
+
+::: {#C1-B04.P051 .pasaje data-passage-id="C1-B04.P051"}
+
+Un ejemplo puede encontrarse en el miembro anterior de un ser humano, un murciélago y un delfín. El brazo participa en la manipulación, el ala en el vuelo y la aleta en la natación, pero en los tres casos podemos reconocer elementos esqueléticos correspondientes. El radio resulta especialmente ilustrativo: es alargado y fino en el murciélago y más corto y robusto en el delfín. La diversidad de forma y función se organiza sobre una estructura comparable. La descendencia común proporcionaría después una explicación evolutiva de esas correspondencias.
+
+:::
+
+::: {#C1-B04.P052 .pasaje data-passage-id="C1-B04.P052"}
+
+El principio de las conexiones ayudaba a reconocer qué elemento se estaba comparando. En estos miembros anteriores, el radio mantiene su relación con el húmero hacia el cuerpo y con el carpo hacia el extremo del miembro. Su tamaño y su forma cambian, mientras esa posición relativa permite seguir identificándolo. Las conexiones proporcionaban, por tanto, un criterio más estable que el parecido externo o la función aislada. El ejemplo muestra cómo Geoffroy podía buscar una organización compartida en miembros adaptados a actividades tan diferentes (Rudwick, 1985, p. 150).
+
+:::
+
+::: {#C1-B04.P052a .pasaje data-passage-id="C1-B04.P052a"}
+
+La búsqueda de correspondencias anatómicas tenía antecedentes mucho anteriores a Geoffroy. En *L’Histoire de la nature des oyseaux* (1555), Pierre Belon ya había colocado en paralelo esqueletos humanos y de aves, identificando elementos equivalentes mediante letras. La comparación hacía visible una organización compartida detrás de cuerpos de aspecto y función diferentes. Aquella lámina permite apreciar la antigüedad del problema que Geoffroy retomaría, siglos después, mediante su teoría de los análogos y el principio de las conexiones (Panchen, 1999).
+
+:::
+
+::: {#C1-B04.P052b .pasaje data-passage-id="C1-B04.P052b"}
+
+![Comparativa entre esqueletos de un humano y un ave de Pierre Belon. Imagen disponible bajo licencia Creative Commons CC0.](assets/a681d74af28f.jpg){#fig-belonoyseaux width=50% fig-alt="Comparativa entre esqueletos de un humano y un ave de Pierre Belon. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P053 .pasaje data-passage-id="C1-B04.P053"}
+
+### Siglo XVIII y principios del Siglo XIX en Gran Bretaña {#sec-siglo-xviii-y-principios-del-siglo-xix-en-gran-bretana}
+
+:::
+
+::: {#C1-B04.P054 .pasaje data-passage-id="C1-B04.P054"}
+
+#### William Smith y la correlación de los estratos en Gran Bretaña {#sec-william-smith-y-la-revolucion-geologica-en-gran-bretana-el-legado-del-padre-de-la-geologia-inglesa}
+
+:::
+
+::: {#C1-B04.P055 .pasaje data-passage-id="C1-B04.P055"}
+
+![Retrato de William Smith. Imagen disponible bajo licencia Creative Commons CC0.](assets/472d97db8d9b.jpg){#fig-williamsmith width=50% fig-alt="Retrato de William Smith. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P056 .pasaje data-passage-id="C1-B04.P056"}
+
+William Smith (1769–1839), agrimensor e ingeniero con experiencia en minas y obras de canales, reconoció regularidades en la sucesión de estratos del subsuelo británico. Su actividad le permitió seguir capas a través de afloramientos y excavaciones y comparar sus fósiles. El conocimiento práctico del terreno y la clasificación de los restos convergían así en una herramienta para reconstruir continuidades que no podían observarse en un solo lugar.
+
+:::
+
+::: {#C1-B04.P057 .pasaje data-passage-id="C1-B04.P057"}
+
+Smith observó que ciertas asociaciones fósiles aparecían en un orden característico y podían ayudar a reconocer estratos a distancia. Una litología semejante podía repetirse en edades distintas, y una misma unidad podía cambiar lateralmente de aspecto; el contenido fósil aportaba un criterio adicional. Esta regularidad contribuyó al principio de sucesión faunística y a la correlación bioestratigráfica. No hacía a cada fósil un reloj universal: también había que considerar distribución ambiental, conservación y alcance geográfico.
+
+Su mapa de 1815 representó los estratos de Inglaterra y Gales y parte de Escocia. Integraba una enorme cantidad de observaciones en una imagen regional de la disposición de las rocas, no solo en una colección de localidades con fósiles. La relación entre el orden vertical de las capas y su distribución en superficie permitía interpretar el subsuelo y sus recursos (Rudwick, 1985, p. 129; Geological Society, exposición *William Strata Smith*).
+
+:::
+
+::: {#C1-B04.P058 .pasaje data-passage-id="C1-B04.P058"}
+
+![Mapa geológico de William Smith. Imagen disponible bajo licencia Creative Commons CC0.](assets/9448f5eb9cd8.jpg){#fig-smithmapa width=50% fig-alt="Mapa geológico de William Smith. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P059 .pasaje data-passage-id="C1-B04.P059"}
+
+La Geological Society of London, fundada en 1807, se convirtió en un centro destacado de investigación y debate. La institución surgió de reuniones de varios naturalistas y su relación inicial con Smith fue compleja. Su trabajo cartográfico y el de George Bellas Greenough dieron lugar a controversias; el reconocimiento institucional de Smith llegó más tarde, con la primera medalla Wollaston en 1831. La historia permite apreciar que una contribución científica podía preceder ampliamente a su aceptación social e institucional (Geological Society, *A Brief History* y *The Society and the Map*).
+
+:::
+
+::: {#C1-B04.P060 .pasaje data-passage-id="C1-B04.P060"}
+
+El alcance de esa investigación iba más allá de fechar capas aisladas. Si una sucesión fósil podía reconocerse en regiones distintas, los yacimientos dejaban de ser episodios inconexos y pasaban a formar parte de una historia regional comparable. El desarrollo de este marco proporcionó a los debates sobre extinción y transformación una secuencia temporal cada vez más detallada.
+
+:::
+
+::: {#C1-B04.P061 .pasaje data-passage-id="C1-B04.P061"}
+
+#### William Buckland: la influencia de Cuvier y la teología en la geología británica del siglo XIX {#sec-william-buckland-la-influencia-de-cuvier-y-la-teologia-en-la-geologia-britanica-del-siglo-xix}
+
+:::
+
+::: {#C1-B04.P062 .pasaje data-passage-id="C1-B04.P062"}
+
+![Retrato de William Buckland. Imagen disponible bajo licencia Creative Commons CC0.](assets/6ed8aac6e147.jpg){#fig-williambuckland width=50% fig-alt="Retrato de William Buckland. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P063 .pasaje data-passage-id="C1-B04.P063"}
+
+En Gran Bretaña, William Buckland (1784–1856), profesor de geología en Oxford, combinó el interés por la anatomía comparada con un programa explícito de armonización entre geología y religión. La recepción inglesa de Cuvier pasó por traducciones y ediciones asociadas a Robert Kerr y Robert Jameson. Los comentarios añadidos en esa circulación favorecieron una lectura diluvial que no coincidía en todos sus detalles con la formulación de Cuvier.
+
+Buckland defendió especialmente la interpretación de depósitos superficiales como restos de un Diluvio universal y transitorio. En *Reliquiae diluvianae* (1823) reunió observaciones para ese programa. Su estudio de la cueva de Kirkdale, con huesos roídos y señales de actividad de hienas, mostraba al mismo tiempo el valor de comparar procesos actuales con acumulaciones antiguas. La interpretación de una guarida podía estar bien apoyada sin que de ella se siguiera una inundación simultánea de alcance mundial. Esa extensión de la inferencia fue objeto de críticas por otros naturalistas, incluidos autores religiosos.
+
+En sus explicaciones de la sucesión de la vida también intervino el progresionismo, que interpretaba el reemplazo de grupos como un aumento de complejidad o perfección. No equivalía a transformación genealógica entre especies, y sus compromisos variaron con el desarrollo de la investigación. En este contexto, la teología no permite predecir por sí sola si un autor aceptaría un determinado mecanismo geológico (Rudwick, 1985, pp. 133–138).
+
+:::
+
+::: {#C1-B04.P064 .pasaje data-passage-id="C1-B04.P064"}
+
+#### Charles Lyell: uniformismo y su influencia en la geología y la biología {#sec-charles-lyell-uniformismo-y-su-influencia-en-la-geologia-y-la-biologia}
+
+:::
+
+::: {#C1-B04.P065 .pasaje data-passage-id="C1-B04.P065"}
+
+![Retrato de Charles Lyell. Imagen disponible bajo licencia Creative Commons CC0.](assets/91f8e2d4bbce.jpg){#fig-charleslyell width=50% fig-alt="Retrato de Charles Lyell. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B04.P066 .pasaje data-passage-id="C1-B04.P066"}
+
+Charles Lyell (1797–1875), que había recibido enseñanza geológica de Buckland, desarrolló en *Principles of Geology* (1830–1833) un programa para explicar la historia terrestre mediante causas que actuaban en el presente. Su influencia fue enorme, pero el actualismo no nació con él. Lo distintivo de su propuesta inicial era la combinación de ese método con una defensa del equilibrio dinámico global y con una crítica a las reconstrucciones que daban por necesarias intensidades mayores de los procesos antiguos (Rudwick, 1985, pp. 180–185).
+
+:::
+
+::: {#C1-B04.P067 .pasaje data-passage-id="C1-B04.P067"}
+
+Lyell no negaba todo cambio de clima, ambiente o fauna. Admitía que la geografía de una región podía alterarse profundamente y, con ella, su clima y sus habitantes. Lo que discutía era que esos cambios locales demostraran un enfriamiento universal o una progresión necesaria de la vida hacia formas superiores. Para sostener un mundo globalmente equilibrado, propuso que erosión, sedimentación, elevación y hundimiento podían compensarse y que extinciones y aparición de especies mantenían un balance general.
+
+La incompletitud del registro ocupaba un lugar central en su explicación. Un límite brusco entre asociaciones fósiles podía representar un largo intervalo no conservado, y la escasez de ciertos grupos podía deberse a diferencias de preservación. El argumento era metodológicamente importante, pero no convertía toda discontinuidad en un efecto del muestreo: cada caso requería contrastar alternativas. La uniformidad de las leyes naturales no demuestra por sí misma una tasa uniforme de cambio (Rudwick, 1985, pp. 180–185).
+
+:::
+
+::: {#C1-B04.P068 .pasaje data-passage-id="C1-B04.P068"}
+
+Durante el viaje del *Beagle*, Darwin estudió *Principles of Geology* y encontró en sus páginas una manera de conectar observaciones locales con procesos acumulados durante tiempos extensos. La lectura acompañó sus investigaciones de campo y le ayudó a construir explicaciones de los cambios del terreno. A su vuelta, el contacto personal con Lyell y el entorno de la Geological Society reforzó ese intercambio. La influencia fue profunda, aunque no implicara acuerdo completo: la transformación de las especies constituía precisamente uno de los puntos en que Darwin se apartaría del Lyell de los primeros *Principles* (Chancellor, s. f.).
+
+:::
+
+::: {#C1-B04.P069 .pasaje data-passage-id="C1-B04.P069"}
+
+La exploración de materiales anteriores al Carbonífero llevó aquellas discusiones hacia etapas cada vez más remotas. Murchison y Sedgwick ordenaron sucesiones que contribuirían a definir el Silúrico y el Cámbrico, ampliando el marco en el que podía reconstruirse la historia de la vida. Las asociaciones marinas que iban reconociendo contenían organismos de anatomía compleja y grupos cuya distribución en el tiempo difería de la que se conocía en estratos más recientes. El orden de aparición de las faunas se convirtió así en una prueba central para discutir si la vida había seguido una historia direccional (Rudwick, 1985, pp. 191–193).
+
+Para Murchison, la abundancia de invertebrados y la falta de plantas terrestres en los materiales silúricos que conocía sugerían una etapa anterior al establecimiento de la vegetación continental. Lyell concedía mayor peso a las diferencias de conservación y a las lagunas del registro. Los descubrimientos posteriores de plantas como *Cooksonia* en rocas silúricas ampliarían aquella imagen y mostrarían cuánto podía cambiar una reconstrucción al incorporarse nuevos yacimientos. La expansión de la escala geológica abría, por tanto, dos investigaciones inseparables: ordenar la sucesión de los seres vivos y evaluar hasta qué punto los fósiles conservados representaban su diversidad pasada (Rudwick, 1985, pp. 191–193; Oxford University Museum of Natural History, colección de paleobotánica).
+
+:::

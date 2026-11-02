@@ -1,0 +1,51 @@
+[
+  {
+    "id": "APP-001",
+    "title": "Diversidad y crecimiento logístico",
+    "url": "https://macrofun.shinyapps.io/modelo_logistico_simple/",
+    "type": "Aplicación R Shiny",
+    "topic": "Diversificación",
+    "status": "enlace existente; servicio externo"
+  },
+  {
+    "id": "APP-002",
+    "title": "Modelos logísticos acoplados",
+    "url": "https://macrofun.shinyapps.io/modelo_logistico_acoplado",
+    "type": "Aplicación R Shiny",
+    "topic": "Diversificación",
+    "status": "enlace existente; servicio externo"
+  },
+  {
+    "id": "APP-003",
+    "title": "Tres faunas evolutivas",
+    "url": "https://macrofun.shinyapps.io/modelo_logistico_acoplado3fases",
+    "type": "Aplicación R Shiny",
+    "topic": "Diversificación",
+    "status": "enlace existente; servicio externo"
+  },
+  {
+    "id": "APP-004",
+    "title": "Patrones de reacción y difusión",
+    "url": "https://pmneila.github.io/jsexp/grayscott/",
+    "type": "Simulación en el navegador",
+    "topic": "Morfología",
+    "status": "recurso externo"
+  },
+  {
+    "id": "ACT-001",
+    "title": "Repaso de la síntesis evolutiva",
+    "url": "https://create.kahoot.it/share/sintesis-evolutiva/e5d6f964-4101-48eb-850f-9eabf3ccec7a",
+    "type": "Autoevaluación",
+    "topic": "Introducción",
+    "passage": "C1-B06.P057",
+    "status": "actividad aceptada"
+  },
+  {
+    "id": "COD-001",
+    "title": "QuAnTeTrack",
+    "url": "https://macrofunuv.github.io/QuAnTeTrack/",
+    "type": "Paquete de R",
+    "topic": "Huellas y rastros",
+    "status": "documentación pública existente"
+  }
+]

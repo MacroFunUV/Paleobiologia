@@ -1,0 +1,49 @@
+project:
+  type: book
+  output-dir: ../../_site/es
+book:
+  title: Paleobiología Esencial
+  subtitle: Edición parcial · Introducción
+  author: Humberto G. Ferrón
+  output-file: paleobiologia-esencial-es-parcial
+  site-url: https://macrofunuv.github.io/Paleobiologia/es/
+  chapters:
+    - index.qmd
+    - introduccion.qmd
+    - bibliografia.qmd
+    - licencia.qmd
+  search: true
+  page-navigation: true
+  navbar:
+    left:
+      - text: Inicio
+        href: ../index.html
+      - text: Aplicaciones y prácticas
+        href: ../recursos.html
+      - text: Descargas
+        href: ../descargas.html
+lang: es
+bibliography: referencias.bib
+csl: paleobiologia.csl
+nocite: '@*'
+number-sections: false
+toc: true
+toc-depth: 3
+execute:
+  enabled: false
+format:
+  html:
+    theme: [cosmo, libro.scss]
+    fontsize: 1.06rem
+    linestretch: 1.7
+    code-copy: true
+    lightbox: true
+    include-after-body: pasajes.html
+  typst:
+    citeproc: true
+    papersize: a4
+    fontsize: 10.5pt
+    mainfont: Libertinus Serif
+    toc-depth: 3
+  epub:
+    toc-depth: 3

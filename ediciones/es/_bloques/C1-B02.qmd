@@ -1,0 +1,143 @@
+::: {#C1-B02.P001 .pasaje data-passage-id="C1-B02.P001"}
+
+::: {#B2.1}
+
+### La fascinación por los fósiles en la prehistoria {#sec-la-fascinacion-por-los-fosiles-en-la-prehistoria}
+
+La historia de nuestra relación con los fósiles comienza mucho antes de que existiera una disciplina dedicada a estudiarlos. Su presencia en yacimientos arqueológicos permite reconocer que algunas poblaciones humanas los recogieron, transportaron y conservaron. Para comprender esas conductas importa dónde apareció cada pieza, si fue modificada y con qué otros materiales se encontraba. La revisión de antecedentes que presentan Navazo Ruiz y sus colaboradores permite seguir esa historia desde hallazgos aislados hasta conjuntos más numerosos [@navazoruiz2024-pradovargas].
+
+Entre los testimonios más remotos se citan restos de crinoideos con aspecto de cuentas en Gesher Benot Ya’aqov, en Israel, un yacimiento achelense de unos 780 000 años. La identidad de sus ocupantes no está confirmada, aunque se ha propuesto que fueran poblaciones de *Homo erectus*. Las perforaciones naturales de esos fósiles han suscitado interpretaciones ornamentales, pero su presencia en el yacimiento no demuestra un uso como adornos. El caso figura entre los antecedentes más antiguos propuestos para esta conducta, con una interpretación todavía abierta [@cortessanchez2020-fosiles; @goreninbar2000-gesher; @goreninbar2011-cultura].
+
+Otros casos achelenses amplían este panorama. En el nivel 61 de Combe-Grenal, en Francia, se documentó un braquiópodo fósil que se ha interpretado como un objeto recogido sin una función práctica reconocible. En Erfoud, Marruecos, un molde silíceo de cefalópodo apareció asociado en superficie a materiales del Achelense final. Se propuso que había sido transportado por su forma singular, en un contexto estimado en unos 300 000–200 000 años. Su significado sigue siendo una interpretación, y la edad procede de la atribución del conjunto, no de una datación directa del objeto [@moncel2012-objetos; @bednarik2002-erfoud].
+
+La antigüedad de algunos ejemplos ha contribuido a hacerlos célebres, pero también ha impulsado su revisión crítica. Las esponjas fósiles perforadas de Saint-Acheul se interpretaron como cuentas; análisis posteriores cuestionan ese uso. Algo parecido ocurre con el bifaz de West Tofts, en Inglaterra, que conserva una concha fósil en una de sus caras: un estudio tecnológico y de huellas de uso favorece una explicación utilitaria frente a la idea de que el fósil se hubiera conservado deliberadamente como decoración. Reconocer un fósil en una herramienta no demuestra por sí solo una intención ornamental [@rigaud2009-cuentas; @berruti2022-cuentas; @flanderskey2023-westtofts].
+
+Uno de los ejemplos clásicos de este interés durante el Paleolítico medio procede de Arcy-sur-Cure, en Borgoña. André Leroi-Gourhan recuperó allí un gasterópodo y un coral fósiles, interpretados como objetos recogidos por los neandertales. Su hallazgo en la cueva de la Hiena forma parte de la historia temprana de la recolección de fósiles, aunque no permite identificarlo como el caso más antiguo conocido. Buffetaut recuerda que desconocemos la interpretación que les daban sus propietarios: la curiosidad por su forma, su empleo como adorno o una posible función simbólica son explicaciones que no pueden deducirse de la mera presencia de las piezas [@buffetaut1991-desfossiles; @moncel2012-objetos].
+
+El conjunto de Prado Vargas, en Burgos, permite considerar esta conducta a otra escala. En su nivel 4, de hace unos 46 000 años, se recuperaron quince fósiles marinos procedentes de las formaciones del entorno. Excepto una pieza con posibles señales de uso como percutor, no muestran utilización como herramientas. Los autores interpretan su acumulación como una recogida deliberada; las motivaciones concretas, desde la atracción por sus formas hasta posibles usos sociales o simbólicos, permanecen abiertas [@navazoruiz2024-pradovargas].
+
+:::
+
+:::
+
+::: {#C1-B02.P002 .pasaje data-passage-id="C1-B02.P002"}
+
+::: {#B2.2}
+
+Esa distinción resulta especialmente ilustrativa en Dunstable Downs, Inglaterra. El enterramiento, de la Edad del Bronce, se presentó durante mucho tiempo como una madre y su hijo rodeados de erizos fósiles. Un estudio de 2023 identifica a una mujer y una niña, probablemente una tía paterna y su sobrina. Además, la disposición de los fósiles en el dibujo histórico no puede darse por segura: algunos pudieron proceder de los materiales del túmulo. El caso muestra cómo una imagen y una interpretación repetidas pueden acabar confundiéndose con la evidencia arqueológica [@zedda2023-dunstable].
+
+:::
+
+:::
+
+::: {#C1-B02.P003 .pasaje data-passage-id="C1-B02.P003"}
+
+::: {#B2.3}
+
+La utilización de dientes fósiles de tiburón ofrece ejemplos en los que las modificaciones de las piezas permiten aproximarse mejor a sus funciones. En América del Norte se conocen estos usos durante los últimos 10 000 años. Para la bahía de Chesapeake, Lowery y sus colaboradores estudiaron conjuntos de los últimos 2500 años con seis variedades de dientes, entre ellas las del tiburón blanco actual, *Carcharodon carcharias*, y las de tiburones extinguidos como el megalodón, *Otodus megalodon* [@lowery2011-chesapeake].
+
+Algunos dientes presentan muescas o perforaciones en la raíz, compatibles con su fijación a mangos o su suspensión. Se han propuesto usos como puntas de proyectil, cuchillos, raspadores y adornos; las funciones religiosas son más difíciles de establecer. Su aparición lejos de los afloramientos de origen permite investigar también el transporte y el intercambio de estos objetos. Es necesario distinguir las modificaciones humanas de las roturas naturales, porque ambas pueden afectar a una misma pieza [@lowery2011-chesapeake].
+
+:::
+
+:::
+
+::: {#C1-B02.P004 .pasaje data-passage-id="C1-B02.P004"}
+
+::: {#B2.4}
+
+### Fósiles y mitología en la antigüedad {#sec-fosiles-y-mitologia-en-la-antiguedad}
+
+En la Antigüedad, los hallazgos de grandes huesos se incorporaron a los relatos con los que las sociedades interpretaban su pasado. Las tradiciones griegas y romanas incluían gigantes, cíclopes y otros seres extraordinarios cuyos restos se creía reconocer en huesos de tamaño o aspecto inusuales. Estas asociaciones podían reforzar narraciones conocidas y vincularlas con lugares concretos [@buffetaut1991-desfossiles].
+
+La conservación de estos restos podía darles un lugar en espacios religiosos. En la isla de Kos, Barnum Brown encontró un fragmento de diente de elefante fósil entre las ruinas del Asklepeion, el santuario dedicado a Asclepio. Buffetaut recoge el hallazgo como un ejemplo del interés por esos objetos. Su presencia permite hablar de la conservación de un fósil en el santuario, pero no identificar quién lo examinó ni qué significado le atribuyó [@buffetaut1991-desfossiles].
+
+Para estudiar esa relación conviene separar dos preguntas: si los antiguos interpretaron determinados restos mediante sus mitos y si esos restos dieron origen a los mitos. La primera puede apoyarse en testimonios históricos; la segunda suele ser más difícil de demostrar. Un relato podía existir antes de que un hallazgo se incorporase a él, y su transmisión reunía influencias distintas. Los ejemplos de Samos y Sicilia permiten apreciar esa diferencia.
+
+:::
+
+:::
+
+::: {#C1-B02.P005 .pasaje data-passage-id="C1-B02.P005"}
+
+::: {#B2.5}
+
+En Samos, los grandes huesos de vertebrados se vincularon con relatos sobre los antiguos habitantes de la isla. Eliano, al citar a Euforión, habla de las néades, bestias enormes y peligrosas cuyos bramidos podían hendir la tierra. Añade que sus grandes huesos todavía se mostraban en tiempos del autor citado. Otra tradición, recogida por Plutarco, relacionaba los restos con las amazonas vencidas por Dioniso. En ambos casos, los huesos daban una presencia material a narraciones sobre un pasado extraordinario [@buffetaut1991-desfossiles; @aelian-naturaanimalium].
+
+Mucho después, Charles Forsyth Major explicó que esos relatos habían orientado sus investigaciones sobre los vertebrados miocenos de Samos. Sus campañas de 1887 y 1889 recuperaron restos de antílopes, rinocerontes, carnívoros y otros mamíferos. Aunque la recolección de fósiles en la isla había comenzado antes, las investigaciones de Major contribuyeron a dar a conocer la riqueza de sus yacimientos. Los mismos restos que habían recibido interpretaciones legendarias pasaban así a estudiarse mediante la comparación anatómica y su contexto geológico [@buffetaut1991-desfossiles; @solouniasring2007-samos].
+
+:::
+
+:::
+
+::: {#C1-B02.P006 .pasaje data-passage-id="C1-B02.P006"}
+
+::: {#B2.6}
+
+La asociación entre grandes huesos y seres gigantescos aparece también en los testimonios sobre Sicilia. Buffetaut recoge la noticia de que Empédocles atribuía a una raza de gigantes los grandes restos encontrados en la isla. La relación propuesta entre los elefantes fósiles y los cíclopes añade a esa interpretación del tamaño un rasgo anatómico particularmente sugerente: la apariencia de un cráneo con una sola gran cavidad central [@buffetaut1991-desfossiles].
+
+El contexto paleontológico hace posible esa asociación. Durante el Pleistoceno, Sicilia y otras islas del archipiélago sículo-maltés albergaron poblaciones de elefantes que evolucionaron hacia tamaños muy distintos. Entre ellas destaca *Palaeoloxodon falconeri*, una forma enana de alrededor de un metro de altura a la cruz. Sus restos se han conservado en depósitos y cavidades de la región. Aunque estos animales eran pequeños comparados con sus parientes continentales, sus cráneos podían resultar desconcertantes para quien desconociera su anatomía. La diversidad de elefantes insulares tampoco permite atribuir indistintamente todos los grandes huesos sicilianos a esta especie [@scarborough2022-elefantes; @kohler2021-falconeri].
+
+En el cráneo de un elefante, la abertura nasal ósea es grande y ocupa una posición central elevada, relacionada con la inserción de la trompa. Las verdaderas órbitas se encuentran a los lados. Si se interpreta el cráneo mediante una comparación inmediata con el rostro humano, esa abertura puede parecer la cavidad de un único ojo. A comienzos del siglo XX, Othenio Abel propuso que los hallazgos de cráneos de elefantes enanos en cuevas sicilianas habrían contribuido al mito de los cíclopes. Su reconstrucción imaginaba a marineros griegos que los interpretaban como restos de gigantes de un solo ojo. Se trata de una explicación del posible proceso de interpretación, no de un encuentro concreto documentado [@buffetaut1991-desfossiles].
+
+La tradición literaria aporta otro elemento de interés, pero requiere distinguir sus etapas. En el canto IX de la *Odisea*, el país de los cíclopes no queda identificado expresamente con Sicilia. La localización siciliana se afianza en fuentes posteriores: Tucídides menciona a los cíclopes y lestrigones como los habitantes más antiguos de la isla, aunque deja a los poetas y a la tradición la cuestión de sus orígenes. Ese pasaje no habla de restos de proboscidios. En el *Cíclope* de Eurípides, en cambio, el escenario se sitúa explícitamente en el Etna y Polifemo habita una cueva. La coincidencia entre la geografía de los relatos y una región con elefantes fósiles refuerza el interés de la hipótesis, sin convertir las obras literarias en testimonios de su descubrimiento [@tucidides-VI2; @euripides-ciclope; @nova2023-ciclope].
+
+La propuesta de Abel, por tanto, no descansa únicamente en una semejanza aislada. Convergen un rasgo anatómico reconocible, la presencia real de elefantes fósiles en Sicilia y una tradición antigua que sitúa allí a los cíclopes. Agnesi y colaboradores examinan esta conexión en su estudio sobre los gigantes y elefantes de Sicilia. Esa convergencia permite plantear que ciertos hallazgos pudieron inspirar o reforzar las representaciones de estos seres, e incluso proporcionar una aparente confirmación material de relatos ya existentes [@agnesi2007-gigantes].
+
+La relación entre estos fósiles y los cíclopes es plausible, aunque no permite atribuir el origen del mito a un hallazgo concreto. El nacimiento de una figura mítica y su posterior asociación con un paisaje son procesos distintos: los restos encontrados en Sicilia pudieron incorporarse a narraciones ya conocidas y hacerlas más verosímiles. El caso ilustra cómo un objeto natural podía adquirir significado a través de un relato compartido y, a su vez, contribuir a reforzarlo o transformarlo [@buffetaut1991-desfossiles; @nova2023-ciclope].
+
+:::
+
+:::
+
+::: {#C1-B02.P007 .pasaje data-passage-id="C1-B02.P007"}
+
+::: {#B2.7}
+
+### Las primeras ideas griegas sobre los fósiles: cambios en los océanos y la configuración de la Tierra {#sec-las-primeras-ideas-griegas-sobre-los-fosiles-cambios-en-los-oceanos-y-la-configuracion-de-la-tierra}
+
+El interés por los restos del pasado incluyó también explicaciones sobre las transformaciones de la Tierra. Entre los siglos VI y V a. C., distintos pensadores griegos reflexionaron sobre el origen de los seres vivos y los cambios del mundo natural. Anaximandro vinculó el origen de los animales con la humedad y el de los seres humanos con formas acuáticas. En los testimonios conservados sobre Jenófanes y en la obra de Heródoto encontramos, además, argumentos explícitos basados en restos marinos hallados tierra adentro.
+
+Según el testimonio posterior de Hipólito en el libro I de su *Refutación de todas las herejías*, Jenófanes interpretó las conchas de las montañas y las impresiones de organismos conservadas en piedra como indicios de una antigua mezcla de tierra y mar. Heródoto, por su parte, empleó las conchas de las montañas de Egipto, junto con las características del suelo y la acumulación de sedimentos del Nilo, para razonar sobre la formación de ese territorio (*Historias*, II.12). En ambos casos, restos de origen marino contribuían a explicar por qué un paisaje podía haber sido distinto del que observaban [@buffetaut1991-desfossiles; @martin2014-35587f].
+
+Estos razonamientos relacionaban una observación presente con una transformación pasada del paisaje. El parecido de algunas conchas fósiles con las de organismos vivos favorecía esa interpretación, mientras que otros restos resultaban mucho más difíciles de reconocer. Sus explicaciones pertenecían a concepciones de la naturaleza diferentes de las actuales: permiten seguir una forma temprana de razonar sobre el pasado, sin convertirla en el comienzo de una trayectoria inevitable hacia la geología moderna [@rudwick1985-meaning].
+
+Lectura recomendada
+
+Sierra Martín, C. (2014). Heródoto (II. 86–88) y el conocimiento anatómico griego. *Ágora. Estudos Clássicos em Debate*, 16, 29–40. La página 30 sitúa las observaciones de Heródoto sobre conchas, sedimentos y transformación del territorio dentro de sus intereses naturalistas. El artículo desarrolla después, principalmente, el conocimiento anatómico y el embalsamamiento.
+
+:::
+
+:::
+
+::: {#C1-B02.P008 .pasaje data-passage-id="C1-B02.P008"}
+
+::: {#B2.8}
+
+### Fósiles en otras culturas: amuletos, talismanes y visiones divinas {#sec-fosiles-en-otras-culturas-amuletos-talismanes-y-visiones-divinas}
+
+Las tradiciones grecorromanas forman parte de una historia cultural mucho más amplia. En China, diversos huesos y dientes fósiles recibieron los nombres de «huesos de dragón» (*long gu*) y «dientes de dragón» (*long chi*), y se incorporaron a la farmacopea tradicional. Muchos de esos materiales procedían de mamíferos extinguidos, aunque una denominación común podía reunir restos de animales distintos [@buffetaut1991-desfossiles].
+
+El dragón chino se concebía como un ser celeste y benéfico, vinculado con las nubes y la lluvia. Según uno de los relatos recogidos por Buffetaut, los huesos encontrados bajo tierra pertenecían a dragones que, al faltar las nubes, no habían podido regresar al cielo. Estas explicaciones daban sentido al hallazgo y a las propiedades curativas que se atribuían a sus restos. Los tratados médicos prescribían huesos y dientes para dolencias diversas, y su comercio llegó a proporcionar a los paleontólogos ejemplares cuyo verdadero origen se investigó después [@buffetaut1991-desfossiles].
+
+La comparación con los relatos europeos revela asociaciones entre fósiles y criaturas extraordinarias en culturas distintas. Esa semejanza no demuestra, por sí misma, que todos los mitos sobre dragones procedan de una única tradición ni que se transmitieran siguiendo una ruta simple entre China, Grecia y Roma.
+
+:::
+
+:::
+
+::: {#C1-B02.P009 .pasaje data-passage-id="C1-B02.P009"}
+
+::: {#B2.9}
+
+La forma espiral de los amonites, un grupo extinto de moluscos cefalópodos, recuerda los cuernos curvados de un carnero, animal vinculado a la iconografía del dios egipcio Amón, asociado con Ra en la figura de Amón-Ra. Esa semejanza quedó reflejada en la tradición naturalista y en el nombre de estos fósiles, conocidos históricamente como «cuernos de Amón» [@rudwick1985-meaning].
+
+Una de las referencias antiguas más interesantes aparece en la *Historia natural* de Plinio el Viejo, escrita en el siglo I d. C. En el libro XXXVII, dedicado a las piedras preciosas y sus propiedades, el naturalista romano describe el *Hammonis cornu* («cuerno de Amón») como una piedra de color dorado, semejante al cuerno de un carnero y considerada entre las más sagradas de Etiopía. Recoge, además, la creencia de que proporcionaba sueños proféticos. El testimonio vincula así la apariencia de un objeto natural con un carácter sagrado y unas propiedades adivinatorias [@plinio-hn-XXXVII167].
+
+Conviene, sin embargo, distinguir lo que documenta el autor romano de las interpretaciones posteriores. Aunque el nombre *Hammonis cornu* se ha relacionado tradicionalmente con los amonites, la descripción de Plinio no permite identificar inequívocamente la piedra con estos fósiles. Tampoco atestigua que los sacerdotes del antiguo Egipto los utilizaran en ceremonias destinadas a obtener visiones durante el sueño. Lo que sí recoge el pasaje es la atribución de propiedades sobrenaturales a una piedra cuya forma recordaba el cuerno asociado a Amón.
+
+Este ejemplo muestra cómo las formas de los objetos naturales podían adquirir significados que trascendían su origen material. Junto con las interpretaciones antiguas de los restos fósiles, permite comprender que la relación de las sociedades con los vestigios del pasado estuvo condicionada por sus creencias, tradiciones y conocimientos. Reconstruir esa historia exige distinguir entre los objetos que han llegado hasta nosotros, los testimonios que describen su significado y las hipótesis modernas con las que tratamos de explicar esas relaciones.
+
+:::
+
+:::

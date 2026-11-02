@@ -1,0 +1,22 @@
+# Licencia {#sec-licencia}
+
+Esta obra está bajo una [Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+## Resumen de la Licencia {#sec-resumen-de-la-licencia}
+
+Bajo esta licencia, puedes:
+
+- Compartir: Copiar y redistribuir el material en cualquier medio o formato.
+
+Bajo las siguientes condiciones:
+
+- Atribución: Debes dar crédito adecuado, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puedes hacerlo de cualquier manera razonable, pero no de ninguna manera que sugiera que el licenciante te respalda a ti o a tu uso.
+
+- NoComercial: No puedes utilizar el material para fines comerciales.
+
+- Sin Derivadas: Si remezclas, transformas o creas a partir del material, no puedes distribuir el material modificado.
+
+Para más detalles sobre esta licencia, visita el enlace proporcionado.
+
+
+Los créditos particulares de las ilustraciones se conservan en sus pies. La licencia de la obra no amplía los permisos de los materiales de terceros.

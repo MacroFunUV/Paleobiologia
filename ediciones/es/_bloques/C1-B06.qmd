@@ -1,0 +1,457 @@
+::: {#C1-B06.P001 .pasaje data-passage-id="C1-B06.P001"}
+
+### Debates sobre los mecanismos evolutivos entre los siglos XIX y XX {#sec-piedras-contra-el-tejado-de-la-teoria-de-la-evolucion-en-el-siglo-xix}
+
+:::
+
+::: {#C1-B06.P002 .pasaje data-passage-id="C1-B06.P002"}
+
+La aceptación de la descendencia común no resolvió de inmediato cómo se originaban las novedades ni qué procesos explicaban las tendencias del registro fósil. Entre finales del siglo XIX y las primeras décadas del XX coexistieron interpretaciones muy distintas, algunas favorables a la selección natural y otras que le atribuían un papel secundario. Sus desacuerdos se referían tanto a la herencia y la variación como a la manera de interpretar una sucesión de formas. Distinguir esos problemas permite comprender la historia de la teoría evolutiva sin presentar cada propuesta como una aceptación o un rechazo de la evolución en su conjunto.
+
+:::
+
+::: {#C1-B06.P003 .pasaje data-passage-id="C1-B06.P003"}
+
+#### Aristogénesis y las interpretaciones de Henry Fairfield Osborn {#sec-la-primera-piedra-aristogenesis-y-las-visiones-de-henry-fairfield-osborn}
+
+:::
+
+::: {#C1-B06.P004 .pasaje data-passage-id="C1-B06.P004"}
+
+![Retrato de Henry Osborn. Imagen disponible bajo licencia Creative Commons CC0.](assets/aac24a255765.jpg){#fig-henryosborn width=50% fig-alt="Retrato de Henry Osborn. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B06.P005 .pasaje data-passage-id="C1-B06.P005"}
+
+Henry Fairfield Osborn (1857–1935) buscó en las series fósiles indicios de una dirección interna del cambio. En su aristogénesis, las novedades adaptativas surgirían de potencialidades del material hereditario que se manifestaban de manera ordenada. Aunque relacionaba el proceso con la adaptación, atribuía el origen de esas novedades a una capacidad interna y no al efecto creativo de la selección sobre variaciones surgidas sin relación con su utilidad. Es una propuesta del primer tercio del siglo XX: Osborn empleó el término en 1931 y lo desarrolló en el artículo de 1933 que acompaña a la figura (Osborn, 1933, pp. 699–700).
+
+:::
+
+::: {#C1-B06.P006 .pasaje data-passage-id="C1-B06.P006"}
+
+Osborn describió *Tyrannosaurus rex* en 1905 y realizó contribuciones importantes al estudio de los vertebrados fósiles. Su interpretación de los mecanismos evolutivos, sin embargo, debe evaluarse por sus propias pruebas. Denominó aristogenes a los nuevos biomecanismos que consideraba originados en el «geneplasma», una expresión de su marco hereditario que no equivale a identificar genes en el sentido molecular actual. Los distinguió de los allometrons, cambios de proporción que podían desarrollarse con mayor rapidez.
+
+La dentición de los proboscidios le proporcionaba un ejemplo: ordenaba formas con un número creciente de elementos y las interpretaba como manifestaciones de potencialidades hereditarias predeterminadas. El registro documentaba diferencias anatómicas, pero no demostraba por sí solo ese mecanismo. Aunque Osborn presentaba la aristogénesis como un proceso directamente observado, pasar de la serie morfológica a una causa interna exigía una inferencia adicional. Su trabajo permite reconocer una distinción que sigue siendo fundamental: documentar una tendencia no basta para identificar el proceso que la produjo (Osborn, 1933, pp. 700–702).
+
+:::
+
+::: {#C1-B06.P007 .pasaje data-passage-id="C1-B06.P007"}
+
+![Ejemplo de aristogénesis en mastodontes según Henry Osborn. Imagen tomada de Osborn (1933).](assets/c79f679c0af4.png){#fig-laminaosborn width=50% fig-alt="Ejemplo de aristogénesis en mastodontes según Henry Osborn. Imagen tomada de Osborn (1933)."}
+
+:::
+
+::: {#C1-B06.P008 .pasaje data-passage-id="C1-B06.P008"}
+
+Sus ideas sobre el origen humano expresaban también una preferencia por separar muy tempranamente la historia de la humanidad de la de los demás simios. Osborn aceptó los supuestos restos de Piltdown y los incorporó a su defensa de un «hombre del amanecer». Su reconstrucción atribuía al antepasado común rasgos que consideraba más próximos a los humanos y postulaba una prolongada evolución separada de ambas ramas. No negaba toda ascendencia compartida, pero sus preferencias condicionaban la forma que esperaba encontrar.
+
+Piltdown resultó ser un fraude, y aquella genealogía perdió uno de sus apoyos. El caso muestra cómo una interpretación puede parecer convincente cuando coincide con expectativas previas. Desde la perspectiva actual, los humanos pertenecemos al linaje de los grandes simios: nuestra historia no es la de un grupo externo que hubiese avanzado en paralelo a todos ellos (Subramaniam, 2023).
+
+:::
+
+::: {#C1-B06.P009 .pasaje data-passage-id="C1-B06.P009"}
+
+La trayectoria de Osborn no se redujo a la aristogénesis. Estuvo próximo al neolamarckismo de Edward Drinker Cope, que concedía importancia al uso y desuso y a la herencia de modificaciones adquiridas. Faria muestra que el progreso biológico de Cope no equivalía siempre a un aumento de complejidad: también podía entenderse como una mejora de la adecuación al ambiente, alcanzada mediante adiciones o reducciones del desarrollo (Faria, 2017).
+
+Osborn participó también, junto con James Mark Baldwin y Conwy Lloyd Morgan, en la formulación de la selección orgánica en 1896. Esta propuesta atribuía a las respuestas individuales al ambiente, incluido el aprendizaje, un papel en la orientación del cambio evolutivo mediante selección natural (Longa, 2009). La relación entre plasticidad y evolución se desarrollará en el capítulo de morfología evolutiva.
+
+:::
+
+::: {#C1-B06.P010 .pasaje data-passage-id="C1-B06.P010"}
+
+Estas discusiones científicas coexistieron con compromisos sociales que también deben examinarse. Osborn promovió la eugenesia y apoyó jerarquías raciales que atribuían a diferencias hereditarias supuestas desigualdades humanas. Fue cofundador de la American Eugenics Society en 1922 y escribió prefacios para *The Passing of the Great Race*, de Madison Grant. El American Museum of Natural History, que presidía, acogió en 1921 el Segundo Congreso Internacional de Eugenesia; un siglo después, la propia institución reconoció y condenó su participación en ese movimiento.
+
+La eugenesia pretendía controlar la reproducción humana y se utilizó para legitimar exclusión y coerción. Su inclusión en esta historia ayuda a entender cómo una autoridad científica y determinadas ideas sobre la herencia podían ponerse al servicio de proyectos políticos y sociales. Esas jerarquías raciales no constituyen una conclusión válida de la biología evolutiva (National Park Service, 2022; American Museum of Natural History, 2021).
+
+:::
+
+::: {#C1-B06.P011 .pasaje data-passage-id="C1-B06.P011"}
+
+La importancia de Osborn para la paleontología no obliga a aceptar sus mecanismos evolutivos ni sus interpretaciones de las diferencias humanas. Sus trabajos reúnen observaciones valiosas, hipótesis discutibles y compromisos ideológicos que necesitan evaluaciones distintas. La historia de la disciplina resulta más instructiva cuando permite examinar cómo se construyeron esas relaciones y qué pruebas sostienen cada afirmación.
+
+:::
+
+::: {#C1-B06.P012 .pasaje data-passage-id="C1-B06.P012"}
+
+:::::::: {.reading-recommendation}
+Lecturas recomendadas
+
+Osborn, H. F. (1933). Aristogenesis, the observed order of biomechanical evolution. *Proceedings of the National Academy of Sciences*, 19(7), 699–703. Texto histórico breve para distinguir las observaciones morfológicas de la interpretación causal propuesta por su autor.
+
+Faria, F. (2017). O neolamarckismo de Edward Drinker Cope e a ideia de progresso biológico no processo evolutivo. *História, Ciências, Saúde – Manguinhos*, 24(4), 1009–1029. Ampliación histórica sobre las distintas acepciones de progreso y adaptación.
+::::::::
+
+:::
+
+::: {#C1-B06.P013 .pasaje data-passage-id="C1-B06.P013"}
+
+#### La recapitulación filogenética de Ernst Haeckel {#sec-la-segunda-piedra-la-recapitulacion-filogenetica-de-ernst-haeckel}
+
+:::
+
+::: {#C1-B06.P014 .pasaje data-passage-id="C1-B06.P014"}
+
+![Ernst Haeckel en su Instituto Zoológico en Jena (Alemania). Imagen tomada de Watts et al. (2019).](assets/e86a616aeaf0.png){#fig-ernsthaeckel width=50% fig-alt="Ernst Haeckel en su Instituto Zoológico en Jena (Alemania). Imagen tomada de Watts et al. (2019)."}
+
+:::
+
+::: {#C1-B06.P015 .pasaje data-passage-id="C1-B06.P015"}
+
+Ernst Haeckel (1834–1919) fue uno de los defensores más influyentes de la evolución y de la descendencia común. Su ley biogenética, formulada en 1866, proponía que la ontogenia recapitula la filogenia: el desarrollo individual conservaría, de forma abreviada y modificada, etapas de la historia de los antepasados. Esta formulación no debe confundirse con la observación, válida y más general, de que los organismos emparentados comparten características del desarrollo.
+
+La teoría de la Gastraea daba una interpretación genealógica a la semejanza entre ciertas fases embrionarias. Haeckel propuso un antepasado hipotético de los animales multicelulares comparable a una gástrula y trató de reconstruir la historia a partir del desarrollo. Era una hipótesis sobre un organismo ancestral, no la demostración de que un arquetipo ideal se hubiera materializado. La monofilia de los animales y la reconstrucción concreta de su último antepasado son cuestiones distintas: aceptar la primera no confirma automáticamente la segunda (Sander, 2002).
+
+Sus láminas embrionarias suscitaron críticas por omisiones, reutilizaciones y modificaciones que acentuaban semejanzas. Las investigaciones históricas discrepan sobre la intención y el significado de algunas de esas intervenciones. Reconocer su eficacia visual o su contexto pedagógico no convierte todos los dibujos en registros anatómicos exactos. Tampoco los problemas de las láminas invalidan las evidencias independientes de la embriología comparada. Para estudiar esas evidencias conviene acudir a descripciones e imágenes actuales, con las especies y fases de desarrollo claramente identificadas (Sander, 2002, pp. 523 y 532; Watts et al., 2019, pp. 24–27).
+
+:::
+
+::: {#C1-B06.P016 .pasaje data-passage-id="C1-B06.P016"}
+
+![Comparación de las ilustraciones de Haeckel publicadas en 1874 (arriba) y 1891 (abajo). Imagen tomada de Watts et al. (2019).](assets/2bdb20645040.png){#fig-laminahaeckel width=50% fig-alt="Comparación de las ilustraciones de Haeckel publicadas en 1874 (arriba) y 1891 (abajo). Imagen tomada de Watts et al. (2019)."}
+
+:::
+
+::: {#C1-B06.P017 .pasaje data-passage-id="C1-B06.P017"}
+
+Su habilidad artística amplió la circulación de las ideas evolutivas. Las láminas de radiolarios, medusas y otros organismos permitían reconocer regularidades de forma que eran difíciles de comunicar solo mediante palabras; sus árboles y comparaciones embrionarias influyeron también en los manuales. La fuerza de esas imágenes obliga a leerlas como representaciones construidas: la elección de escala, orientación y fase puede facilitar una comparación, pero también condicionar lo que parece semejante o diferente (Sander, 2002; Watts et al., 2019).
+
+:::
+
+::: {#C1-B06.P018 .pasaje data-passage-id="C1-B06.P018"}
+
+![Ilustración de Haeckel. Imagen disponible bajo licencia Creative Commons CC0.](assets/9b9825272bda.jpg){#fig-laminahaeckel2 width=50% fig-alt="Ilustración de Haeckel. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B06.P019 .pasaje data-passage-id="C1-B06.P019"}
+
+La ley biogenética no se mantiene como una descripción general del desarrollo: un embrión no recorre una sucesión de adultos ancestrales. Sin embargo, la comparación de procesos embrionarios sigue siendo esencial para estudiar la evolución. Estructuras y sistemas reguladores compartidos pueden conservarse, modificarse o adquirir funciones nuevas, y las semejanzas no se distribuyen de manera uniforme por todas las fases del desarrollo. La biología evolutiva del desarrollo retoma estas relaciones mediante observaciones y mecanismos que Haeckel no conoció; no constituye una confirmación literal de su recapitulación (Sander, 2002; Watts et al., 2019, pp. 24–25).
+
+:::
+
+::: {#C1-B06.P020 .pasaje data-passage-id="C1-B06.P020"}
+
+La recapitulación ofrecía además una promesa metodológica: reconstruir parte del pasado mediante organismos vivos, incluso cuando faltaban fósiles. Esa posibilidad podía reducir, en ciertos programas de investigación, la prioridad concedida al registro paleontológico o a los análisis funcionales. No permite concluir, sin embargo, que Haeckel eliminara la necesidad de los fósiles para toda la biología ni que su propuesta causara por sí sola el abandono de la paleoecología.
+
+La dificultad era más precisa. El desarrollo también evoluciona: las fases pueden acortarse, reorganizarse o adquirir especializaciones propias. Por ello, una semejanza embrionaria no identifica sin más un antepasado, y una filogenia necesita contrastar caracteres, sucesión fósil y otras evidencias. El valor histórico de la recapitulación reside tanto en las preguntas que impulsó como en los límites que obligó a reconocer.
+
+:::
+
+::: {#C1-B06.P021 .pasaje data-passage-id="C1-B06.P021"}
+
+:::::::: {.reading-recommendation}
+Lecturas recomendadas
+
+Sander, K. (2002). Ernst Haeckel’s ontogenetic recapitulation: irritation and incentive from 1866 to our time. *Annals of Anatomy*, 184(6), 523–533. Introducción histórica a la recapitulación y a sus controversias.
+
+Watts, E., Levit, G. S. y Hossfeld, U. (2019). Ernst Haeckel’s contribution to Evo-Devo and scientific debate: a re-evaluation of Haeckel’s controversial illustrations in US textbooks in response to creationist accusations. *Theory in Biosciences*, 138, 9–29. Ampliación sobre las imágenes, su recepción y la diferencia entre recapitulación y embriología comparada.
+::::::::
+
+:::
+
+::: {#C1-B06.P022 .pasaje data-passage-id="C1-B06.P022"}
+
+### Finales del siglo XIX: aplicación industrial de la paleontología {#sec-finales-del-siglo-xix-aplicacion-industrial-de-la-paleontologia}
+
+:::
+
+::: {#C1-B06.P023 .pasaje data-passage-id="C1-B06.P023"}
+
+Desde el siglo XIX, el valor de los fósiles para ordenar y correlacionar estratos favoreció la vinculación de buena parte de la paleontología con los servicios geológicos y la búsqueda de recursos. La prospección de carbón y, posteriormente, el desarrollo de la industria petrolera ampliaron ese campo de aplicación. Su consolidación fue desigual y se prolongó durante el siglo XX, especialmente en el caso de la micropaleontología. No se trató de un cambio único ocurrido al final del XIX, sino de una creciente especialización de tareas e instituciones (Rudwick, 2018, pp. 136–137).
+
+:::
+
+::: {#C1-B06.P024 .pasaje data-passage-id="C1-B06.P024"}
+
+![Instalación histórica de perforación petrolera en la región del río Athabasca, Alberta. Imagen disponible bajo licencia Creative Commons CC0.](assets/21f5f9f2f4d2.png){#fig-firstoil width=50% fig-alt="Instalación histórica de perforación petrolera en la región del río Athabasca, Alberta. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B06.P025 .pasaje data-passage-id="C1-B06.P025"}
+
+El uso aplicado de los fósiles influyó tanto en las preguntas que se planteaban como en la organización del trabajo. La datación relativa y la correlación necesitaban identificar organismos con distribuciones estratigráficas y geográficas útiles. Una asociación fósil permitía relacionar muestras de un sondeo con sucesiones conocidas y orientar la interpretación de las rocas atravesadas.
+
+:::
+
+::: {#C1-B06.P026 .pasaje data-passage-id="C1-B06.P026"}
+
+Esta función no equivale a carecer de contenido científico. Describir especies, establecer su distribución y construir una biozonación producen conocimiento necesario para otras investigaciones. La limitación aparecía cuando el fósil se utilizaba exclusivamente como indicador de edad y quedaban en segundo plano su biología, sus relaciones ecológicas o las causas de su distribución. Rudwick distingue esa orientación estratigráfica, particularmente influyente en el estudio de invertebrados, de las tradiciones anatómicas y funcionales más desarrolladas en los vertebrados (Rudwick, 2018, pp. 136–137).
+
+:::
+
+::: {#C1-B06.P027 .pasaje data-passage-id="C1-B06.P027"}
+
+Las muestras pequeñas de sondeos y los residuos de perforación favorecieron el empleo de microfósiles, que pueden ser abundantes y recuperarse en volúmenes reducidos. Su utilidad depende de que existan en los depósitos estudiados, se conserven y ofrezcan una resolución adecuada; no están presentes en todas las capas. Los macrofósiles también pueden aparecer en testigos y otros materiales, aunque su tamaño, rareza o fragmentación dificulten algunas aplicaciones.
+
+La especialización industrial alteró las oportunidades profesionales y, en ocasiones, la circulación de datos sujetos a intereses comerciales. No supuso una expulsión general de los especialistas en macrofósiles: museos, universidades y servicios geológicos mantuvieron tradiciones de investigación distintas. Entender esa diversidad institucional ayuda a explicar el posterior impulso de programas orientados de manera explícita a la biología de los organismos del pasado.
+
+:::
+
+::: {#C1-B06.P028 .pasaje data-passage-id="C1-B06.P028"}
+
+### Siglo XX: la evolución después de Darwin {#sec-siglo-xx-la-evolucion-despues-de-darwin}
+
+:::
+
+::: {#C1-B06.P029 .pasaje data-passage-id="C1-B06.P029"}
+
+En ese contexto, Othenio Abel (1875–1946) defendió un programa centrado en reconstruir la vida de los organismos fósiles. Su *Grundzüge der Paläobiologie der Wirbeltiere*, de 1912, contribuyó a establecer la denominación paleobiología y una orientación que conectaba adaptaciones, modos de vida y relaciones evolutivas. Como se ha visto al presentar la disciplina, ese programa no surgió de la nada: recogía tradiciones anteriores y adquirió formas distintas en diferentes comunidades científicas (Kutschera, 2007).
+
+:::
+
+::: {#C1-B06.P030 .pasaje data-passage-id="C1-B06.P030"}
+
+Durante las décadas posteriores a la publicación de *El origen de las especies*, la explicación de los mecanismos evolutivos siguió siendo objeto de debate. Junto a la selección natural circularon cuatro grandes alternativas: la creación independiente, la herencia de caracteres adquiridos, la ortogénesis y el transmutacionismo saltacionista. Sus defensores les concedían alcances distintos y podían combinar más de una explicación. La integración de la genética mendeliana con la selección natural durante las décadas de 1930 y 1940 contribuyó a consolidar esta última como mecanismo central de la evolución, dentro del marco de la síntesis evolutiva (Kutschera y Niklas, 2004, pp. 260–263).
+
+:::
+
+::: {#C1-B06.P031 .pasaje data-passage-id="C1-B06.P031"}
+
+La creación independiente atribuía el origen de las especies a actos particulares de creación. Darwin mostró cómo la descendencia con modificación permitía relacionar afinidades, distribución y sucesión de organismos mediante una historia natural común.
+
+El argumento del diseño tenía una imagen célebre en la analogía del relojero, que William Paley utilizó en *Natural Theology* (1802): así como un reloj remite a un artífice, la complejidad de los organismos le parecía revelar un creador. Richard Dawkins retomó esa imagen en *El relojero ciego* (1986) para explicar cómo la selección natural puede acumular cambios heredables y producir adaptaciones sin ningún plan previo. La «ceguera» alude a la ausencia de previsión; la selección favorece de manera no aleatoria las variantes que contribuyen más a la descendencia (Paley, 1802; Dawkins, 1986).
+
+El diseño inteligente recupera aquella tradición al sostener que ciertas estructuras biológicas requieren una inteligencia diseñadora. Sin embargo, una laguna en el conocimiento no constituye por sí misma una prueba de diseño, y apelar a un diseñador sin ofrecer un mecanismo contrastable no proporciona una explicación científica. El creacionismo reaparece periódicamente en el debate público y en los intentos de modificar la enseñanza: en 2025, por ejemplo, el Senado de Dakota del Norte rechazó una propuesta para incluir el diseño inteligente en los contenidos escolares de ciencias (North Dakota Legislative Branch, 2025). Esa persistencia exige un esfuerzo continuado de educación y divulgación, tanto sobre las evidencias de la evolución como sobre la manera de construir explicaciones científicas. Esta distinción metodológica no impone una determinada creencia religiosa: muchas personas y comunidades religiosas aceptan la evolución (National Academies of Sciences, Engineering, and Medicine, s. f.).
+
+:::
+
+::: {#C1-B06.P032 .pasaje data-passage-id="C1-B06.P032"}
+
+El lamarckismo reunió formulaciones diversas sobre el origen y la transmisión de modificaciones adquiridas durante la vida. Darwin admitió efectos del uso y desuso y defendió una hipótesis de herencia distinta de la genética posterior, mientras que Wallace adoptó una posición más restrictiva. Weismann contribuyó a separar conceptualmente el soma de la continuidad de la línea germinal y cuestionó la transmisión general de modificaciones somáticas. Sus argumentos y experimentos no demostraron que el ambiente fuese incapaz de afectar a las células germinales ni refutaron toda forma posible de herencia no genética.
+
+La epigenética ha reabierto esta discusión al estudiar estados de regulación que pueden transmitirse sin cambios de secuencia del ADN, mediante metilación, histonas o ARN reguladores. Deben distinguirse la modificación individual, la transmisión inmediata y la persistencia en generaciones no expuestas. Durante una gestación, la exposición puede alcanzar a la madre, al feto y a las células que producirán sus gametos: un efecto en esas generaciones no prueba por sí solo herencia transgeneracional. La evidencia varía entre grupos y no puede extrapolarse automáticamente de plantas o nematodos a humanos (Fitz-James y Cavalli, 2022).
+
+Loison propone distinguir dos cuestiones. La primera es cómo se explica la propia capacidad de transmitir modificaciones adquiridas. En muchas versiones históricas del lamarckismo, esa capacidad se consideraba una propiedad general de la materia viva. La investigación actual, en cambio, estudia mecanismos concretos de transmisión epigenética, que también son productos de la evolución. Estos mecanismos ayudan a explicar determinados fenómenos hereditarios (actúan como *explicans*, es decir, como explicación), pero su origen y mantenimiento constituyen, a su vez, fenómenos que necesitan una explicación evolutiva (son el *explicandum*, aquello que debe explicarse).
+
+La segunda cuestión es cuánto pueden explicar esos mecanismos sobre la evolución de las adaptaciones. Que una modificación inducida por el ambiente se transmita durante varias generaciones no demuestra que resulte beneficiosa ni que permita acumular sucesivas mejoras adaptativas. Por ejemplo, una respuesta heredada podría favorecer la supervivencia mientras persistan ciertas condiciones y resultar perjudicial cuando cambien. Por ello, reconocer la existencia de herencia epigenética no equivale a demostrar que la transmisión de caracteres adquiridos pueda explicar por sí sola la evolución adaptativa. Es necesario investigar qué se transmite, durante cuánto tiempo, mediante qué mecanismos y con qué consecuencias para las poblaciones (Loison, 2018).
+
+:::
+
+::: {#C1-B06.P033 .pasaje data-passage-id="C1-B06.P033"}
+
+La ortogénesis reunió propuestas que atribuían las direcciones del cambio evolutivo a propiedades de la organización de los seres vivos. Wilhelm Haacke introdujo el término en 1893, y Theodor Eimer contribuyó a difundirlo. Ambos buscaban explicar por qué la variación parecía seguir determinadas direcciones, en lugar de producir indistintamente cualquier transformación. Sus explicaciones recurrían a propiedades estructurales y procesos físicos o fisiológicos, sin requerir una finalidad consciente ni un impulso hacia la perfección (Levit y Olsson, 2006).
+
+Bajo esa denominación convivieron, sin embargo, interpretaciones diversas. Algunas comparaban la historia de los linajes con el desarrollo individual, atribuyéndoles etapas de crecimiento, madurez y declive; otras incorporaban concepciones finalistas. La dirección del cambio, su comparación con la ontogenia y la existencia de una meta evolutiva podían aparecer asociadas, aunque no fueran ideas equivalentes. Esta diversidad explica parte de la ambigüedad histórica del término.
+
+La genética y la biología del desarrollo permiten hoy investigar mecanismos capaces de favorecer determinadas direcciones de cambio. Algunos tipos de mutación aparecen con mayor frecuencia que otros, y los sistemas de desarrollo producen ciertas variantes con más facilidad que otras. Estas diferencias pueden influir en las trayectorias evolutivas y contribuir a la aparición repetida de determinados cambios. Su efecto depende de la interacción con la selección, la deriva y las condiciones ambientales (Uller et al., 2018; Cano et al., 2022).
+
+También existen procesos de recambio del ADN, como la conversión génica y la recombinación desigual, que pueden contribuir a homogeneizar las copias de una familia génica. Estos procesos forman parte de la explicación del *molecular drive*, propuesto por Dover en 1982, y permiten estudiar cambios moleculares sin atribuir una ventaja selectiva a cada variante que se extiende (Dover et al., 1993). Por su parte, la *mutation-driven evolution* de Nei concede a la mutación un papel predominante en la evolución. Esta interpretación general debe distinguirse de la constatación de que los sesgos mutacionales influyen en determinados cambios evolutivos (Nei, 2013).
+
+Grehan (2018) relaciona estos enfoques con el sentido de variación condicionada por la organización que reconoce en las primeras formulaciones de la ortogénesis. La comparación recupera una pregunta histórica pertinente, pero requiere cautela por las connotaciones teleológicas del término y por las diferencias entre aquellas teorías y los mecanismos actuales (Grehan, 2018). Una tendencia, como la reducción o fusión de elementos en flores y cráneos, plantea un problema que debe explicarse considerando filogenia, desarrollo, función y dinámica poblacional. Su existencia no demuestra que el linaje estuviera destinado a alcanzar un resultado predeterminado.
+
+:::
+
+::: {#C1-B06.P034 .pasaje data-passage-id="C1-B06.P034"}
+
+El transmutacionismo saltacionista proponía que las grandes transformaciones evolutivas podían originarse mediante cambios hereditarios de gran efecto, capaces de producir formas muy distintas de sus progenitores en una o pocas generaciones. Richard Goldschmidt desarrolló esta perspectiva en *The Material Basis of Evolution* (1940). Admitía que la acumulación de pequeñas variaciones explicaba los cambios dentro de las especies, pero consideraba que el origen de nuevas especies y grupos de mayor rango requería mecanismos diferentes. Para ello propuso tanto las mutaciones sistémicas, ligadas a su interpretación de la organización cromosómica, como las macromutaciones del desarrollo, capaces de producir grandes modificaciones fenotípicas. Aunque muchas de estas modificaciones resultarían inviables, algunas podían ser adecuadas a nuevas condiciones y producir los llamados «monstruos prometedores», con potencial para establecer un nuevo linaje (Kutschera y Niklas, 2004, p. 261; Dietrich, 2003, pp. 71–73).
+
+La propuesta planteaba dos problemas relacionados: cómo podía originarse una novedad de gran magnitud y cómo podía incorporarse a la historia evolutiva de una población. Un organismo con una modificación llamativa debía ser viable, fértil y capaz de transmitirla. Una mutación nueva puede heredarse mediante cruces con individuos de la población ancestral; su propagación depende, entre otros factores, de la dominancia, la compatibilidad reproductiva, la selección y la deriva. Por ello, la aparición de una forma muy diferente de sus progenitores no basta para demostrar el origen de una nueva especie o de un nuevo plan corporal (Dietrich, 2003, pp. 72–73).
+
+El estudio de organismos actuales ha mostrado que algunas diferencias morfológicas importantes dependen de cambios genéticos relativamente localizados. En ciertas poblaciones del espinoso de tres espinas (*Gasterosteus aculeatus*), un pequeño pez, la reducción de la cintura pélvica y de las espinas pélvicas se ha relacionado con cambios en la regulación de *Pitx1*. Estos modifican el desarrollo de una región del cuerpo y conservan otras funciones del gen. El ejemplo permite comprender cómo una modificación reguladora puede producir un efecto anatómico considerable, aunque por sí solo no demuestra que tales cambios originen nuevas especies ni respalda el mecanismo de las mutaciones sistémicas de Goldschmidt (Shapiro et al., 2004).
+
+También se han buscado conexiones entre la organización genética y las grandes transformaciones corporales en los cirrípedos, crustáceos cuya morfología adulta puede diferir mucho de la de otros crustáceos. Géant y colaboradores estudiaron los genes Hox del cirrípedo parásito *Sacculina carcini* y documentaron su agrupamiento en un mismo cromosoma. Los autores examinaron estos resultados en relación con la hipótesis de los «monstruos prometedores», pero el agrupamiento de los genes Hox no demuestra que el linaje se originara mediante una única macromutación (Géant et al., 2006).
+
+La controversia sobre los «monstruos prometedores» no se resuelve, por tanto, demostrando que existen mutaciones de gran efecto. Lo decisivo es establecer si esas mutaciones pueden originar formas viables y heredables capaces de fundar nuevos linajes y, sobre todo, si representan una vía predominante de las grandes transformaciones evolutivas o una posibilidad de alcance más limitado. La evidencia sobre el origen de una novedad debe relacionarse con su persistencia y propagación en las poblaciones (Dietrich, 2003, pp. 72–73; Kutschera y Niklas, 2004, p. 261).
+
+:::
+
+::: {#C1-B06.P035 .pasaje data-passage-id="C1-B06.P035"}
+
+:::::::: {.reading-recommendation}
+Lecturas recomendadas
+
+Dietrich, M. R. (2003). Richard Goldschmidt: hopeful monsters and other ‘heresies’. *Nature Reviews Genetics*, 4(1), 68–74. Lectura principal para distinguir sus propuestas genéticas y su interpretación del desarrollo.
+
+Loison, L. (2018). Lamarckism and epigenetic inheritance: a clarification. *Biology & Philosophy*, 33, artículo 29. Ampliación conceptual sobre la comparación entre mecanismos actuales y teorías históricas.
+
+Fitz-James, M. H. y Cavalli, G. (2022). Molecular mechanisms of transgenerational epigenetic inheritance. *Nature Reviews Genetics*, 23, 325–341. Revisión moderna de mecanismos y de las diferencias entre grupos; puede consultarse de forma dirigida.
+
+Grehan, J. R. (2018). Orthogenesis. *The International Encyclopedia of Biological Anthropology*. Ampliación breve que propone una lectura amplia del concepto; debe contrastarse con la distinción entre sesgos de variación y evolución predeterminada desarrollada en el texto.
+::::::::
+
+:::
+
+::: {#C1-B06.P036 .pasaje data-passage-id="C1-B06.P036"}
+
+### Tres etapas en el desarrollo de la teoría evolutiva moderna {#sec-siglo-xx-la-evolucion-biologica-a-lo-largo-de-las-eras-tres-etapas-clave-en-el-desarrollo-de-la-teor}
+
+:::
+
+::: {#C1-B06.P037 .pasaje data-passage-id="C1-B06.P037"}
+
+La teoría evolutiva moderna se fue construyendo al relacionar dos problemas inseparables: cómo cambian los organismos y cómo se transmiten sus diferencias entre generaciones. En este recorrido pueden distinguirse tres etapas: el darwinismo, el neodarwinismo de finales del siglo XIX y la síntesis evolutiva. Cada una conservó aspectos de las anteriores y abrió nuevas preguntas sobre la variación, la herencia y los mecanismos del cambio. El darwinismo formuló la selección natural como explicación de la adaptación y la diversificación; el neodarwinismo la vinculó a una concepción de la herencia que excluía la transmisión de caracteres adquiridos; y la síntesis evolutiva integró la selección con la genética mendeliana y el estudio de las poblaciones. Las tres etapas permiten seguir un proceso de elaboración y revisión de las explicaciones evolutivas (Kutschera y Niklas, 2004, pp. 259–263).
+
+:::
+
+::: {#C1-B06.P038 .pasaje data-passage-id="C1-B06.P038"}
+
+![Esquema que ilustra el desarrollo histórico del concepto de evolución: desde la hipótesis de Darwin y Wallace, pasando por Darwin, Wallace y Weismann, hasta la teoría sintética. Imagen tomada de Kutschera & Niklas (2004).](assets/3362f1bb05fd.png){#fig-etapasevolucion width=50% fig-alt="Esquema que ilustra el desarrollo histórico del concepto de evolución: desde la hipótesis de Darwin y Wallace, pasando por Darwin, Wallace y Weismann, hasta la teoría sintética. Imagen tomada de Kutschera & Niklas (2004)."}
+
+:::
+
+::: {#C1-B06.P039 .pasaje data-passage-id="C1-B06.P039"}
+
+#### Darwinismo {#sec-darwinismo}
+
+:::
+
+::: {#C1-B06.P040 .pasaje data-passage-id="C1-B06.P040"}
+
+El punto de partida de este recorrido es la explicación de la evolución por selección natural, presentada independientemente por Darwin y Wallace en 1858 y desarrollada por Darwin en *El origen de las especies*, publicado en 1859. Su propuesta relacionaba la variación entre individuos con el hecho de que no todos dejan la misma contribución a las generaciones siguientes. Cuando algunas diferencias heredables favorecen la reproducción en unas condiciones determinadas, las variantes que las presentan pueden aumentar en frecuencia. La acumulación de diferencias a lo largo del tiempo permitía así comprender la adaptación y la divergencia de los linajes.
+
+Para completar esa explicación era necesario comprender cómo se originaban y transmitían las diferencias hereditarias. Darwin no disponía de la genética que se desarrollaría después y admitía varias fuentes de modificación. Desde la primera edición de 1859 aceptaba la herencia de caracteres adquiridos, incluidos los efectos del uso y el desuso, junto al papel central de la selección natural. Mantuvo esa aceptación en las ediciones posteriores, incluida la sexta, publicada en 1872 (Darwin, 1859, p. 134).
+
+La combinación de selección natural y herencia de caracteres adquiridos lleva a Kutschera y Niklas a denominar esta etapa del pensamiento evolutivo «Lamarck/Darwin/Wallace». El estudio de la herencia se convertiría en uno de los principales puntos de revisión del darwinismo hacia finales del siglo XIX y contribuiría a definir el programa neodarwinista (Kutschera y Niklas, 2004, pp. 259–260).
+
+:::
+
+::: {#C1-B06.P041 .pasaje data-passage-id="C1-B06.P041"}
+
+#### Neodarwinismo {#sec-neo-darwinismo}
+
+:::
+
+::: {#C1-B06.P042 .pasaje data-passage-id="C1-B06.P042"}
+
+El estudio de la herencia dio un nuevo sentido a la defensa de la selección natural. El neodarwinismo de finales del siglo XIX conservó esta como explicación central de la evolución, pero se distanció de la aceptación de los caracteres adquiridos. Su objetivo era explicar cómo la selección podía producir transformaciones a partir de diferencias hereditarias, sin que las modificaciones experimentadas por el organismo durante su vida tuvieran que transmitirse a su descendencia.
+
+August Weismann abordó el problema mediante la continuidad del plasma germinal. En su explicación de la herencia animal distinguía entre la línea germinal, que da origen a las células reproductoras, y el soma, que forma el resto del cuerpo. La continuidad entre generaciones se establecía a través del material germinal: los cambios adquiridos por el soma no se incorporaban automáticamente a ese material. Esta concepción contribuyó a separar el desarrollo y las experiencias de un individuo de la transmisión hereditaria (Weismann, 1889).
+
+Para explicar la diversidad hereditaria, Weismann concedió también importancia a la reproducción sexual, que combina materiales de procedencias diferentes. Estas ideas, desarrolladas en su obra de 1892, ya venían elaborándose durante la década anterior. Wallace defendió una interpretación afín en *Darwinism* (1889), donde examinó expresamente la teoría de Weismann y rechazó la transmisión de caracteres adquiridos. La selección adquiría así un papel más exclusivo en la explicación de las adaptaciones (Wallace, 1889, pp. 437–440; Kutschera y Niklas, 2004, p. 260).
+
+La evolución quedaba vinculada a la selección sobre variación hereditaria y a la continuidad de esa herencia entre generaciones. Aún faltaba relacionar este programa con una explicación precisa de cómo se transmitían y combinaban los factores hereditarios. Esa conexión se convertiría en una tarea central de la síntesis evolutiva.
+
+:::
+
+::: {#C1-B06.P043 .pasaje data-passage-id="C1-B06.P043"}
+
+#### Síntesis evolutiva {#sec-sintesis}
+
+:::
+
+::: {#C1-B06.P044 .pasaje data-passage-id="C1-B06.P044"}
+
+El paso siguiente fue relacionar la selección y la herencia mediante el estudio de las poblaciones. Desde las primeras décadas del siglo XX, la genética de poblaciones mostró que la transmisión de factores hereditarios discretos era compatible con la variación continua que observaban los naturalistas. Un carácter podía depender de muchos factores cuyos efectos se combinaban, y las frecuencias de esos factores podían cambiar de una generación a otra. La herencia mendeliana y la selección natural podían formar parte de una misma explicación.
+
+Esta integración se amplió con las aportaciones de la sistemática, la biogeografía, la botánica y la paleontología. La síntesis evolutiva se consolidó entre las décadas de 1930 y 1950 al conectar los procesos estudiados en poblaciones con problemas como la adaptación, el origen de las especies y la historia de los linajes. El intervalo 1937–1950 recoge la aparición de varias de sus obras de referencia, mientras que sus bases matemáticas y experimentales se habían establecido con anterioridad (Kutschera y Niklas, 2004, pp. 261–263).
+
+El resultado fue un marco compartido en el que podían relacionarse la variación hereditaria, la selección y la deriva con la divergencia de las poblaciones. La contribución de sus principales autores y los principios de esta integración se examinan a continuación.
+
+:::
+
+::: {#C1-B06.P045 .pasaje data-passage-id="C1-B06.P045"}
+
+:::::::: {.reading-recommendation}
+Lectura recomendada
+
+Kutschera, U. y Niklas, K. J. (2004). The modern theory of biological evolution: an expanded synthesis. *Naturwissenschaften*, 91(6), 255–276. Revisión general para seguir el desarrollo histórico de la síntesis. Sus formulaciones de 2004 deben leerse junto a las precisiones sobre herencia, variación y macroevolución de este capítulo.
+::::::::
+
+:::
+
+::: {#C1-B06.P046 .pasaje data-passage-id="C1-B06.P046"}
+
+### La síntesis evolutiva: los principios fundamentales de la teoría moderna de la evolución {#sec-la-sintesis-evolutiva-los-principios-fundamentales-de-la-teoria-moderna-de-la-evolucion}
+
+:::
+
+::: {#C1-B06.P047 .pasaje data-passage-id="C1-B06.P047"}
+
+La síntesis fue un proceso colectivo, no la publicación de una doctrina única e invariable. Su contribución central consistió en hacer compatibles las observaciones de los naturalistas con mecanismos hereditarios y modelos de cambio poblacional. Las diferencias entre especies podían relacionarse con procesos que actuaban sobre poblaciones variables, sin recurrir a tipos esenciales separados por barreras inexplicables. Esa integración proporcionó un marco común, aunque dejó preguntas abiertas sobre los ritmos del cambio, el desarrollo y los patrones de gran escala.
+
+:::
+
+::: {#C1-B06.P048 .pasaje data-passage-id="C1-B06.P048"}
+
+Entre sus autores más influyentes figuran Theodosius Dobzhansky (1900–1975), Ernst Mayr (1904–2005), Julian Huxley (1887–1975), George Gaylord Simpson (1902–1984), Bernhard Rensch (1900–1990) y G. Ledyard Stebbins (1906–2000). Sus libros de 1937, 1942, 1942, 1944, 1947 y 1950, respectivamente, conectaron genética, sistemática, zoología, paleontología y botánica. Fisher, Haldane y Wright habían contribuido a establecer las bases de la genética de poblaciones. Por ello, la síntesis no debe reducirse a seis personas, aunque sus obras permitan reconocer sus principales líneas de integración (Kutschera y Niklas, 2004, pp. 261–263).
+
+:::
+
+::: {#C1-B06.P049 .pasaje data-passage-id="C1-B06.P049"}
+
+Una primera consecuencia fue el pensamiento poblacional. Los organismos de una especie no son copias imperfectas de un tipo ideal: su variación constituye parte del objeto que debe explicarse. Los individuos se desarrollan y participan de manera desigual en la reproducción; las poblaciones cambian evolutivamente cuando varía la distribución de características heredables a través de las generaciones. Esa distinción no impide estudiar selección o cambio a otros niveles, pero sitúa una parte fundamental del mecanismo en las poblaciones.
+
+:::
+
+::: {#C1-B06.P050 .pasaje data-passage-id="C1-B06.P050"}
+
+La variación genética de una población se renueva por varias vías. La mutación origina nuevas variantes en la secuencia del ADN, mientras que la recombinación y la segregación reorganizan las variantes existentes en organismos con reproducción sexual. A ellas se añade el flujo génico, es decir, la incorporación de variantes procedentes de otras poblaciones mediante individuos o gametos que llegan a contribuir a la reproducción. En los modelos de genética de poblaciones suele representarse como migración; su efecto evolutivo requiere que exista transmisión de material hereditario a la población receptora (Slatkin, 1987).
+
+Las diferencias fenotípicas dependen además del ambiente y de su interacción con el genotipo, por lo que variabilidad genética y variabilidad del fenotipo no son equivalentes. Las mutaciones no surgen en respuesta a su utilidad, aunque los procesos moleculares y la organización del genoma hacen que algunas sean más probables que otras. La población reúne así un conjunto de variantes cuya distribución puede cambiar por selección, deriva y flujo génico.
+
+:::
+
+::: {#C1-B06.P051 .pasaje data-passage-id="C1-B06.P051"}
+
+La selección natural explica la evolución adaptativa mediante diferencias heredables asociadas a la contribución reproductiva. Las consecuencias dependen del ambiente, que incluye tanto condiciones físicas como otros organismos, y pueden cambiar si se modifican las interacciones o las frecuencias de las variantes. La síntesis concedió a la selección un papel central, pero incluyó también procesos como la deriva. La importancia relativa de estos mecanismos debe investigarse en cada problema; no se deduce solo de que un rasgo resulte llamativo o parezca útil.
+
+:::
+
+::: {#C1-B06.P052 .pasaje data-passage-id="C1-B06.P052"}
+
+La formación de especies constituía otro problema decisivo. En el concepto biológico, una especie comprende poblaciones conectadas por reproducción y aisladas reproductivamente de otras. Las barreras pueden actuar antes del apareamiento, antes de la fecundación o después de ella, y su desarrollo no tiene por qué ser instantáneo ni absolutamente completo. Esta definición resulta especialmente útil para organismos con reproducción sexual, pero no puede comprobarse directamente en los fósiles y no se aplica de la misma manera a todos los seres vivos. Por eso el estudio de la especiación necesita relacionar criterios reproductivos, morfológicos, ecológicos y genealógicos.
+
+:::
+
+::: {#C1-B06.P053 .pasaje data-passage-id="C1-B06.P053"}
+
+La continuidad entre variación poblacional y divergencia evolutiva permitía explicar transformaciones acumulativas. Esa continuidad no obliga a que la velocidad sea constante ni a que cada carácter cambie mediante efectos infinitesimales. Tampoco hace del flujo génico una fuerza siempre secundaria: la llegada y reproducción de inmigrantes puede introducir variantes, contrarrestar divergencias o participar en procesos de adaptación e hibridación. Su efecto depende de la magnitud del intercambio y de su relación con la selección y la deriva.
+
+:::
+
+::: {#C1-B06.P054 .pasaje data-passage-id="C1-B06.P054"}
+
+En su formulación clásica, la teoría sintética interpretó la macroevolución como una extrapolación de la microevolución. Las grandes transformaciones, por encima del nivel de especie, se explicaban mediante la acumulación de cambios heredables en las poblaciones, su divergencia y la formación sucesiva de nuevas especies a lo largo del tiempo geológico. Los procesos genéticos y selectivos que explicaban el cambio dentro de las especies se extendían así al origen de grupos más amplios; ese era el sentido de la continuidad entre microevolución y macroevolución defendida por la síntesis (Kutschera y Niklas, 2004, pp. 263, 265).
+
+Simpson utilizó el registro fósil para estudiar los ritmos y modos de esas transformaciones. La continuidad de los mecanismos permitía integrar velocidades distintas, mientras que la ramificación de los linajes, su extinción y los cambios ambientales configuraban la historia observada. La síntesis vinculaba de este modo los procesos estudiados en poblaciones actuales con los patrones de cambio y diversificación documentados por la paleontología.
+
+:::
+
+::: {#C1-B06.P055 .pasaje data-passage-id="C1-B06.P055"}
+
+![Esquema para ilustrar la interacción de los procesos básicos que provocan la evolución fenotípica en una población variable de organismos (animales o plantas). Imagen tomada de Kutschera & Niklas (2004).](assets/dc983702ec57.png){#fig-elementosevolucion width=50% fig-alt="Esquema para ilustrar la interacción de los procesos básicos que provocan la evolución fenotípica en una población variable de organismos (animales o plantas). Imagen tomada de Kutschera & Niklas (2004)."}
+
+:::
+
+::: {#C1-B06.P056 .pasaje data-passage-id="C1-B06.P056"}
+
+La síntesis estableció así relaciones entre herencia, variación, selección, poblaciones y especies que siguen siendo fundamentales. Su historia posterior ha añadido mecanismos y ampliado escalas de análisis. Para la paleobiología, el reto consiste en utilizar ese marco sin convertirlo en una respuesta previa a todas las preguntas: los fósiles aportan observaciones sobre duración, distribución y transformación que deben explicarse, y que permiten contrastar los modelos formulados a partir de organismos actuales.
+
+:::
+
+::: {#C1-B06.P057 .pasaje data-passage-id="C1-B06.P057"}
+
+:::::::: {.reading-recommendation}
+### ¿Cuánto has aprendido sobre la síntesis evolutiva?
+
+[![Kahoot de repaso de la síntesis evolutiva](assets/0026422204b4.jpg){width=100% fig-alt="Abrir el Kahoot de repaso de la síntesis evolutiva"}](https://create.kahoot.it/share/sintesis-evolutiva/e5d6f964-4101-48eb-850f-9eabf3ccec7a)
+
+Haz clic en la imagen para abrir el Kahoot y repasar las ideas principales de la síntesis evolutiva.
+::::::::
+
+:::
+
+::: {#C1-B06.P058 .pasaje data-passage-id="C1-B06.P058"}
+
+##### Fuerzas evolutivas: La selección natural y la deriva genética {#sec-fuerzas-evolutivas-la-seleccion-natural-y-la-deriva-genetica}
+
+:::
+
+::: {#C1-B06.P059 .pasaje data-passage-id="C1-B06.P059"}
+
+La selección natural puede reconocerse cuando las diferencias entre fenotipos se relacionan causalmente con diferencias de éxito reproductivo. Para que esas diferencias produzcan una respuesta evolutiva sostenida tiene que existir un componente heredable relevante. La supervivencia es una parte de ese éxito, pero también importan la fecundidad, el acceso a parejas y la contribución efectiva de la descendencia a generaciones posteriores.
+
+Por ejemplo, si una diferencia heredable del pico permite utilizar mejor un recurso limitante y sus portadores dejan más descendientes, la distribución del carácter puede cambiar. La respuesta depende también de correlaciones con otros rasgos, costes y modificaciones del ambiente. La selección puede favorecer valores extremos, intermedios o diferentes variantes en condiciones distintas; no implica una mejora universal de todos los caracteres. Además, un alelo puede aumentar por su asociación con una región seleccionada sin que su propio efecto sea la causa de la ventaja (Foote y Miller, 2007, p. 62).
+
+:::
+
+::: {#C1-B06.P060 .pasaje data-passage-id="C1-B06.P060"}
+
+La deriva genética consiste en cambios debidos al azar en la frecuencia de los alelos, es decir, en la proporción de cada variante de un gen en una población. Por casualidad, unas variantes pueden transmitirse más que otras, aunque tengan efectos semejantes sobre la supervivencia y la reproducción. Su intensidad depende del tamaño efectivo de población: el tamaño de una población ideal que experimentaría la misma deriva que la estudiada. Este valor depende de cómo se reparte la reproducción y puede diferir mucho del número de individuos censados. Cuando es pequeño, las fluctuaciones son mayores y el azar puede imponerse al efecto de ventajas selectivas pequeñas.
+
+En un modelo sencillo de población diploide, con generaciones que no se solapan y transmisión aleatoria de copias génicas, la varianza del cambio de frecuencia por generación es aproximadamente p(1 − p)/(2Nₑ). Aquí, p es la frecuencia del alelo y Nₑ el tamaño efectivo. La varianza mide cuánto pueden fluctuar las frecuencias: cuanto menor es Nₑ, mayores son los cambios esperables por azar. Un alelo puede perderse o llegar a ser la única variante presente, situación denominada fijación. En este modelo, la probabilidad de fijación de un alelo neutral coincide con su frecuencia inicial. Selección y deriva actúan simultáneamente, y su importancia relativa depende del tamaño efectivo y de la intensidad de la selección.
+
+Un cuello de botella reduce bruscamente el número de reproductores. El efecto fundador ocurre cuando unos pocos individuos originan una población nueva. Ambos pueden intensificar la deriva y reducir la diversidad genética; sus consecuencias dependen de su duración, de la recuperación poblacional y del intercambio posterior entre poblaciones. Aunque la deriva no favorece necesariamente variantes beneficiosas, las que elimina o conserva condicionan la evolución futura. También actúa en poblaciones grandes y puede ser importante para variantes con efectos selectivos muy pequeños: no existe un tamaño a partir del cual desaparezca (Foote y Miller, 2007, p. 62; Wang et al., 2016).
+
+:::

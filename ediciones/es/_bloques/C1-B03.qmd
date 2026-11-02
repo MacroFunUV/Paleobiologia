@@ -1,0 +1,263 @@
+::: {#C1-B03.P001 .pasaje data-passage-id="C1-B03.P001"}
+
+### La Edad Media: interpretaciones de los fósiles y tradiciones legendarias {#sec-la-edad-del-oscurantismo-edad-media-fosiles-como-desafio-a-la-fe-y-origenes-de-mitos}
+
+:::
+
+::: {#C1-B03.P002 .pasaje data-passage-id="C1-B03.P002"}
+
+Durante la Edad Media coexistieron distintas explicaciones de los objetos encontrados en el subsuelo. Algunas los relacionaban con restos de seres vivos; otras los entendían como formaciones minerales capaces de adoptar figuras semejantes a las de animales y plantas. La dificultad no consistía únicamente en reconocer una concha o un hueso: había que explicar también su materia pétrea y su presencia dentro de las rocas, a veces lejos del mar. Las tradiciones religiosas, la filosofía natural y las observaciones disponibles intervenían en esas interpretaciones, sin formar un sistema único ni necesariamente incompatible en todos sus aspectos.
+
+Conviene recordar, además, que «fósil» abarcaba entonces objetos que hoy distinguimos como minerales, concreciones y restos de organismos. La *vis plastica* («fuerza formadora») era una capacidad atribuida a la naturaleza para dar forma a la materia. Con ella se explicaba que ciertas piedras adquirieran figuras parecidas a las de animales o plantas sin proceder de seres que hubieran vivido. En estas interpretaciones, la semejanza se originaba durante la formación de la piedra en el interior de la Tierra. Estas explicaciones se desarrollaron y modificaron durante siglos, y continuaron presentes en los debates del Renacimiento y del siglo XVII (Rudwick, 1985, pp. 26–37).
+
+:::
+
+::: {#C1-B03.P003 .pasaje data-passage-id="C1-B03.P003"}
+
+La Edad Media recibió y reelaboró relatos sobre piedras y otros objetos naturales que circulaban desde la Antigüedad. Entre las obras que transmitieron esas noticias figura la *Historia natural* de Plinio el Viejo, escrita en el siglo I. Plinio mencionaba, aunque sin darle crédito, una creencia según la cual las *glossopetrae*, piedras con forma de lengua, caían del cielo durante los eclipses lunares (Plinio, *Historia natural*, XXXVII, 164). También describía el llamado huevo de serpiente, al que los druidas atribuían propiedades protectoras. La identificación de este último con determinados erizos fósiles es posterior y debe tomarse con cautela, pues no permite atribuir todos los objetos descritos bajo ese nombre a un grupo paleontológico concreto (Sour Tovar y Quiroz Barroso, 2004).
+
+Una historia especialmente duradera fue la del *lyncurium* o *lyngurium*. Teofrasto describió en *Sobre las piedras* una sustancia que se habría formado al solidificarse la orina del lince. Según el relato, el animal la ocultaba bajo tierra, donde debía buscarse. A la piedra se le atribuía una capacidad de atracción semejante a la del ámbar: podía atraer pajas y fragmentos de madera e incluso, según algunas noticias, pequeñas láminas de metal. La combinación de una propiedad física sorprendente y un origen animal extraordinario favorecía el interés por aquella sustancia (Teofrasto, *Sobre las piedras*, 28–29; Walton, 2001).
+
+El ámbar recibía en griego el nombre de *élektron*, latinizado como *electrum*. Al frotarlo puede cargarse eléctricamente y atraer objetos ligeros; de aquel nombre procede el vocabulario moderno de la electricidad (Causey, 2012). La semejanza entre las propiedades atribuidas al *lyncurium* y las del ámbar contribuyó a relacionarlos, pero su identificación no es segura. Plinio recogió la explicación de la orina de lince para rechazarla y defendió, en cambio, el origen vegetal del ámbar. El olor que desprendía al arder y los pequeños animales encerrados en su interior apoyaban su interpretación como una exudación de los árboles endurecida (Plinio, *Historia natural*, XXXVII.34–46 y 52–53).
+
+La tradición medieval conservó el relato del lince en lapidarios —textos dedicados a las piedras y sus propiedades— y bestiarios. Alberto Magno, por ejemplo, lo repitió en su tratado sobre los minerales, aunque conocía a Plinio. Las noticias podían transmitirse y adquirir nuevos significados sin que se conservaran por igual las dudas y objeciones de los autores antiguos. El recorrido del *lyncurium* permite seguir esa transformación del conocimiento clásico, en la que se entrelazaban descripciones de la naturaleza, autoridad textual y propiedades medicinales atribuidas (Walton, 2001).
+
+:::
+
+::: {#C1-B03.P004 .pasaje data-passage-id="C1-B03.P004"}
+
+Las *glossopetrae* adquirieron nuevas interpretaciones en la tradición cristiana. En Malta se relacionaron con san Pablo y con la serpiente cuya mordedura, según el relato bíblico, no le causó daño. Convertidas en «lenguas de san Pablo», se utilizaron como amuletos y se les atribuyó protección frente a venenos. La forma del objeto permanecía, pero cambiaba el relato que explicaba su origen. Precisamente estos mismos fósiles se convertirían después en una pieza importante de la discusión sobre el origen orgánico de las piedras figuradas.
+
+Las conchas enrolladas de los amonites dieron lugar a otras asociaciones. En Yorkshire se vincularon con serpientes petrificadas y con la leyenda de santa Hilda; algunos ejemplares recibieron cabezas talladas que reforzaban esa apariencia. Las ostras fósiles del género *Gryphaea*, por su parte, han sido conocidas en el folclore británico como uñas o pezuñas del diablo. Estos nombres describen interpretaciones culturales de formas llamativas, aunque no permiten atribuir a toda la población medieval una misma creencia ni fechar cada tradición con igual precisión (Sour Tovar y Quiroz Barroso, 2004).
+
+El comercio de supuestos cuernos de unicornio reunió objetos de procedencias muy diferentes. La imagen del animal incorporó rasgos de especies conocidas de manera indirecta, como rinocerontes y antílopes, y sus pretendidos cuernos podían ser cuernos auténticos de otros animales, defensas de proboscidios o colmillos de narval. La forma helicoidal de estos últimos favoreció su aceptación y su presencia en las representaciones artísticas. Se les atribuía, sobre todo, eficacia contra enfermedades y envenenamientos, lo que sostuvo un comercio de gran valor. No todos estos objetos eran fósiles: el interés del caso reside también en cómo se confundían restos recientes, fósiles y seres fabulosos. En el siglo XVI, Ambroise Paré puso a prueba algunas de sus supuestas virtudes y describió resultados contrarios a ellas, sin que esas observaciones acabaran inmediatamente con su prestigio medicinal (Buffetaut, 1991, pp. 34–36).
+
+La interpretación de grandes huesos como restos de gigantes persistió asimismo más allá del periodo medieval. Un caso célebre es el de Teutoboco, o *Theutobochus*: unos huesos hallados en el Delfinado francés en 1613 fueron exhibidos como los de un rey germánico vencido por los romanos. La identificación provocó una controversia en la que participaron médicos y anatomistas, algunos de los cuales defendieron desde el principio una procedencia animal. Buffetaut reconstruye una historia posterior compleja, con materiales distintos y dudas sobre su identidad: una pieza dental vinculada con el hallazgo original fue atribuida a *Deinotherium*, mientras que otros huesos exhibidos bajo el mismo nombre se identificaron como de mastodonte. Por ello resulta más preciso hablar de restos de proboscidios que de un único esqueleto de mastodonte inequívocamente reconocido (Buffetaut, 1991, pp. 21–27).
+
+También se mostraron huesos de grandes mamíferos como restos de dragones. En las cuevas europeas, los osos pleistocenos proporcionaron materiales adecuados para alimentar esas interpretaciones. En Klagenfurt, un cráneo de rinoceronte lanudo sirvió como modelo para la cabeza del dragón esculpido a finales del siglo XVI; en la cueva de Mixnitz, los huesos de osos se asociaron con relatos sobre dragones. La relación entre un fósil y una leyenda puede documentarse en casos concretos como estos. Extenderla a todos los mitos de dragones exigiría pruebas adicionales (Buffetaut, 1991, pp. 32–34).
+
+:::
+
+::: {#C1-B03.P005 .pasaje data-passage-id="C1-B03.P005"}
+
+### Fósiles y leyendas en las antiguas culturas de América {#sec-fosiles-y-leyendas-en-las-antiguas-culturas-de-america}
+
+:::
+
+::: {#C1-B03.P006 .pasaje data-passage-id="C1-B03.P006"}
+
+Los restos fósiles también se incorporaron a relatos y prácticas de pueblos americanos. Estos testimonios amplían la historia de las relaciones humanas con el registro fósil, aunque debemos distinguir las evidencias arqueológicas de los relatos recogidos después por cronistas o etnógrafos. La antigüedad de una tradición no se deduce automáticamente de la edad geológica del fósil al que se refiere.
+
+En el suroeste de Norteamérica, los troncos petrificados se relacionaron con seres y acontecimientos del pasado mítico. El National Park Service recoge la tradición navajo según la cual eran huesos del gigante Yietso, muerto por los antepasados del pueblo, y una tradición paiute que los interpretaba como astiles de flechas del dios del trueno Shinauav. Los ejemplos conservan el vínculo entre la forma del fósil y el relato, pero requieren una atribución cultural precisa: las tradiciones citadas no son intercambiables entre pueblos (National Park Service, 2021).
+
+Para Mesoamérica, Sour Tovar y Quiroz Barroso recogen las noticias transmitidas por fray Juan de Torquemada en su *Monarquía indiana*. En ellas, grandes huesos se relacionaban con los *quinametin*, gigantes que habrían habitado el territorio antes de sus pobladores posteriores. La narración les atribuía una llegada por mar, grandes construcciones y una destrucción por fuego como castigo. Torquemada añadió testimonios de europeos que afirmaban haber visto huesos, cráneos, mandíbulas y dientes de tamaño extraordinario. Son noticias sobre la interpretación de esos restos, no identificaciones anatómicas que permitan reconocer hoy cada ejemplar (Sour Tovar y Quiroz Barroso, 2004, p. 14).
+
+La misma revisión remite a la *Historia verdadera de la conquista de la Nueva España* de Bernal Díaz del Castillo. Según este relato, los tlaxcaltecas mostraron a Hernán Cortés un gran hueso como prueba de los gigantes contra los que habrían luchado sus antepasados. La victoria se explicaba mediante un banquete en el que los gigantes quedaron dormidos por la comida y la bebida, circunstancia aprovechada para matarlos. El cronista cuenta que Cortés decidió enviar el hueso a España. El episodio permite seguir la circulación de un objeto entre relatos indígenas y expectativas europeas, sin que podamos deducir del testimonio conservado su identificación zoológica exacta (Sour Tovar y Quiroz Barroso, 2004, pp. 14–15).
+
+Los amonites ofrecen un ejemplo de escala más pequeña. En localidades situadas entre Veracruz y Puebla se conocen como «solecitos» y, según Sour Tovar y Quiroz Barroso, se vincularon en la tradición totonaca con reflejos o rayos solares petrificados. Los mismos autores relacionan su forma enrollada con la disposición de las plumas de los voladores de Papantla. Esta es una interpretación cultural transmitida por aquella revisión, que debe distinguirse de una demostración histórica del origen del ritual. La ceremonia de los voladores pertenece a diversas comunidades de México y Centroamérica y tiene una presencia especialmente importante entre los totonacos de Veracruz; la referencia geográfica pertinente para este ejemplo es la región de Veracruz y Puebla (Sour Tovar y Quiroz Barroso, 2004, p. 15; UNESCO, 2009).
+
+Estos casos muestran que un mismo tipo de resto puede recibir significados diferentes. El hueso o la concha forman parte de la evidencia material; el relato asociado aporta información sobre quienes los reconocieron, conservaron o explicaron. Reconstruir esa relación exige atender a ambos registros y a las condiciones en que llegó hasta nosotros el testimonio.
+
+:::
+
+::: {#C1-B03.P007 .pasaje data-passage-id="C1-B03.P007"}
+
+Lectura recomendada
+
+Sour Tovar, F., y Quiroz Barroso, S. A. (2004). Mitos y leyendas sobre los fósiles. *Ciencia*, 55(1), 8–16. Su selección de ejemplos resulta útil para ampliar este apartado; conviene leer sus explicaciones históricas junto con las precisiones desarrolladas en el texto.
+
+:::
+
+::: {#C1-B03.P008 .pasaje data-passage-id="C1-B03.P008"}
+
+### Pensamiento renacentista y las interpretaciones de los fósiles {#sec-pensamiento-renacentista-y-las-interpretaciones-de-los-fosiles}
+
+:::
+
+::: {#C1-B03.P009 .pasaje data-passage-id="C1-B03.P009"}
+
+El Renacimiento renovó el interés por los textos antiguos y por la descripción de la naturaleza. Las noticias sobre conchas marinas halladas tierra adentro podían leerse junto a observaciones recientes y alimentar diferentes explicaciones de la historia terrestre. Una de ellas recurría al Diluvio bíblico; otras consideraban cambios en la distribución de tierras y mares. La relación entre ambas no fue constante, y reconocer un origen orgánico para ciertos fósiles no exigía necesariamente abandonar una interpretación religiosa de la Tierra.
+
+La asociación entre conchas marinas y grandes inundaciones era, sin embargo, mucho más antigua. Tertuliano, en *Sobre el manto* (II), utilizó la presencia de conchas en las montañas como indicio de que incluso las tierras altas habían estado cubiertas por las aguas. Algunos escritores cristianos relacionaron esos restos con el Diluvio de Noé y los emplearon para defender su alcance universal frente a quienes lo consideraban una inundación local. La explicación pasó a la tradición medieval; no fue una idea formulada por primera vez en el siglo XIII (Tertuliano, *Sobre el manto*, II; Rudwick, 1985, pp. 36–37).
+
+En ese contexto se sitúa Ristoro de Arezzo, que concluyó en 1282 *La composizione del mondo colle sue cascioni*. Escrita en italiano vernáculo, la obra reunía conocimientos cosmológicos y naturalistas y trataba, entre otras cuestiones, la formación de las montañas, la erosión, los minerales y los fósiles. Ristoro relacionó las conchas marinas encontradas en terrenos elevados con el Diluvio, pero el interés de su explicación no reside en la novedad de esa asociación. Para interpretar los depósitos fósiles recurrió también a procesos sedimentarios que podían observarse en la naturaleza. La comparación entre la formación de depósitos en el presente y los materiales conservados en el terreno introducía un razonamiento que iba más allá de invocar una inundación (Romano, 2018, 2023).
+
+Ese modo de utilizar procesos observables para interpretar acontecimientos pasados constituye un antecedente del razonamiento actualista. En Ristoro convivía con una cosmología heredada en buena medida de Aristóteles, en la que la acción del cielo contribuía a explicar el orden y las transformaciones del mundo. Su obra permite apreciar cómo la observación podía enriquecer una explicación dentro de los marcos intelectuales de su época. Reconocer el origen orgánico de una concha, explicar su petrificación y reconstruir cómo había llegado hasta una montaña seguían siendo problemas distintos, que admitían soluciones diversas (Romano, 2018, 2023; Rudwick, 1985, pp. 36–39).
+
+La persistencia de este debate se aprecia todavía en el siglo XVIII, aunque el ejemplo quede fuera de los límites cronológicos del Renacimiento. El médico y naturalista suizo Johann Jakob Scheuchzer interpretó un esqueleto fósil de Öhningen como testimonio humano del Diluvio y lo publicó bajo el nombre de *Homo diluvii testis* en 1726. A comienzos del siglo XIX, Georges Cuvier mostró que correspondía a una salamandra de gran tamaño, hoy denominada *Andrias scheuchzeri*. El caso ilustra cómo una interpretación previa puede orientar la identificación anatómica, pero también cómo esta puede corregirse mediante comparaciones más adecuadas (Rudwick, 1985, p. 87; Scheuchzer, 1726).
+
+:::
+
+::: {#C1-B03.P010 .pasaje data-passage-id="C1-B03.P010"}
+
+![Ejemplar de *Andrias scheuchzeri* interpretado por Johann Jakob Scheuchzer como *Homo diluvii testis*.](assets/98c6a4ce37ed.jpeg){#fig-andriasscheuchzeri width=50%}
+
+:::
+
+::: {#C1-B03.P011 .pasaje data-passage-id="C1-B03.P011"}
+
+La imprenta aportó una herramienta decisiva para discutir estas cuestiones: permitió que naturalistas distantes comparasen imágenes de los mismos objetos. Los textos del siglo XVI no estudiaban todavía los fósiles con el alcance que damos hoy al término. Describían también minerales, piedras de formas singulares y otros materiales extraídos del suelo. Las ilustraciones ayudaron a estabilizar sus nombres e identificaciones y a reconocer semejanzas que una descripción verbal podía transmitir con dificultad (Rudwick, 1985, pp. 3–8).
+
+:::
+
+::: {#C1-B03.P012 .pasaje data-passage-id="C1-B03.P012"}
+
+En 1557, Christoph Encellius incluyó dibujos de conchas fósiles en *De re metallica*. Rudwick los considera probablemente las primeras ilustraciones de este tipo publicadas en un libro impreso occidental. La precisión importa: se trata de una prioridad propuesta para un ámbito y un medio concretos, no de la primera representación de fósiles realizada en cualquier cultura. Uno de esos dibujos, con forma de vieira, fue retomado posteriormente por Conrad Gesner y pudo compararse con representaciones de moluscos actuales, como las de Guillaume Rondelet (Rudwick, 1985, pp. 6–7).
+
+:::
+
+::: {#C1-B03.P013 .pasaje data-passage-id="C1-B03.P013"}
+
+Georgius Agricola, nombre latinizado de Georg Bauer, había publicado *De natura fossilium* en 1546. Su clasificación se apoyaba en propiedades observables de los materiales, como dureza, brillo y comportamiento físico. Era una manera de ordenar un conjunto en el que minerales y restos orgánicos aún no constituían disciplinas separadas. Las explicaciones que atribuían la formación de piedras a fluidos que circulaban dentro de la Tierra podían dar cuenta de algunos procesos minerales, aunque resultaban insuficientes para explicar el origen de los restos de organismos. El problema consistía en determinar qué clase de objeto se estaba intentando explicar (Rudwick, 1985, pp. 6 y 23).
+
+:::
+
+::: {#C1-B03.P014 .pasaje data-passage-id="C1-B03.P014"}
+
+Conrad Gesner publicó en 1565 *De rerum fossilium, lapidum et gemmarum maxime, figuris et similitudinibus liber*. Su uso sistemático de ilustraciones hizo posible contrastar las descripciones con formas reconocibles y distinguir mejor objetos que recibían nombres parecidos. La clasificación agrupaba las piedras por sus semejanzas con figuras geométricas, astros, artefactos, plantas o animales. Junto a sus rasgos físicos, Gesner reunió nombres, noticias de autores anteriores y propiedades que se les atribuían: el conocimiento naturalista se construía mediante la observación, la comparación y una amplia tradición textual.
+
+Gesner reconoció afinidades orgánicas en distintos materiales. Comparó conchas, cangrejos, dientes y equinoideos fósiles con organismos actuales, e ilustró la semejanza entre las *glossopetrae* y los dientes de tiburón. En otros casos, los modos de conservación o la ausencia de análogos conocidos dificultaron la identificación. Podía reconocer un erizo fósil y no identificar como partes del mismo grupo unas espinas aisladas; podía ordenar dos amonites en categorías diferentes según aquello a lo que le recordaban. Estos contrastes muestran el valor de su trabajo sin atribuirle una aceptación general y explícita de la explicación moderna de todos los fósiles. Reconocer una semejanza no equivalía todavía a demostrar una relación de origen (Rudwick, 1985, pp. 26–35).
+
+:::
+
+::: {#C1-B03.P015 .pasaje data-passage-id="C1-B03.P015"}
+
+![Bivalvo fósil ilustrado por Encellius en 1557 (A) y bivalvo actual ilustrado por Rondelet en 1558 (B). La comparación permite apreciar las semejanzas que discutían los naturalistas del siglo XVI. Crédito: © athenaclub.](assets/c4d99632b42a.jpg){#fig-primerarepresentacion width=50%}
+
+:::
+
+::: {#C1-B03.P016 .pasaje data-passage-id="C1-B03.P016"}
+
+Las colecciones proporcionaban el material para estas comparaciones. Entre finales del siglo XVI y comienzos del XVII destacaron en Italia las de Ulisse Aldrovandi en Bolonia, Francesco Calceolari en Verona, Ferrante Imperato en Nápoles y Michele Mercati en Roma. Reunían objetos de procedencias diversas y daban lugar a catálogos, intercambios y nuevas observaciones. Sus imágenes también podían circular antes de imprimirse: un grabado del catálogo entonces inédito de Mercati se emplearía en la obra de Stensen. La importancia de esos gabinetes no radicaba solo en acumular curiosidades, sino en hacerlas accesibles a la comparación (Rudwick, 1985, capítulos 1–2).
+
+:::
+
+::: {#C1-B03.P017 .pasaje data-passage-id="C1-B03.P017"}
+
+### El cambio de paradigma en la paleontología del siglo XVII {#sec-el-cambio-de-paradigma-en-la-paleontologia-del-siglo-xvii}
+
+:::
+
+::: {#C1-B03.P018 .pasaje data-passage-id="C1-B03.P018"}
+
+![Retrato de Niels Stensen. Imagen disponible bajo licencia Creative Commons CC0.](assets/c145a92b0f55.jpg){#fig-nielsstensen width=50% fig-alt="Retrato de Niels Stensen. Imagen disponible bajo licencia Creative Commons CC0."}
+
+:::
+
+::: {#C1-B03.P019 .pasaje data-passage-id="C1-B03.P019"}
+
+En el siglo XVII, el debate se desplazó hacia argumentos capaces de explicar conjuntamente la forma de los fósiles, su materia y su posición dentro de las rocas. Niels Stensen (1638–1686), conocido también como Steno o Nicolás Stenón, fue una figura fundamental de ese cambio. No fue el primero en proponer un origen orgánico para las *glossopetrae*: Gesner había destacado su parecido con dientes de tiburón y Fabio Colonna defendió esa interpretación en 1616. La aportación de Stensen consistió en articular una explicación anatómica y geológica que permitía ir más allá de la mera semejanza (Rudwick, 1985, pp. 49–53; Sequeiros, 2002, p. 224).
+
+:::
+
+::: {#C1-B03.P020 .pasaje data-passage-id="C1-B03.P020"}
+
+En 1666 llegó a Florencia la cabeza de un gran tiburón capturado cerca de Livorno. Stensen la diseccionó y, en su estudio publicado en 1667, comparó los dientes con las grandes *glossopetrae* de Malta. La coincidencia de detalles anatómicos apoyaba que fueran dientes de tiburones antiguos, mientras que su desgaste o deterioro era difícil de conciliar con un crecimiento activo dentro de la roca. Para ilustrar el argumento utilizó un grabado procedente del catálogo inédito de Mercati. Sin embargo, la comparación anatómica era solo una parte de la explicación: aún debía mostrar cómo un diente podía terminar incluido en un material pétreo (Rudwick, 1985, pp. 49–53).
+
+:::
+
+::: {#C1-B03.P021 .pasaje data-passage-id="C1-B03.P021"}
+
+Stensen razonó que el sedimento que rodeaba los dientes había sido blando cuando los incorporó. El enterramiento no exigía que el diente creciera dentro de la piedra: podía preceder al endurecimiento del material que lo contenía. Las diferencias entre un diente reciente y otro fosilizado podían explicarse, a su vez, mediante modificaciones de su materia. La presencia de esos restos en tierras emergidas requería cambios posteriores en la posición de los depósitos. Así, un mismo argumento enlazaba anatomía, sedimentación, alteración y movimiento del terreno.
+
+Esta forma de plantear el problema se amplió en *De solido intra solidum naturaliter contento dissertationis prodromus*, publicado en 1669. El título puede traducirse como *Pródromo de una disertación sobre un sólido contenido naturalmente dentro de otro sólido*. Stensen buscaba criterios para reconstruir cómo se habían formado objetos de naturaleza distinta —dientes, conchas o cristales— y establecer su relación temporal con los materiales que los rodeaban. No se trataba de atribuirles a todos una única causa, sino de distinguir sus modos de crecimiento y formación (Rudwick, 1985, pp. 58–61; Sequeiros, 2002, pp. 217–218).
+
+:::
+
+::: {#C1-B03.P022 .pasaje data-passage-id="C1-B03.P022"}
+
+![Grabado reproducido por Stensen en 1667, procedente del catálogo entonces inédito de Michele Mercati, que muestra una cabeza de tiburón y dientes. Estas ilustraciones formaban parte de su comparación con las *glossopetrae*.](assets/fcae7fa5663d.jpg){#fig-laminastensen width=50%}
+
+:::
+
+::: {#C1-B03.P023 .pasaje data-passage-id="C1-B03.P023"}
+
+La interpretación de los estratos convirtió la disposición de las rocas en una fuente de información histórica. En una sucesión sedimentaria no invertida, cada capa se deposita sobre otra que ya existía: las inferiores son anteriores a las superiores. Este es el principio de superposición. Su aplicación exige reconocer posibles alteraciones posteriores, como pliegues volcados o fallas que repiten una serie; no basta con identificar qué roca aparece hoy más arriba.
+
+Stensen también razonó que los sedimentos se depositaban inicialmente en capas aproximadamente horizontales y que los estratos inclinados habían cambiado de posición después de formarse. La superposición, la horizontalidad original y la continuidad lateral permitían ordenar una secuencia de depósito, deformación y erosión. En su reconstrucción de la Toscana, las capas dejaban de ser un simple recipiente de fósiles y pasaban a conservar relaciones entre acontecimientos (Rudwick, 1985, pp. 66–68; Sequeiros, 2002).
+
+La explicación material de la petrificación se situaba en la teoría corpuscular de la época. Los fluidos podían transportar partículas, añadirlas a un cuerpo o retirar parte de su sustancia, conservando aspectos de la forma. Stensen empleó este marco tanto para discutir el crecimiento de cristales como para interpretar las modificaciones de restos orgánicos. Aunque no equivalía a nuestra comprensión de los procesos tafonómicos y diagenéticos, permitía separar la formación mineral de la conservación de estructuras que se habían originado en un ser vivo (Rudwick, 1985, pp. 60–61).
+
+:::
+
+::: {#C1-B03.P024 .pasaje data-passage-id="C1-B03.P024"}
+
+Lectura recomendada
+
+Sequeiros, L. (2002). Las raíces de la geología. Nicolás Steno, los estratos y el diluvio universal. *Enseñanza de las Ciencias de la Tierra*, 10(3), 217–242. Incluye una introducción histórica y una traducción del *Pródromo*, útiles para seguir cómo se construye una inferencia sobre acontecimientos pasados.
+
+:::
+
+::: {#C1-B03.P025 .pasaje data-passage-id="C1-B03.P025"}
+
+### El siglo XVII en Inglaterra {#sec-el-siglo-xvii-en-inglaterra}
+
+:::
+
+::: {#C1-B03.P026 .pasaje data-passage-id="C1-B03.P026"}
+
+Los intercambios entre naturalistas facilitaron que estos argumentos llegaran a Inglaterra. Henry Oldenburg, secretario de la Royal Society, difundió las ideas de Stensen y tradujo su *Pródromo* al inglés. En aquel entorno, el origen de los fósiles se discutió mediante observaciones, comparaciones anatómicas y modelos de la historia terrestre, dentro de un marco en el que también tenían peso las concepciones filosóficas y religiosas. La cuestión no enfrentaba simplemente a quienes observaban con quienes creían: diferentes combinaciones de observaciones y supuestos podían conducir a conclusiones opuestas (Rudwick, 1985, pp. 53–66).
+
+:::
+
+::: {#C1-B03.P027 .pasaje data-passage-id="C1-B03.P027"}
+
+![Representación moderna de Robert Hooke.](assets/c41f507545b0.jpeg){#fig-roberthooke width=50%}
+
+:::
+
+::: {#C1-B03.P028 .pasaje data-passage-id="C1-B03.P028"}
+
+Robert Hooke (1635–1703), conservador de experimentos de la Royal Society y posteriormente secretario de la institución, desempeñó un papel destacado en esa discusión. En *Micrographia* (1665) mostró cuánto podía ampliar el microscopio el campo de la observación naturalista. La obra es conocida por sus imágenes de insectos y por el uso del término «célula» al describir el corcho, pero incluyó también observaciones relevantes para interpretar los fósiles. No era necesario viajar a un mundo remoto para encontrar estructuras desconocidas: un fragmento de madera podía revelar una organización que el ojo no distinguía (Royal Society, 2020; Rudwick, 1985, pp. 53–55).
+
+:::
+
+::: {#C1-B03.P029 .pasaje data-passage-id="C1-B03.P029"}
+
+Hooke comparó la microestructura de madera fósil con la de madera carbonizada o deteriorada. Las semejanzas apoyaban que aquella piedra hubiera sido madera antes de mineralizarse. Propuso que aguas con partículas minerales podían impregnarla y modificar su materia sin borrar por completo su estructura. Extendió el razonamiento a conchas fósiles e interpretó los amonites en relación con moluscos de concha tabicada, como los nautilos. La semejanza funcional de una estructura compleja le parecía difícil de explicar como una imitación carente de relación con la vida.
+
+Para explicar la posición de los restos recurrió a inundaciones, terremotos y cambios del terreno. Llegó a considerar que algunas especies habían desaparecido y que otras podían haber surgido. Estas ideas no constituyen una teoría evolutiva equivalente a la de Darwin: formaban parte de una manera de interpretar la historia y el orden de la naturaleza. Su importancia reside en que los fósiles podían empezar a entenderse como testimonios de un mundo que no había sido siempre idéntico al presente (Rudwick, 1985, pp. 54–65).
+
+:::
+
+::: {#C1-B03.P030 .pasaje data-passage-id="C1-B03.P030"}
+
+![Ilustración de madera petrificada (xilópalo) observada bajo el microscopio por Robert Hooke. © biodiversitylibrary.](assets/541cbb86498c.jpg){#fig-laminahooke width=50% fig-alt="Ilustración de madera petrificada (xilópalo) observada bajo el microscopio por Robert Hooke. © biodiversitylibrary."}
+
+:::
+
+::: {#C1-B03.P031 .pasaje data-passage-id="C1-B03.P031"}
+
+La aceptación de esos argumentos dependía, en parte, de los materiales que cada naturalista conocía mejor. Martin Lister, John Ray y John Woodward compartían el interés por los fósiles, pero no resolvían del mismo modo las dificultades de identificación, conservación y posición geológica. Sus desacuerdos permiten entender por qué una semejanza hoy evidente no bastaba entonces para cerrar la discusión.
+
+:::
+
+::: {#C1-B03.P032 .pasaje data-passage-id="C1-B03.P032"}
+
+Martin Lister (1639–1712), médico y especialista en moluscos, conocía con detalle las conchas actuales. Aceptaba que algunos fósiles italianos semejantes a especies vivas podían tener origen orgánico, pero dudaba de que esa explicación sirviera para muchos de los británicos. En ellos encontraba diferencias de forma respecto de las especies conocidas, una materia pétrea que no parecía conservar la concha y una asociación de tipos particulares con determinadas rocas.
+
+Hoy entendemos que la fosilización, la extinción y la sucesión de organismos pueden producir precisamente esas diferencias. Lister no disponía de ese marco. Si unos restos hubieran sido simplemente arrojados sobre el continente, resultaba difícil explicar por qué cada clase de roca contenía formas distintas; si eran conchas de animales, ¿por qué no se encontraban sus equivalentes vivos? La formación dentro de la propia roca le parecía una alternativa plausible. Su interpretación fue errónea, pero se apoyaba en problemas reales y no en una ausencia de atención a los ejemplares (Rudwick, 1985, pp. 61–64).
+
+:::
+
+::: {#C1-B03.P033 .pasaje data-passage-id="C1-B03.P033"}
+
+John Ray (1627–1705) se inclinaba hacia el origen orgánico de muchos fósiles, pero reconocía dificultades que no conseguía resolver por completo. Una concha fósil con charnela semejante a la de un bivalvo actual parecía haber desempeñado la misma función. Al mismo tiempo, las diferencias entre especies fósiles y vivas apuntaban a extinciones, una posibilidad difícil de conciliar con la plenitud y permanencia atribuidas al orden de la creación. El mismo marco de teología natural podía, por tanto, favorecer el argumento funcional y hacer problemática la desaparición de especies.
+
+Ray consideró que algunos organismos aparentemente extinguidos podían vivir todavía en mares poco explorados. La propuesta no era absurda en un momento de conocimiento muy limitado de las faunas profundas, aunque no resolvía todos los casos, en particular el de los amonites. También le preocupaba que los fósiles se encontraran dentro de estratos y a gran altura: atribuirlos a una inundación no explicaba sin más la formación y disposición de las capas. Sus dudas ilustran la necesidad de contrastar una explicación con el conjunto de las observaciones, y no solo con las semejanzas más convincentes (Rudwick, 1985, pp. 64–66 y 82–86).
+
+:::
+
+::: {#C1-B03.P034 .pasaje data-passage-id="C1-B03.P034"}
+
+John Woodward (1665–1728), médico y coleccionista con un amplio conocimiento de campo, propuso una explicación más unificada en *An Essay toward a Natural History of the Earth* (1695). Según su modelo, el Diluvio había desagregado los materiales de la superficie y mezclado con ellos los restos de organismos anteriores. El asentamiento posterior, ordenado por gravedad específica, habría producido las capas de roca y su contenido fósil. Como Ray, consideraba posible que las especies sin representantes conocidos sobrevivieran en zonas inexploradas.
+
+El modelo aceptaba el origen orgánico y atendía a la estratificación, pero su mecanismo podía contrastarse con las rocas: los estratos y los fósiles no aparecían ordenados de la manera que exigía una separación general por densidades. La dificultad no era solo su vínculo con el Diluvio, sino el desacuerdo entre una predicción concreta y la disposición observada. La propuesta tuvo, pese a ello, una influencia considerable en la descripción de fósiles durante el siglo XVIII (Rudwick, 1985, pp. 82–87).
+
+:::
+
+::: {#C1-B03.P035 .pasaje data-passage-id="C1-B03.P035"}
+
+Al terminar el siglo XVII no existía una explicación compartida de todos los fósiles. Sin embargo, la discusión había ganado un carácter histórico: ya no bastaba con clasificar piedras según su forma, sino que había que reconstruir los procesos que les habían dado origen y los cambios que explicaban su posición. La anatomía, el estudio de los sedimentos y la comparación entre regiones empezaban a converger en un mismo problema. Sobre esa base se desarrollarían las investigaciones del siglo siguiente.
+
+:::

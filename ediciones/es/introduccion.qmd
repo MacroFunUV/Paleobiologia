@@ -1,0 +1,15 @@
+# Introducción {#sec-introduccion}
+
+{{< include _bloques/C1-B01.qmd >}}
+
+{{< include _bloques/C1-B02.qmd >}}
+
+{{< include _bloques/C1-B03.qmd >}}
+
+{{< include _bloques/C1-B04.qmd >}}
+
+{{< include _bloques/C1-B05.qmd >}}
+
+{{< include _bloques/C1-B06.qmd >}}
+
+{{< include _bloques/C1-B07.qmd >}}

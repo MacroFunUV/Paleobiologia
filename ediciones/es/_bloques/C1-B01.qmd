@@ -1,0 +1,137 @@
+::: {#C1-B01.P001 .pasaje data-passage-id="C1-B01.P001"}
+
+::: {#B1.1}
+
+## Conceptos básicos y contexto histórico {#sec-conceptos-basicos-y-contexto-historico}
+
+La vida que conocemos hoy es el resultado de una historia de miles de millones de años, marcada por el origen y la desaparición de linajes, la transformación de los organismos y la reorganización de los ecosistemas. El registro fósil conserva evidencias de ese pasado y permite estudiar formas de vida y relaciones biológicas que ya no están representadas en el mundo actual. La paleobiología utiliza esas evidencias, interpretadas en su contexto geológico y en relación con el conocimiento de los organismos actuales, para reconstruir la vida en otros momentos de la historia terrestre y comprender los procesos que han dado forma a su diversidad.
+
+:::
+
+:::
+
+::: {#C1-B01.P002 .pasaje data-passage-id="C1-B01.P002"}
+
+::: {#B1.2}
+
+Los fósiles son restos de organismos del pasado o evidencias de su actividad conservados en un contexto geológico. La palabra procede del latín *fossilis*, «excavado». Un diente, una concha o un fragmento de madera constituyen restos corporales; una pista de pisadas o una galería excavada en el sedimento registran, en cambio, actividad biológica. Esta distinción suele expresarse en términos de evidencias directas e indirectas. Las segundas no conservan el cuerpo de quien las produjo, pero pueden aportar información sobre aspectos de su comportamiento que el esqueleto, por sí solo, difícilmente revelaría [@foote2007-54bbf9].
+
+El significado de la palabra no ha sido siempre el mismo. Durante siglos se llamó fósil a una amplia variedad de objetos extraídos de la tierra, incluidos minerales y cristales. Su uso actual, restringido a evidencias de vida del pasado, fue el resultado de un proceso de identificación y clasificación. Por eso, cuando un autor antiguo habla de fósiles, debemos preguntarnos a qué objetos se refiere antes de atribuirle nuestra definición [@rudwick1985-meaning].
+
+:::
+
+:::
+
+::: {#C1-B01.P003 .pasaje data-passage-id="C1-B01.P003"}
+
+::: {#B1.3}
+
+La reconstrucción de esa vida comprende aspectos que se complementan: la paleoecología estudia las relaciones de los organismos entre sí y con el ambiente; la paleobiogeografía, su distribución espacial a través del tiempo; y la reconstrucción filogenética, sus relaciones de parentesco. La anatomía, el crecimiento o la locomoción de los organismos extinguidos plantean otras preguntas que conectan la paleobiología con el conjunto de las ciencias biológicas.
+
+El valor de estas evidencias se comprende mejor al situarlas en el tiempo geológico profundo: los millones y miles de millones de años a lo largo de los cuales ha transcurrido la historia terrestre. Los organismos actuales muestran una parte de esa historia; el registro fósil incorpora linajes extinguidos, asociaciones de seres vivos que ya no existen y estados anteriores de los linajes que han llegado hasta nosotros. Permite observar cuándo aparecen determinadas formas, cómo cambian y en qué orden se suceden los acontecimientos. Su principal aportación al estudio de la evolución consiste en documentar la vida en momentos del pasado que no podemos observar directamente. Estos datos se complementan con los que aporta el estudio de los organismos actuales, desde la genética y otras disciplinas biológicas, y amplían la perspectiva desde la que interpretamos la evolución.
+
+:::
+
+:::
+
+::: {#C1-B01.P004 .pasaje data-passage-id="C1-B01.P004"}
+
+::: {#B1.4}
+
+Trabajar con esa dimensión temporal convierte a la paleobiología en una ciencia histórica: reconstruye acontecimientos del pasado mediante los indicios que han dejado. Podemos contrastar explicaciones, aunque no podamos repetir la historia completa de la vida. En este contexto, la contingencia expresa la dependencia de una trayectoria evolutiva respecto de acontecimientos anteriores: cambiar parte de esa historia puede alterar el desenlace. La pregunta por el determinismo evolutivo se refiere aquí a cuánto se repetirían ciertos resultados bajo condiciones comparables. La existencia de regularidades no elimina la influencia de la historia, ni reconocer contingencia equivale a sostener que cualquier resultado sea posible. Una distinción decisiva es que repetir una solución funcional no exige repetir las especies que la desarrollan [@blount2018-contingencia].
+
+:::
+
+:::
+
+::: {#C1-B01.P005 .pasaje data-passage-id="C1-B01.P005"}
+
+::: {#B1.5}
+
+### Los fundadores de la paleobiología {#sec-los-fundadores-de-la-paleobiologia}
+
+#### Ferenc Nopcsa (1877 - 1933) {#sec-ferenc-nopcsa-1877-1933}
+
+![Ferenc Nopcsa en uniforme albanés (1915). Fotografía de dominio público; ficha de Wikimedia Commons.](assets/08f38882f149.jpg){#fig-ferencnopcsa width=50% fig-alt="Retrato de cuerpo entero de Ferenc Nopcsa con indumentaria albanesa."}
+
+Entre las figuras que contribuyeron a dar forma a esta manera de estudiar los fósiles destaca Ferenc Nopcsa (@fig-ferencnopcsa). Nació en 1877 en una familia de la aristocracia húngara de Transilvania, entonces parte del Imperio austrohúngaro. Su interés por los dinosaurios comenzó en 1895, cuando su hermana Ilona encontró huesos cerca de Szentpéterfalva, la actual Sânpetru, en las proximidades de la residencia familiar de Săcel. Aquel hallazgo lo llevó a estudiar geología en la Universidad de Viena, donde Eduard Suess lo animó a describir sus descubrimientos. Desde entonces dedicó buena parte de su trabajo a los reptiles del Mesozoico. Su trayectoria investigadora transcurrió en gran medida fuera de los puestos universitarios convencionales [@buffetaut1991-desfossiles; @weishampel2023-1cce0d].
+
+Su actividad desbordó pronto el estudio de los fósiles. Viajó por Albania y los Balcanes occidentales, investigó su geología y se interesó por sus lenguas, costumbres y conflictos políticos. Apoyó la independencia albanesa, participó en el tráfico de armas y durante la Primera Guerra Mundial trabajó como espía al servicio de Austria-Hungría. Tras la guerra perdió el control de sus propiedades en Transilvania y se deterioró su situación económica. Entre 1925 y 1928 dirigió el Instituto Geológico de Hungría, uno de los pocos periodos en que tuvo un empleo remunerado [@weishampel2023-1cce0d].
+
+Parte de sus fósiles pasó al British Museum mediante ventas realizadas en distintos momentos, documentadas antes y después de la Primera Guerra Mundial. No se trató, por tanto, de una única venta al final de su vida. Sus últimos años estuvieron marcados por problemas de salud y dificultades personales. En Viena, en 1933, Nopcsa mató a su pareja y colaborador, Bajazid Elmas Doda, y después se suicidó [@dallavecchia2009-nopcsa; @weishampel2023-1cce0d].
+
+La singularidad de esa vida explica parte de la atención que ha recibido, pero su importancia para la paleobiología reside en las preguntas que formuló. A la descripción y clasificación de los fósiles añadió la reconstrucción de los animales a los que habían pertenecido: su crecimiento, su funcionamiento y sus relaciones con el medio.
+
+:::
+
+:::
+
+::: {#C1-B01.P006 .pasaje data-passage-id="C1-B01.P006"}
+
+::: {#B1.6}
+
+Ese interés por recuperar la biología de los organismos extinguidos se reflejó en su trabajo sobre paleofisiología. La anatomía del fósil era el punto de partida para inferir cómo había funcionado el animal completo. Nopcsa utilizó también la estructura microscópica del hueso para investigar el crecimiento y la fisiología de los dinosaurios. Sus reconstrucciones de tejidos blandos y sus análisis de la mecánica de las mandíbulas y de la locomoción vinculaban la descripción anatómica con preguntas sobre la vida del organismo. Este programa ayuda a entender por qué se lo considera uno de los precursores de la paleobiología [@weishampel2023-1cce0d].
+
+El origen del vuelo de las aves le ofreció otro problema en el que poner a prueba esa manera de razonar. Defendió una hipótesis cursorial, es decir, basada en un antepasado corredor, frente a las propuestas de un origen arbóreo. En su reconstrucción, las extremidades anteriores emplumadas podían intervenir en la carrera y el salto antes de permitir el vuelo. El llamado *Proavis* representaba un animal hipotético con el que explorar esa transición, no una especie fósil descubierta ni un antepasado demostrado. Su interés histórico está en convertir una transformación evolutiva en una secuencia de posibles cambios funcionales; no debemos leer el modelo como una explicación actualmente confirmada de todos los pasos del origen del vuelo.
+
+Los dinosaurios de Transilvania planteaban una pregunta distinta: ¿por qué algunos eran tan pequeños en comparación con sus parientes? Los restos procedían de la región de Hațeg, en la actual Rumanía, que durante el Cretácico final formaba parte de una isla del archipiélago europeo, en el ámbito del mar de Tetis. Nopcsa relacionó el pequeño tamaño de aquellos animales con su aislamiento y propuso que habían evolucionado bajo condiciones distintas de las continentales. Entre los dinosaurios que estudió se encontraban el saurópodo titanosaurio que hoy llamamos *Magyarosaurus* y los ornitópodos *Telmatosaurus* y *Zalmoxes*, aunque parte de este material se clasificaba entonces con otros nombres [@benton2010-hateg; @weishampel2023-1cce0d].
+
+Su hipótesis de enanismo insular vinculaba así la anatomía con la geografía y la ecología. Para contrastarla no basta con encontrar esqueletos pequeños: hay que determinar si pertenecen a adultos y establecer si su tamaño disminuyó respecto al de sus antepasados o parientes próximos. Los estudios anatómicos e histológicos han respaldado la interpretación de *Magyarosaurus* y *Telmatosaurus* como dinosaurios de talla reducida en un contexto insular. En *Zalmoxes*, en cambio, la reconstrucción de la evolución del tamaño dentro de su grupo ha cuestionado que su pequeña talla represente un caso de enanismo, pues podría conservar una condición ancestral [@benton2010-hateg; @osi2012-rhabdodontidae].
+
+La formulación moderna de la regla de la isla es más amplia: describe una tendencia de las especies grandes a reducir su tamaño en las islas y de las pequeñas a aumentarlo. La magnitud del cambio varía entre grupos y ambientes; intervienen factores como los recursos disponibles, la depredación y la competencia. No equivale, por tanto, a afirmar que todos los animales insulares se hacen pequeños ni que una única causa explique todos los casos [@benitezlopez2021-islas].
+
+Nopcsa también exploró el dimorfismo sexual, las diferencias entre machos y hembras de una misma especie, como explicación de la variación entre esqueletos. En *Sexual Differences in Ornithopodous Dinosaurs* (1929) relacionó las crestas de algunos hadrosaurios con caracteres sexuales secundarios. Examinó además el extremo del isquion, uno de los huesos de la pelvis: interpretó su ensanchamiento en forma de martillo como un rasgo masculino, por comparación con la inserción de músculos del aparato reproductor en animales actuales. También comparó las proporciones de las extremidades anteriores y atribuyó al supuesto macho un cúbito relativamente más largo. Con estos argumentos llegó a interpretar *Prosaurolophus* como la hembra de *Saurolophus* [@nopcsa1929-dimorfismo].
+
+Ese emparejamiento reúne géneros que se distinguen en la clasificación actual; otros también confundían diferencias taxonómicas con supuestas diferencias sexuales. Su valor pionero reside en haber planteado de manera sistemática una pregunta biológica que no podía resolverse solo describiendo especies. Para reconocer dimorfismo hay que separar los efectos del sexo, la edad, la variación individual y la pertenencia a distintos taxones, con muestras suficientes y, cuando sea posible, indicios independientes del sexo. La dificultad para detectarlo en una muestra fósil tampoco demuestra que no existiera en los animales vivos [@prietomarquez2010-hadrosauridae; @mallon2017-dimorfismo].
+
+Sus exploraciones de los Balcanes occidentales aportaron también observaciones geológicas y geográficas sobre una región que conoció de primera mano. Los viajes que sustentaron sus investigaciones sobre el relieve y la estructura geológica le permitieron estudiar las lenguas, las costumbres y la organización social de sus habitantes. Su obra reúne así una investigación sobre la historia natural de los territorios con un interés sostenido por las sociedades que los ocupaban [@weishampel2023-1cce0d].
+
+Lectura recomendada
+
+Weishampel, D. B. (2023). Franz Baron Nopcsa: A short life of research in dinosaur evolutionary paleobiology and Albanology. *The Anatomical Record*, 306(7), 1969–1975.
+
+:::
+
+:::
+
+::: {#C1-B01.P007 .pasaje data-passage-id="C1-B01.P007"}
+
+::: {#B1.7}
+
+#### Othenio Abel (1875 - 1946) {#sec-othenio-abel}
+
+![Othenio Abel y cubierta de su obra sobre paleobiología de vertebrados. Composición reproducida de Kutschera (2007).](assets/595dbc01d08b.jpg){#fig-othenioabel width=50% fig-alt="Composición con un retrato de Othenio Abel y la cubierta ilustrada de su obra paleobiológica."}
+
+La búsqueda de una biología de los organismos fósiles encontró también una formulación explícita en la obra de Othenio Abel (@fig-othenioabel), paleontólogo nacido en Viena en 1875. Su libro *Grundzüge der Palaeobiologie der Wirbeltiere* (1912), cuyo título puede traducirse como *Principios de la paleobiología de los vertebrados*, expuso un programa centrado en reconstruir las adaptaciones, los modos de vida y las relaciones filogenéticas de los organismos extinguidos. El término paleobiología expresaba el propósito de estudiar los restos como evidencias de seres que habían vivido en ambientes concretos [@kutschera2007-6b6db0].
+
+Este programa exigía combinar la descripción paleontológica con la anatomía comparada, la interpretación funcional y el conocimiento de los organismos actuales. Reconocer la forma de una estructura era un primer paso; después había que preguntarse qué funciones podía desempeñar y qué indicios sostenían esa interpretación. La relación entre forma y modo de vida se convertía así en un problema de investigación, en vez de quedar reducida a una ilustración imaginativa del fósil.
+
+Abel contribuyó también a consolidar institucionalmente ese enfoque mediante la docencia y la creación de la revista *Palaeobiologica* en 1928. Sus iniciativas tuvieron importancia, pero formaban parte de una historia con más protagonistas y tradiciones. La clasificación, la estratigrafía y las preguntas biológicas convivieron de maneras distintas según las escuelas y los grupos estudiados. Presentar a Nopcsa o a Abel como fundadores permite reconocer su contribución, siempre que no atribuyamos a una sola persona el nacimiento completo de la disciplina.
+
+La trayectoria de Abel estuvo ligada también a la política de su época. La investigación histórica de la Universidad de Viena documenta su antisemitismo, su apoyo al nacionalsocialismo y su participación en redes de exclusión académica. Su actividad científica coexistió con actuaciones que contribuyeron a restringir el acceso de otros investigadores a las instituciones y a la vida universitaria [@kniefaczposch2023-abel].
+
+Lectura recomendada
+
+Kutschera, U. (2007). Palaeobiology: the origin and evolution of a scientific discipline. *Trends in Ecology & Evolution*, 22(4), 172–173.
+
+:::
+
+:::
+
+::: {#C1-B01.P008 .pasaje data-passage-id="C1-B01.P008"}
+
+::: {#B1.8}
+
+### Relevancia del estudio del contexto histórico {#sec-relevancia-del-estudio-del-contexto-historico}
+
+El estudio del contexto histórico es fundamental para reconocer los sesgos que han intervenido en la construcción del conocimiento paleobiológico. Las preguntas que se plantean, las evidencias a las que se concede mayor importancia y las explicaciones que se consideran plausibles están influidas por las ideas, los métodos y las condiciones sociales de cada época. Comprender esas influencias permite advertir que algunas interpretaciones que llegaron a aceptarse como evidentes dependían de supuestos que hoy podemos cuestionar.
+
+Esta reflexión debe extenderse a la forma en que contamos la historia de la disciplina. Si seleccionamos del pasado únicamente las ideas que anticipan las actuales, podemos presentar su desarrollo como un camino inevitable hacia nuestro conocimiento presente. Así quedan ocultas otras preguntas, tradiciones y explicaciones que tuvieron sentido en su contexto. Rudwick insistió en que las interpretaciones debían comprenderse tanto dentro de las concepciones de cada época como a partir de las evidencias que sus autores podían examinar [@rudwick1985-meaning; @allmon2020-a2ea76].
+
+Reconocer el origen de un fósil tampoco era una tarea igualmente sencilla en todos los casos. Una concha bien conservada podía compararse con un molusco vivo; un molde sin concha o un fragmento cristalizado de un organismo desconocido planteaban dificultades distintas. La historia de su interpretación depende, por tanto, de los conocimientos y supuestos de cada época, pero también de la conservación de los ejemplares, de las técnicas disponibles y de los animales y plantas con los que podían compararse. Reconocer los sesgos históricos no resta importancia a esas diferencias materiales [@rudwick1985-meaning].
+
+Ese ejercicio crítico también se dirige al presente. Reconocer los sesgos del pasado nos obliga a preguntarnos qué supuestos actuales permanecen implícitos, qué evidencias estamos privilegiando y qué alternativas podríamos estar desatendiendo. Hacer explícitas estas cuestiones ayuda a distinguir las conclusiones sustentadas por los datos de las expectativas con las que los interpretamos. Con este propósito, el recorrido que sigue comienza en los primeros encuentros humanos con los fósiles y examina cómo ha cambiado su interpretación a lo largo del tiempo.
+
+:::
+
+:::
