@@ -10,7 +10,7 @@ El contenido de `ediciones/es/_bloques/` procede de instantáneas aceptadas del 
 
 ## Distribución
 
-La web prevista es https://macrofunuv.github.io/Paleobiologia/. El flujo de GitHub Actions genera y publica `_site/`. Activar GitHub Pages con origen GitHub Actions cuando el repositorio esté creado. La primera publicación se activa manualmente; el contenido se comprueba antes de desplegarse.
+La web está publicada en https://macrofunuv.github.io/Paleobiologia/. GitHub Pages utiliza GitHub Actions como origen. En Actions, el flujo «Generar y publicar el libro» se activa mediante «Run workflow» y genera HTML, PDF y EPUB antes de desplegar `_site/`. Guardar cambios no publica automáticamente: el lanzamiento sigue siendo deliberado.
 
 Los scripts de construcción y los datos se incluyen con el proyecto. Las aplicaciones Shiny mantienen su servicio externo. La biblioteca de PDF de consulta y el espacio editorial no forman parte de este repositorio.
 
