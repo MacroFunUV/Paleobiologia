@@ -21,3 +21,9 @@ Castellano disponible parcialmente. Valenciano y otras traducciones quedan pendi
 ## Créditos
 
 Se conserva la licencia de la obra de origen y los créditos particulares de sus ilustraciones. La exportación no amplía permisos de terceros. El inventario editorial distingue las declaraciones de licencia y las verificaciones pendientes.
+
+## Asistentes del libro
+
+El tutor de B1 aparece al final de ese bloque y la mascota se incorpora a las páginas HTML del libro. Ambos conectan con un servicio protegido del ordenador de la oficina. La clave de aula se introduce en el recuadro del asistente; este repositorio no contiene claves, tokens ni código del servicio privado. El piloto consulta solo B1–B7 aprobados, sin los PDF completos de las lecturas.
+
+La dirección actual es temporal. Si se reinicia el túnel de oficina, hay que verificar el nuevo informe `Conexion_para_libro.json`, ejecutar `python herramientas/activar_asistentes.py --informe <archivo>`, construir y volver a publicar. La activación comprueba HTTPS, coincidencia de la edición y bloqueo de consultas sin clave. `portal/asistentes/config.json` contiene solo la dirección pública y la huella de la edición. Al cambiar el contenido aprobado, la construcción desactiva una conexión cuya biblioteca ya no coincide. No se ha configurado arranque automático en el ordenador.

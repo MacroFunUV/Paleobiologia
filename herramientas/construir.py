@@ -3,6 +3,8 @@ import argparse,shutil,subprocess,json,re,hashlib
 ROOT=Path(__file__).resolve().parents[1]
 
 def build(html_only=False):
+    from preparar_asistentes import prepare
+    prepare()
     from actualizar_portal import update
     update()
     book=ROOT/'ediciones/es';quarto=shutil.which('quarto')
