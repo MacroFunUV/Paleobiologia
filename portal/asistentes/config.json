@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "endpoint": "https://capitol-creates-metro-remark.trycloudflare.com",
+  "endpoint": "https://salmon-comment-vote-cooked.trycloudflare.com",
   "book_fingerprint": "a019d499952156e9f8649060cc118bcb4d4d8b91c982609b04c7f88e54331cdb",
   "registry_fingerprint": "8c3d11c9f66b0ef594de6b75aa6349e147d49c14599baa34d3be7c267b2885a9",
   "registry_version": "2.0.0"
