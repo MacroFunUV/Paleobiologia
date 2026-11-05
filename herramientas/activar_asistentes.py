@@ -11,6 +11,8 @@ def activate(report_path):
     config=ROOT/'portal/asistentes/config.json';data=json.loads(config.read_text(encoding='utf-8'))
     with urlopen(origin+'/health',timeout=20) as response:health=json.load(response)
     assert health.get('service')=='paleobiologia-assistant' and health.get('book_fingerprint')==data['book_fingerprint'],'La biblioteca del equipo no coincide con el libro'
+    if data.get('registry_fingerprint'):
+        assert health.get('registry_fingerprint')==data['registry_fingerprint'],'Las fichas y fuentes de los tutores no coinciden con esta edición'
     blocked=False
     try:urlopen(origin+'/api/jobs/control',timeout=20)
     except HTTPError as error:blocked=error.code==401
