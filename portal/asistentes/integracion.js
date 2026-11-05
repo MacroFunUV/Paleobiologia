@@ -5,7 +5,7 @@
   const assets = new URL('.', script.src);
   let config, registry;
   try {
-    const results = await Promise.all([fetch(new URL('config.json', assets)), fetch(new URL('tutores.json', assets))]);
+    const results = await Promise.all([fetch(new URL('config.json', assets), {cache: 'no-store'}), fetch(new URL('tutores.json', assets), {cache: 'no-cache'})]);
     if (results.some(r => !r.ok)) return;
     [config, registry] = await Promise.all(results.map(r => r.json()));
   } catch { return; }
