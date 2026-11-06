@@ -22,6 +22,8 @@ book:
         href: ../recursos.html
       - text: Descargas
         href: ../descargas.html
+      - text: App móvil
+        href: ../app/
 lang: es
 bibliography: referencias.bib
 csl: paleobiologia.csl
@@ -38,6 +40,7 @@ format:
     linestretch: 1.7
     code-copy: true
     lightbox: true
+    include-in-header: app-head.html
     include-after-body: pasajes.html
   typst:
     citeproc: true

@@ -1,0 +1,47 @@
+{
+  "id": "./",
+  "name": "Paleobiología Esencial",
+  "short_name": "Paleobiología",
+  "description": "Libro abierto, tutores y actividades de paleobiología.",
+  "lang": "es",
+  "start_url": "./app/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fcfbf7",
+  "theme_color": "#285d55",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Leer el libro",
+      "url": "./es/introduccion.html"
+    },
+    {
+      "name": "Tutores por temas",
+      "url": "./asistentes/"
+    },
+    {
+      "name": "Explorar la deriva genética",
+      "url": "./laboratorio/deriva.html"
+    }
+  ]
+}

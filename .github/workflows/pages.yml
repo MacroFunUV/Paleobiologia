@@ -19,6 +19,7 @@ jobs:
       - uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: '1.9.31'
+      - run: node herramientas/probar_app.cjs
       - run: python herramientas/construir.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

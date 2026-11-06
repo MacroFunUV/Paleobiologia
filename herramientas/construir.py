@@ -7,6 +7,8 @@ def build(html_only=False):
     prepare()
     from actualizar_portal import update
     update()
+    from preparar_app import prepare as prepare_app
+    prepare_app()
     book=ROOT/'ediciones/es';quarto=shutil.which('quarto')
     assert quarto,'Instalar Quarto 1.9.31 o compatible'
     formats=['html'] if html_only else ['html','typst','epub']
@@ -22,6 +24,8 @@ def build(html_only=False):
     for ext in ['pdf','epub']:
         p=out/'es'/('paleobiologia-esencial-es-parcial.'+ext)
         if p.exists():shutil.copy2(p,downloads/p.name)
+    from preparar_app import finalize as finalize_app
+    finalize_app(out)
     subprocess.run([__import__('sys').executable,str(ROOT/'herramientas/validar.py')],cwd=ROOT,check=True)
     print('Sitio listo: '+str(out/'index.html'))
 
