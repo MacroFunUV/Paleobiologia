@@ -88,7 +88,10 @@ async function downloadBook(port) {
     cacheName = BOOK_PREFIX + manifest.version;
     let cache = await caches.open(cacheName);
     hadCompleteCopy = !!(await cache.match(READY));
-    if (hadCompleteCopy) return currentStatus();
+    if (hadCompleteCopy) {
+      await cache.put(new URL('app/offline-book.json',BASE).href,new Response(JSON.stringify(manifest),{headers:{'Content-Type':'application/json'}}));
+      return currentStatus();
+    }
     await caches.delete(cacheName); cache = await caches.open(cacheName);
     let next = 0; let completed = 0; let bytes = 0;
     const work = async () => {
@@ -106,6 +109,8 @@ async function downloadBook(port) {
     const results = await Promise.allSettled(Array.from({length:Math.min(3,files.length)},work));
     const failed = results.find(result => result.status==='rejected'); if (failed) throw failed.reason;
     const metadata = {version:manifest.version,book_fingerprint:manifest.book_fingerprint,files:completed,bytes,saved_at:Date.now()};
+    // Keep the snapshot's own metadata with it, so offline status cannot use an older core manifest.
+    await cache.put(new URL('app/offline-book.json',BASE).href,new Response(JSON.stringify(manifest),{headers:{'Content-Type':'application/json'}}));
     await cache.put(READY,new Response(JSON.stringify(metadata),{headers:{'Content-Type':'application/json'}}));
     for (const name of await caches.keys()) if (name.startsWith(BOOK_PREFIX) && name !== cacheName) await caches.delete(name);
     return {type:'saved',saved:true,...metadata};

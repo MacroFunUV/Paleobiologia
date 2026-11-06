@@ -71,6 +71,7 @@ async function manifestFor(entries, versionSeed='') {
   const first = await manifestFor({'es/introduccion.html':'APPROVED TEXT','es/assets/example.png':'ILLUSTRATION','laboratorio/deriva.html':'SIMULATION'});
   const saved = await message('DOWNLOAD_BOOK'); assert.equal(saved.saved,true); assert.equal(saved.files,3);
   offline=true;
+  assert.equal((await (await fetchEvent(base+'app/offline-book.json')).json()).version,first.version);
   assert.equal(await (await fetchEvent(base+'es/introduccion.html?version=2','GET','navigate')).text(),'APPROVED TEXT');
   assert.equal(await (await fetchEvent(base+'es/assets/example.png')).text(),'ILLUSTRATION');
   assert.equal(await (await fetchEvent(base+'app/','GET','navigate')).text(),'CORE');

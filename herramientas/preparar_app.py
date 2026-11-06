@@ -151,7 +151,8 @@ def finalize(site):
     })
     worker = (PORTAL / 'sw.js').read_text(encoding='utf8')
     assert worker.count('__APP_BUILD_VERSION__') == 1
-    (site / 'sw.js').write_text(worker.replace('__APP_BUILD_VERSION__', version), encoding='utf8')
+    worker_version = hashlib.sha256((version + worker).encode()).hexdigest()
+    (site / 'sw.js').write_text(worker.replace('__APP_BUILD_VERSION__', worker_version), encoding='utf8')
     assert not any('config.json' == Path(f['path']).name or '/api/' in f['path'] for f in files)
     print(f"Aplicación preparada: {len(files)} recursos; {sum(f['bytes'] for f in files) / 1048576:.1f} MB de lectura opcional.")
 
