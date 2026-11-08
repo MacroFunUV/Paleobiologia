@@ -1,5 +1,5 @@
 {
-  "version": "2026.11-preparacion",
+  "version": "2026.11.08",
   "language": "es",
   "partial": true,
   "blocks": [
@@ -398,6 +398,39 @@
         "C1-B07.P060",
         "C1-B07.P061"
       ]
+    },
+    {
+      "id": "C1-B08",
+      "chapter": 1,
+      "chapter_file": "introduccion",
+      "title": "Naturaleza e incompletitud del registro fósil",
+      "accepted": true,
+      "source_sha256": "356b5751a70657781fdac9dee00d47e2d7c7a26c34c861d4271f41f384b862fb",
+      "approval_date": "2026-11-08",
+      "passages": [
+        "C1-B08.P001",
+        "C1-B08.P002",
+        "C1-B08.P003",
+        "C1-B08.P004",
+        "C1-B08.P005",
+        "C1-B08.P006",
+        "C1-B08.P007",
+        "C1-B08.P008",
+        "C1-B08.P009",
+        "C1-B08.P010",
+        "C1-B08.P011",
+        "C1-B08.P013",
+        "C1-B08.P012",
+        "C1-B08.P014",
+        "C1-B08.P015",
+        "C1-B08.P016",
+        "C1-B08.P017",
+        "C1-B08.P018",
+        "C1-B08.P019",
+        "C1-B08.P020",
+        "C1-B08.P021",
+        "C1-B08.P022"
+      ]
     }
   ],
   "paragraph_ids": [
@@ -736,7 +769,29 @@
     "C1-B07.P058",
     "C1-B07.P059",
     "C1-B07.P060",
-    "C1-B07.P061"
+    "C1-B07.P061",
+    "C1-B08.P001",
+    "C1-B08.P002",
+    "C1-B08.P003",
+    "C1-B08.P004",
+    "C1-B08.P005",
+    "C1-B08.P006",
+    "C1-B08.P007",
+    "C1-B08.P008",
+    "C1-B08.P009",
+    "C1-B08.P010",
+    "C1-B08.P011",
+    "C1-B08.P013",
+    "C1-B08.P012",
+    "C1-B08.P014",
+    "C1-B08.P015",
+    "C1-B08.P016",
+    "C1-B08.P017",
+    "C1-B08.P018",
+    "C1-B08.P019",
+    "C1-B08.P020",
+    "C1-B08.P021",
+    "C1-B08.P022"
   ],
   "translations": {
     "val": "pendiente"

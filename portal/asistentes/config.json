@@ -1,7 +1,29 @@
 {
-  "enabled": true,
-  "endpoint": "https://salmon-comment-vote-cooked.trycloudflare.com",
-  "book_fingerprint": "a019d499952156e9f8649060cc118bcb4d4d8b91c982609b04c7f88e54331cdb",
-  "registry_fingerprint": "8c3d11c9f66b0ef594de6b75aa6349e147d49c14599baa34d3be7c267b2885a9",
-  "registry_version": "2.0.0"
+  "enabled": false,
+  "endpoint": "",
+  "book_fingerprint": "33cdda18532454c7664afab81dac5fe9728100744f2c6b7ad6cd63bc680d6511",
+  "registry_fingerprint": "99ee49f492dd686a313659982f0b62623bbe0d63c413d3be61d63ff6e65c7f16",
+  "registry_version": "2.0.2",
+  "transition": {
+    "enabled": true,
+    "endpoint": "https://salmon-comment-vote-cooked.trycloudflare.com",
+    "book_fingerprint": "a019d499952156e9f8649060cc118bcb4d4d8b91c982609b04c7f88e54331cdb",
+    "registry_fingerprint": "8c3d11c9f66b0ef594de6b75aa6349e147d49c14599baa34d3be7c267b2885a9",
+    "registry_version": "2.0.0",
+    "covered_blocks": [
+      "C1-B01",
+      "C1-B02",
+      "C1-B03",
+      "C1-B04",
+      "C1-B05",
+      "C1-B06",
+      "C1-B07"
+    ],
+    "pending_tutors": [
+      "C1-T32",
+      "C1-T33",
+      "C1-T34"
+    ],
+    "book_citation": "Ferrón, H. G. (2026). Paleobiología. Edición docente parcial en castellano; bloques C1-B01–C1-B07 aceptados. Universitat de València. https://macrofunuv.github.io/Paleobiologia/"
+  }
 }

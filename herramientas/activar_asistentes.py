@@ -17,6 +17,7 @@ def activate(report_path):
     try:urlopen(origin+'/api/jobs/control',timeout=20)
     except HTTPError as error:blocked=error.code==401
     assert blocked,'La comprobación de acceso sin clave ha fallado'
+    data.pop('transition',None)
     data.update(enabled=True,endpoint=origin);config.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({'endpoint':origin,'enabled':True,'authentication_verified':True,'book_fingerprint':data['book_fingerprint']},ensure_ascii=False))
 if __name__=='__main__':

@@ -12,8 +12,11 @@
   const css = document.createElement('link'); css.rel = 'stylesheet'; css.href = new URL('integracion.css', assets); document.head.append(css);
   const make = (tag, cls, text) => { const el = document.createElement(tag); if (cls) el.className = cls; if (text !== undefined) el.textContent = text; return el; };
   const docs = new Map(registry.documents.map(d => [d.key, d]));
+  const transition = config.enabled ? null : config.transition;
+  const connection = transition || config;
+  const pending = new Set(transition?.pending_tutors || []);
   let endpoint;
-  try { if (config.endpoint) { endpoint = new URL(config.endpoint); if (endpoint.protocol !== 'https:') endpoint = null; } } catch {}
+  try { if (connection.endpoint) { endpoint = new URL(connection.endpoint); if (endpoint.protocol !== 'https:') endpoint = null; } } catch {}
   function information(tutor) {
     const footer = make('aside', 'paleo-information');
     footer.append(make('p', '', 'Este tutor utiliza inteligencia artificial. Contrasta sus respuestas con el manual y las fuentes citadas.'));
@@ -26,7 +29,7 @@
       'Este recurso forma parte de PaleoBot-UV, proyecto de innovación educativa PIEE-4422537 de la Universitat de València, desarrollado en el marco de la convocatoria del Rectorado para el curso 2026–2027. Agradecemos al Servei de Formació Permanent i Innovació Educativa su labor de impulso y apoyo a la innovación docente.',
     ]) details.append(make('p', '', text));
     const references = make('details'); references.append(make('summary', '', 'Fuentes bibliográficas de este tutor'));
-    references.append(make('p', '', registry.book_citation));
+    references.append(make('p', '', transition && !pending.has(tutor?.id) ? transition.book_citation : registry.book_citation));
     if (tutor) {
       for (const [title, keys] of [['Lecturas principales del tema', tutor.priority_readings], ['Bibliografía complementaria', tutor.secondary_references], ['Libros generales de apoyo', tutor.background_documents]]) {
         if (!keys.length) continue;
@@ -40,14 +43,15 @@
   function frame(scope) {
     const holder = make('div', 'paleo-frame-holder');
     const status = make('p', 'paleo-status', 'Conectando con el asistente…'); holder.append(status);
-    if (!config.enabled || !endpoint) { status.textContent = 'La conversación está pendiente de conexión con el equipo de oficina. Puedes consultar las fuentes y continuar leyendo.'; return holder; }
+    if (pending.has(scope) || !connection.enabled || !endpoint) { status.textContent = 'La conversación estará disponible cuando se actualice el equipo de oficina. Puedes explorar estas preguntas y consultar las fuentes.'; return holder; }
+    if (transition && scope === 'general') holder.prepend(make('p', 'paleo-small', 'El asistente general consulta por ahora los bloques B1–B7.'));
     const iframe = make('iframe'); iframe.title = scope === 'general' ? 'Asistente general de Paleobiología' : 'Tutor ' + scope;
     iframe.setAttribute('sandbox', 'allow-scripts allow-forms allow-same-origin allow-popups'); iframe.referrerPolicy = 'no-referrer';
-    const url = new URL('/embed.html', endpoint); url.searchParams.set('scope', scope); url.searchParams.set('book', config.book_fingerprint); url.searchParams.set('registry', config.registry_fingerprint); if (scope !== 'general') url.searchParams.set('embedded', '1'); iframe.src = url.href; iframe.hidden = true;
+    const url = new URL('/embed.html', endpoint); url.searchParams.set('scope', scope); url.searchParams.set('book', connection.book_fingerprint); url.searchParams.set('registry', connection.registry_fingerprint); if (scope !== 'general') url.searchParams.set('embedded', '1'); iframe.src = url.href; iframe.hidden = true;
     const listener = event => {
       if (event.origin !== endpoint.origin || event.source !== iframe.contentWindow || event.data?.type !== 'paleo-ready') return;
       clearTimeout(timer);
-      if (event.data.book_fingerprint !== config.book_fingerprint || event.data.registry_fingerprint !== config.registry_fingerprint) { status.textContent = 'El equipo de oficina necesita actualizar la biblioteca de esta edición antes de activar este tutor.'; return; }
+      if (event.data.book_fingerprint !== connection.book_fingerprint || event.data.registry_fingerprint !== connection.registry_fingerprint) { status.textContent = 'El equipo de oficina necesita actualizar la biblioteca de esta edición antes de activar este tutor.'; window.removeEventListener('message', listener); return; }
       status.hidden = true; iframe.hidden = false; window.removeEventListener('message', listener);
     };
     const timer = setTimeout(() => { status.textContent = 'El asistente no está disponible o necesita actualizarse. Puedes continuar leyendo y consultar las fuentes del tutor.'; window.removeEventListener('message', listener); }, 20000);
@@ -60,6 +64,11 @@
     const details = make('details'); details.append(make('summary', '', 'Conversar sobre este tema · ' + tutor.title));
     details.append(make('p', 'paleo-intro', tutor.id + ' · ' + tutor.block + ' · Consulta el tema y sus lecturas. Puedes continuar la conversación o pedir una explicación más extensa. Acceso con la clave de aula.'));
     const footer = information(tutor); details.append(footer); let loaded = false;
+    if (pending.has(tutor.id)) {
+      const questions = make('ul', 'paleo-intro');
+      for (const prompt of tutor.prompts) questions.append(make('li', '', prompt));
+      footer.before(questions);
+    }
     details.addEventListener('toggle', () => { if (details.open && !loaded) { loaded = true; footer.before(frame(tutor.id)); } });
     section.append(details); last.insertAdjacentElement('afterend', section);
     if (location.hash === '#' + section.id || (tutor.id === 'C1-T01' && location.hash === '#tutor-C1-B01')) { details.open = true; requestAnimationFrame(() => section.scrollIntoView({block: 'start'})); }

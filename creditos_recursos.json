@@ -320,5 +320,37 @@
     "original_name": "criticalidadautoorganizada.png",
     "declared_license": "sin determinar",
     "public_policy": "requiere_decision"
+  },
+  {
+    "id": "IMG-a5a68aef1d10",
+    "sha256": "a5a68aef1d109f4f36598cbe29101647e00630ea2fa2b97fa1da65df292c2d0e",
+    "original_name": "b8-rocas-diversidad.png",
+    "declared_license": "Gráfico propio de la edición",
+    "public_policy": "gráfico propio, con atribución de los datos",
+    "caption": "Disponibilidad de roca y diversidad descrita. (A) Superficie de afloramiento de rocas sedimentarias, en escala logarítmica. Razones iguales, como 2/1 y 10/5, ocupan distancias iguales. (B) Número estimado de especies de invertebrados descubiertas y nombradas entre 1900 y 1975. Se omiten el Pleistoceno y el Holoceno. La asociación entre ambas series admite varias explicaciones. Gráfico propio con valores aproximados leídos de la figura histórica de Foote y Miller (2007)."
+  },
+  {
+    "id": "IMG-41a249d816b2",
+    "sha256": "41a249d816b2ed87cb1b4c57ead335d353ed7dd9b49122269612738cc60b6175",
+    "original_name": "b8-california.png",
+    "declared_license": "Gráfico propio de la edición",
+    "public_policy": "gráfico propio, con atribución de los datos",
+    "caption": "Abundancias de once especies de moluscos en una muestra viva y una acumulación de conchas de un arroyo mareal de California. Los círculos con centro marcado agrupan dos especies con los mismos recuentos. Gráfico propio con recuentos aproximados leídos de la figura 1.9a de Foote y Miller (2007), a partir de los datos de MacDonald (1969)."
+  },
+  {
+    "id": "IMG-22b854cae7a4",
+    "sha256": "22b854cae7a4ead257620059d9c0372a2689d5dd41246c7304c67a18634bd4e6",
+    "original_name": "b8-huecos.png",
+    "declared_license": "Gráfico propio de la edición",
+    "public_policy": "gráfico propio, con atribución de los datos",
+    "caption": "Estimación a partir de huecos en rangos observados. Las cruces marcan hallazgos. Se excluyen los extremos de cada especie y se cuentan solo los intervalos interiores. El conjunto da cinco registros en dieciséis oportunidades. Gráfico propio basado en los datos didácticos de la figura 1.18 de Foote y Miller (2007)."
+  },
+  {
+    "id": "IMG-94f47957453a",
+    "sha256": "94f47957453ad82bb03cfac07528c17345d62e61f00e123c696356a2f8e08ac6",
+    "original_name": "b8-rangos.png",
+    "declared_license": "Gráfico propio de la edición",
+    "public_policy": "gráfico propio, con atribución de los datos",
+    "caption": "Frecuencias ilustrativas de los rangos observados con dos probabilidades de muestreo, bajo el supuesto de uniformidad. Las barras de uno, dos y tres intervalos permiten calcular la probabilidad de registro por intervalo. Gráfico propio a partir del modelo descrito por Foote y Miller (2007, fig. 1.19)."
   }
 ]

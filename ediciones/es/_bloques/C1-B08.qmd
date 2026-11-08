@@ -1,0 +1,195 @@
+::: {#C1-B08.P001 .pasaje data-passage-id="C1-B08.P001"}
+
+## La naturaleza del registro fósil {#sec-la-naturaleza-del-registro-fosil}
+
+:::
+
+::: {#C1-B08.P002 .pasaje data-passage-id="C1-B08.P002"}
+
+### Distribución geográfica y ambiental de las rocas fosilíferas {#sec-distribucion-geografica-y-ambiental-de-las-rocas-fosiliferas}
+
+:::
+
+::: {#C1-B08.P003 .pasaje data-passage-id="C1-B08.P003"}
+
+El registro fósil depende de dónde se acumularon sedimentos, qué parte de ellos sobrevivió y cuáles de esas rocas podemos estudiar. Estos filtros cambian entre regiones, ambientes y edades. En términos generales, las rocas antiguas han tenido más tiempo para ser erosionadas, metamorfizadas o incorporadas a otros ciclos tectónicos. La superficie de afloramiento suele disminuir hacia el pasado, aunque su distribución contiene grandes irregularidades y no sigue una ley exponencial universal.
+
+Los ambientes marinos someros están ampliamente representados porque extensas plataformas y mares epicontinentales acumularon sedimentos que después pudieron conservarse en los continentes. El predominio del registro marino sobre el terrestre no se explica únicamente por diferencias en la velocidad de sedimentación. También intervienen la extensión de las cuencas, el enterramiento, la erosión y la historia tectónica. Gran parte de la corteza oceánica antigua y sus sedimentos se ha destruido por subducción, mientras que el registro terrestre favorece determinadas llanuras, lagos y cuencas frente a ambientes de elevada erosión. Una montaña actual puede contener, sin embargo, abundantes fósiles de antiguos fondos marinos: la altitud presente no equivale al ambiente en el que se depositaron las rocas (Foote y Miller, 2007, pp. 25–26).
+
+La figura siguiente relaciona áreas de afloramiento y diversidad fósil descrita. Una asociación entre ambas puede reflejar oportunidades de muestreo: donde hay más roca disponible, pueden encontrarse más fósiles. Pero también puede intervenir una causa compartida. La expansión de ambientes marinos puede aumentar tanto el espacio para los organismos como la acumulación de sedimentos. Por ello, una correlación no permite atribuir toda variación de diversidad a un sesgo ni considerarla enteramente biológica. La distribución de facies y cuencas debe formar parte de la interpretación (Holland, 2016).
+
+A esos filtros se añade la historia de la investigación. Accesibilidad, financiación, colecciones y relaciones históricas entre países influyen en qué regiones se muestrean y publican. El mapa de los datos disponibles no es una representación neutral del pasado: contiene también la geografía del conocimiento que los ha producido (Raja et al., 2022).
+
+:::
+
+::: {#C1-B08.P004 .pasaje data-passage-id="C1-B08.P004"}
+
+![Disponibilidad de roca y diversidad descrita. (A) Superficie de afloramiento de rocas sedimentarias, en escala logarítmica. Razones iguales, como 2/1 y 10/5, ocupan distancias iguales. (B) Número estimado de especies de invertebrados descubiertas y nombradas entre 1900 y 1975. Se omiten el Pleistoceno y el Holoceno. La asociación entre ambas series admite varias explicaciones. Gráfico propio con valores aproximados leídos de la figura histórica de Foote y Miller (2007).](assets/b8-rocas-diversidad.png){#fig-distribucionrocas width=75%}
+
+:::
+
+::: {#C1-B08.P005 .pasaje data-passage-id="C1-B08.P005"}
+
+### Potencial de preservación del registro fósil {#sec-potencial-de-preservacion-del-registro-fosil}
+
+:::
+
+::: {#C1-B08.P006 .pasaje data-passage-id="C1-B08.P006"}
+
+Los organismos no tienen la misma probabilidad de dejar restos reconocibles, y distintas partes de un mismo organismo pueden tener destinos diferentes. Mineralogía, tamaño, articulación, resistencia de tejidos y ambiente de enterramiento afectan a la conservación. Los tejidos mineralizados suelen estar mejor representados que los blandos, pero esa tendencia admite excepciones importantes. Algunos poliquetos, por ejemplo, poseen mandíbulas resistentes; un registro escaso del grupo no significa ausencia absoluta de partes preservables.
+
+La primera tabla resume estimaciones históricas de la probabilidad de registrar un género durante un intervalo de unos cinco millones de años. El valor de 0,05 para poliquetos y los valores de 0,7–0,9 para trilobites expresan esa unidad de análisis, no la probabilidad de que fosilice un individuo. Un género puede haber producido innumerables organismos y, aun así, faltar en muchos intervalos. La fragmentación en piezas resistentes puede facilitar su detección, pero el número de piezas no explica por sí solo todas las diferencias entre grupos.
+
+La segunda tabla plantea otra pregunta: qué proporción de taxones actuales tiene algún registro fósil conocido. Una familia puede estar documentada aunque muchas de sus especies no lo estén; de ahí que el nivel taxonómico cambie radicalmente el resultado. Esta medida tampoco puede calcularse del mismo modo para grupos completamente extinguidos. Ambas tablas describen propiedades distintas y no deben compararse como si sus porcentajes fueran equivalentes (Foote y Miller, 2007, pp. 20–23).
+
+:::
+
+::: {#C1-B08.P007 .pasaje data-passage-id="C1-B08.P007"}
+
+| Grupo | Probabilidad por género e intervalo |
+| --- | --- |
+| Esponjas | 0,4–0,45 |
+| Corales | 0,4–0,5 |
+| Poliquetos | 0,05 |
+| Crustáceos malacostracos | 0,2–0,35 |
+| Ostrácodos | 0,5 |
+| Trilobites | 0,7–0,9 |
+| Briozoos | 0,7–0,75 |
+| Braquiópodos | 0,9 |
+| Crinoideos | 0,4 |
+| Asterozoos | 0,25 |
+| Equinoideos | 0,55–0,65 |
+| Bivalvos | 0,45–0,5 |
+| Gastrópodos | 0,4–0,55 |
+| Cefalópodos | 0,8–0,9 |
+| Graptólitos | 0,65–0,9 |
+| Conodontos | 0,7–0,9 |
+| Peces cartilaginosos | 0,1–0,15 |
+| Peces óseos | 0,15–0,3 |
+
+:::
+
+::: {#C1-B08.P008 .pasaje data-passage-id="C1-B08.P008"}
+
+: Probabilidad estimada de registro por género e intervalo de aproximadamente 5 Ma. Foote y Miller (2007, tabla 1.3, p. 21), a partir de Foote y Sepkoski (1999). Son estimaciones para los conjuntos estudiados, no constantes universales de fosilización. {#tbl-tablapreservacion}
+
+:::
+
+::: {#C1-B08.P009 .pasaje data-passage-id="C1-B08.P009"}
+
+| Grupo | Nivel taxonómico | Porcentaje |
+| --- | --- | --- |
+| Esponjas | Familia | 48 |
+| Corales | Familia | 32 |
+| Poliquetos | Familia | 35 |
+| Crustáceos malacostracos | Familia | 19 |
+| Ostrácodos | Familia | 82 |
+| Ostrácodos | Género | 42 |
+| Briozoos | Familia | 74 |
+| Braquiópodos | Familia | 100 |
+| Braquiópodos | Género | 77 |
+| Crinoideos | Familia | 50 |
+| Asterozoos | Familia | 57 |
+| Asterozoos | Género | 5 |
+| Equinoideos | Familia | 89 |
+| Equinoideos | Género | 41 |
+| Bivalvos | Familia | 95 |
+| Bivalvos | Género | 76 |
+| Gastrópodos | Familia | 59 |
+| Cefalópodos | Familia | 20 |
+| Peces cartilaginosos | Familia | 95 |
+| Peces óseos | Familia | 62 |
+| Arácnidos | Género | 2 |
+| Arácnidos | Especie | < 1 |
+
+:::
+
+::: {#C1-B08.P010 .pasaje data-passage-id="C1-B08.P010"}
+
+: Porcentaje de taxones actuales con algún registro fósil, según el nivel taxonómico indicado. Compilación global de Foote y Miller (2007, tabla 1.4, p. 21). Los valores corresponden a esa compilación histórica. {#tbl-tablataxafosiles}
+
+:::
+
+::: {#C1-B08.P011 .pasaje data-passage-id="C1-B08.P011"}
+
+Un registro incompleto no es necesariamente inútil para una pregunta concreta. La calidad de una evidencia depende de lo que pretendamos inferir: una sucesión puede documentar bien la forma de una especie y representar mal su abundancia; otra puede permitir reconstruir una comunidad local sin describir adecuadamente toda una región. La cuestión es conocer los filtros relevantes y comprobar cuánto pueden alterar el resultado.
+
+:::
+
+::: {#C1-B08.P013 .pasaje data-passage-id="C1-B08.P013"}
+
+Conocer la dirección de un sesgo puede fortalecer una inferencia cuando el patrón observado se opone a ella. Muchos bivalvos producen conchas aragoníticas, más susceptibles a disolución que las calcíticas de numerosos braquiópodos articulados. Su expansión relativa durante el Mesozoico y el Cenozoico no se explica fácilmente por una ventaja general de conservación de la aragonita. El argumento no elimina otros sesgos ni demuestra que todas las comparaciones sean fiables; obliga a formular y evaluar explicaciones concretas (Foote y Miller, 2007, pp. 1–3).
+
+:::
+
+::: {#C1-B08.P012 .pasaje data-passage-id="C1-B08.P012"}
+
+Algunos de los procesos que condicionan la conservación pueden estudiarse mediante experimentos dirigidos. Para evaluar el efecto de la acidez del agua sobre la disolución, por ejemplo, se pueden exponer lotes comparables de conchas a distintos valores de pH y medir la pérdida de masa tras el mismo tiempo de exposición, manteniendo constantes las demás condiciones. Si lo que interesa es saber cuánta información ecológica conserva una acumulación de restos, podemos comparar las especies y sus abundancias con las de una muestra de organismos vivos del mismo lugar.
+
+:::
+
+::: {#C1-B08.P014 .pasaje data-passage-id="C1-B08.P014"}
+
+En un arroyo mareal de California se compararon de este modo las abundancias de once especies de moluscos. Las especies más abundantes en la muestra viva tendían a estar también entre las más abundantes en la acumulación de conchas, aunque tres especies solo se detectaron entre los restos. La acumulación conservaba parte del patrón de abundancias de la comunidad viva. Al mismo tiempo, las conchas pueden acumularse durante periodos más largos que los representados por un solo muestreo de la comunidad, lo que puede difuminar cambios ecológicos de corta duración (Foote y Miller, 2007, pp. 12–13, fig. 1.9a).
+
+:::
+
+::: {#C1-B08.P015 .pasaje data-passage-id="C1-B08.P015"}
+
+![Abundancias de once especies de moluscos en una muestra viva y una acumulación de conchas de un arroyo mareal de California. Los círculos con centro marcado agrupan dos especies con los mismos recuentos. Gráfico propio con recuentos aproximados leídos de la figura 1.9a de Foote y Miller (2007), a partir de los datos de MacDonald (1969).](assets/b8-california.png){#fig-actuotafabundancias width=50%}
+
+:::
+
+::: {#C1-B08.P016 .pasaje data-passage-id="C1-B08.P016"}
+
+### Medidas de la incompletitud del registro fósil {#sec-medidas-de-la-incompletez-del-registro-fosil}
+
+:::
+
+::: {#C1-B08.P017 .pasaje data-passage-id="C1-B08.P017"}
+
+La incompletitud puede medirse como ausencia de observaciones dentro de una historia conocida, como proporción de taxones detectados o como distancia entre la diversidad descrita y una diversidad total estimada. Ninguna cifra responde a todas esas preguntas a la vez. Las tres aproximaciones siguientes permiten reconocer tanto la utilidad del cálculo como la dependencia de sus supuestos.
+
+:::
+
+::: {#C1-B08.P018 .pasaje data-passage-id="C1-B08.P018"}
+
+Una primera aproximación estima la probabilidad de encontrar un taxón en un intervalo de tiempo a partir de los huecos de su registro. Se parte del supuesto de que la especie existió entre su primer y su último hallazgo. El cálculo solo considera los intervalos completos situados entre esos dos extremos. Se excluyen del numerador y del denominador tanto el intervalo de la primera aparición observada como el de la última, porque esos dos hallazgos son los que delimitan el rango. Cada intervalo interior representa una oportunidad de encontrar la especie, haya fósiles en él o quede vacío.
+
+En la figura, la especie 1 se registra por primera vez en el intervalo 1 y por última vez en el 6. Las cuatro oportunidades de muestreo son, por tanto, los intervalos 2, 3, 4 y 5. Solo hay fósiles de esta especie en el 5, así que su probabilidad estimada de registro es 1/4 = 0,25, o un 25 % por intervalo. Al sumar las oportunidades de cada especie, obtenemos dieciséis. En cinco de ellas se encontró la especie correspondiente, de modo que la estimación conjunta es 5/16 = 0,3125, aproximadamente un 31 % por intervalo. Reunir varias especies da una estimación media basada en más observaciones, aunque la probabilidad de registro puede variar entre especies, ambientes e intervalos (Foote y Miller, 2007, pp. 22–23).
+
+:::
+
+::: {#C1-B08.P019 .pasaje data-passage-id="C1-B08.P019"}
+
+![Estimación a partir de huecos en rangos observados. Las cruces marcan hallazgos. Se excluyen los extremos de cada especie y se cuentan solo los intervalos interiores. El conjunto da cinco registros en dieciséis oportunidades. Gráfico propio basado en los datos didácticos de la figura 1.18 de Foote y Miller (2007).](assets/b8-huecos.png){#fig-probabilidadmuestreo1 width=75%}
+
+:::
+
+::: {#C1-B08.P020 .pasaje data-passage-id="C1-B08.P020"}
+
+A veces solo conocemos el primer y el último hallazgo de cada especie. Incluso con esos datos se puede estimar la probabilidad de muestreo. Imaginemos una especie que vivió durante varios intervalos y de la que solo hemos encontrado fósiles en uno. En los datos parecerá tener un rango de un solo intervalo. Si el muestreo es escaso, esto puede ocurrir con muchas especies y aumentar la frecuencia de los rangos observados más cortos. La duración real de las especies y la manera de dividir el tiempo también influyen en esa frecuencia.
+
+Para estimar cuánto contribuye el muestreo a ese patrón, se comparan las tres primeras barras de la figura. Sus frecuencias, f₁, f₂ y f₃, corresponden a rangos observados de uno, dos y tres intervalos. Una especie encontrada en los intervalos 2 y 4 tiene un rango de tres intervalos, aunque en el 3 no se haya encontrado ningún fósil. Los rangos de dos y tres intervalos se reconocen por un hallazgo en cada extremo. Su proporción, f₃/f₂, sirve en el modelo como referencia para interpretar la proporción f₂/f₁, ya que basta un solo intervalo con fósiles para contar un rango en f₁.
+
+Al dividir f₂/f₁ por f₃/f₂ se obtiene la estimación p ≈ f₂²/(f₁ × f₃). Si, por ejemplo, encontramos 100 especies con rangos de un intervalo, 20 con rangos de dos y 10 con rangos de tres, calculamos 20²/(100 × 10) = 0,40. El modelo estima así una probabilidad de registro del 40 % por intervalo. Para aplicar la fórmula se necesitan frecuencias de uno y tres intervalos distintas de cero. La estimación supone una probabilidad de registro aproximadamente uniforme en el tiempo, de modo que una sola cifra puede ocultar diferencias entre intervalos o entre especies (Foote y Miller, 2007, p. 23).
+
+:::
+
+::: {#C1-B08.P021 .pasaje data-passage-id="C1-B08.P021"}
+
+![Frecuencias ilustrativas de los rangos observados con dos probabilidades de muestreo, bajo el supuesto de uniformidad. Las barras de uno, dos y tres intervalos permiten calcular la probabilidad de registro por intervalo. Gráfico propio a partir del modelo descrito por Foote y Miller (2007, fig. 1.19).](assets/b8-rangos.png){#fig-probabilidadmuestreo2 width=50%}
+
+:::
+
+::: {#C1-B08.P022 .pasaje data-passage-id="C1-B08.P022"}
+
+Una tercera aproximación compara el número de especies fósiles descritas con una estimación del número total de especies que pudieron existir. Foote y Miller presentan un ejercicio histórico con unas 150 000 especies actuales de grupos con registro relativamente favorable, una duración media de especie de 4 Ma y una diversidad mantenida constante durante 550 Ma. Son entradas de un modelo ilustrativo, no un censo actualizado ni una descripción de diversidad realmente constante a lo largo del Fanerozoico.
+
+Con esas condiciones, mantener 150 000 especies con una duración media de 4 Ma requiere un recambio medio de 37 500 especies por millón de años. A las especies iniciales se añaden las originadas durante el intervalo: 150 000 + (37 500 × 550) = 20 775 000, aproximadamente 21 millones. Comparar las cerca de 300 000 especies fósiles descritas que utiliza el manual con ese total produce alrededor del 1,4 %. La cifra muestra cómo una diversidad simultánea puede generar un número acumulado mucho mayor al renovarse durante millones de años.
+
+Su interpretación exige mantener los mismos límites del ejercicio. La diversidad, las duraciones y la calidad del registro han cambiado; los grupos considerados excluyen gran parte de la vida de cuerpo blando, y tanto el inventario actual como el fósil dependen de la taxonomía y del esfuerzo de investigación. La diversidad constante al nivel moderno se utilizaba como simplificación para elevar el total histórico estimado y reducir la fracción conocida, no como resultado empírico. Ese 1–2 % no debe presentarse como una medida universal y actual del registro de toda la vida terrestre (Foote y Miller, 2007, pp. 21–23).
+
+La diferencia entre escalas vuelve a ser decisiva. El mismo manual recoge que, para moluscos actuales de la provincia californiana, alrededor del 80 % de las especies de bivalvos y el 76 % de las de gastrópodos tienen registro pleistoceno regional. Una muestra reciente de grupos preservables puede ser mucho más completa que el inventario acumulado de todo un eón. Lo relevante es especificar siempre qué organismos, región, intervalo y tipo de observación estamos evaluando (Foote y Miller, 2007, tabla 1.5, p. 21).
+
+:::

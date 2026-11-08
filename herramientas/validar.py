@@ -35,7 +35,7 @@ def validate():
             raw=p.read_text(encoding='utf8',errors='replace')
             assert not re.search(r'C:[/\\](?:Users|Program)',raw,re.I),str(p)
             assert 'Comentarios del autor incorporados; B7 pendiente' not in raw
-    report=dict(status='correcto',html_pages=len(parsed),accepted_blocks=len(edition['blocks']),stable_ids=len(edition['paragraph_ids']),local_links_checked=True,pending_blocks_not_exported=True,no_local_paths=True,scope='B1–B7; castellano; edición parcial',files={str(p.relative_to(SITE)):hashlib.sha256(p.read_bytes()).hexdigest() for p in SITE.rglob('*') if p.is_file()})
+    report=dict(status='correcto',html_pages=len(parsed),accepted_blocks=len(edition['blocks']),stable_ids=len(edition['paragraph_ids']),local_links_checked=True,pending_blocks_not_exported=True,no_local_paths=True,scope=[b['id'] for b in edition['blocks']],files={str(p.relative_to(SITE)):hashlib.sha256(p.read_bytes()).hexdigest() for p in SITE.rglob('*') if p.is_file()})
     (ROOT/'Verificacion.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
     print(json.dumps({k:v for k,v in report.items() if k!='files'},ensure_ascii=False))
 if __name__=='__main__':validate()
