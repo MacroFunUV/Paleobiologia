@@ -1,4 +1,4 @@
 <script>
 document.addEventListener('DOMContentLoaded',()=>{const main=document.querySelector('main.content');if(!main)return;const toggle=document.createElement('button');toggle.className='code-toggle';toggle.textContent='Mostrar códigos de pasaje';toggle.type='button';toggle.onclick=()=>{main.classList.toggle('show-codes');toggle.textContent=main.classList.contains('show-codes')?'Ocultar códigos de pasaje':'Mostrar códigos de pasaje'};main.prepend(toggle);document.querySelectorAll('.pasaje[data-passage-id]').forEach(p=>{const b=document.createElement('button');b.className='passage-link';b.type='button';b.textContent=p.dataset.passageId;b.title='Copiar enlace a este pasaje';b.onclick=async()=>{const url=location.href.split('#')[0]+'#'+p.id;try{await navigator.clipboard.writeText(url);b.textContent='Enlace copiado';setTimeout(()=>b.textContent=p.dataset.passageId,1500)}catch{location.hash=p.id}};p.prepend(b)})});
 </script>
-<script src="../asistentes/integracion.js?v=7c4ea09b7cc0" defer></script>
+<script src="../asistentes/integracion.js?v=b1c3324646cf" defer></script>
