@@ -67,11 +67,7 @@ La segunda tabla plantea otra pregunta: qué proporción de taxones actuales tie
 | Peces cartilaginosos | 0,1–0,15 |
 | Peces óseos | 0,15–0,3 |
 
-:::
-
-::: {#C1-B08.P008 .pasaje data-passage-id="C1-B08.P008"}
-
-: Probabilidad estimada de registro por género e intervalo de aproximadamente 5 Ma. Foote y Miller (2007, tabla 1.3, p. 21), a partir de Foote y Sepkoski (1999). Son estimaciones para los conjuntos estudiados, no constantes universales de fosilización. {#tbl-tablapreservacion}
+: [Probabilidad estimada de registro por género e intervalo de aproximadamente 5 Ma. Foote y Miller (2007, tabla 1.3, p. 21), a partir de Foote y Sepkoski (1999). Son estimaciones para los conjuntos estudiados, no constantes universales de fosilización.]{#C1-B08.P008 .pasaje data-passage-id="C1-B08.P008"} {#tbl-tablapreservacion}
 
 :::
 
@@ -102,11 +98,7 @@ La segunda tabla plantea otra pregunta: qué proporción de taxones actuales tie
 | Arácnidos | Género | 2 |
 | Arácnidos | Especie | < 1 |
 
-:::
-
-::: {#C1-B08.P010 .pasaje data-passage-id="C1-B08.P010"}
-
-: Porcentaje de taxones actuales con algún registro fósil, según el nivel taxonómico indicado. Compilación global de Foote y Miller (2007, tabla 1.4, p. 21). Los valores corresponden a esa compilación histórica. {#tbl-tablataxafosiles}
+: [Porcentaje de taxones actuales con algún registro fósil, según el nivel taxonómico indicado. Compilación global de Foote y Miller (2007, tabla 1.4, p. 21). Los valores corresponden a esa compilación histórica.]{#C1-B08.P010 .pasaje data-passage-id="C1-B08.P010"} {#tbl-tablataxafosiles}
 
 :::
 
