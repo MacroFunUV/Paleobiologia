@@ -30,7 +30,19 @@ La rarefacción clásica es una interpolación dentro de la muestra disponible. 
 
 ::: {#C1-B09.P006 .pasaje data-passage-id="C1-B09.P006"}
 
-![Curva exacta de rarefacción en una colección hipotética de 50 registros y nueve taxones. El punto intermedio indica la riqueza esperada al seleccionar 20 registros. Gráfico propio.](assets/b9-curva-rarefaccion.png){#fig-rarefaccion1 width=75%}
+::::: {#fig-rarefaccion1}
+
+:::: {.content-visible when-format="html:js"}
+
+```{=html}
+<p class="text-center"><img class="img-fluid" loading="lazy" referrerpolicy="no-referrer" src="https://bookdown.org/humgrafe/Paleobiologia/Figures/Rarefaccion1.png" alt="Curva de rarefacción de especies para la muestra mayor de moluscos miocenos de Dinamarca. Los puntos inferiores corresponden a otras muestras del mismo estudio." style="width: 50%; height: auto;"></p>
+```
+
+::::
+
+Curva de rarefacción de especies para la muestra mayor de moluscos miocenos de Dinamarca. Los puntos inferiores corresponden a otras muestras del mismo estudio. Figura 1.17 de Foote y Miller (2007, p. 20), a partir de Sorgenfrei (1958). [Ver figura original en Bookdown](https://bookdown.org/humgrafe/Paleobiologia/#fig:Rarefaccion1).
+
+:::::
 
 :::
 
@@ -84,7 +96,19 @@ Dos muestras de 100 registros pueden tener coberturas muy distintas. Si una est�
 
 ::: {#C1-B09.P013 .pasaje data-passage-id="C1-B09.P013"}
 
-![Rarefacción de los moluscos miocenos de Dinamarca a 1 000 de los 2 954 ejemplares de la colección. Se espera recuperar alrededor del 61 % de las especies y más del 80 % de los órdenes observados. Gráfico propio a partir de las cifras de Foote y Miller (2007), basadas en Sorgenfrei (1958).](assets/b9-rarefaccion-dinamarca.png){#fig-rarefaccion2 width=75%}
+::::: {#fig-rarefaccion2}
+
+:::: {.content-visible when-format="html:js"}
+
+```{=html}
+<p class="text-center"><img class="img-fluid" loading="lazy" referrerpolicy="no-referrer" src="https://bookdown.org/humgrafe/Paleobiologia/Figures/Rarefaccion2.png" alt="Rarefacción de una muestra de moluscos miocenos de Dinamarca. El extremo derecho corresponde a 2 954 ejemplares. Las curvas muestran la proporción esperada de taxones observados que se recuperaría con tamaños menores, para distintos niveles taxonómicos. Una curva plana no demuestra que se haya alcanzado la riqueza total de la comunidad original." style="width: 50%; height: auto;"></p>
+```
+
+::::
+
+Rarefacción de una muestra de moluscos miocenos de Dinamarca. El extremo derecho corresponde a 2 954 ejemplares. Las curvas muestran la proporción esperada de taxones observados que se recuperaría con tamaños menores, para distintos niveles taxonómicos. Una curva plana no demuestra que se haya alcanzado la riqueza total de la comunidad original. Figura 1.16 de Foote y Miller (2007, p. 18), a partir de Sorgenfrei (1958). [Ver figura original en Bookdown](https://bookdown.org/humgrafe/Paleobiologia/#fig:Rarefaccion2).
+
+:::::
 
 :::
 

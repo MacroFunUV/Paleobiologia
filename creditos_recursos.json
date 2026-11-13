@@ -322,52 +322,52 @@
     "public_policy": "requiere_decision"
   },
   {
-    "id": "IMG-a5a68aef1d10",
-    "sha256": "a5a68aef1d109f4f36598cbe29101647e00630ea2fa2b97fa1da65df292c2d0e",
-    "original_name": "b8-rocas-diversidad.png",
-    "declared_license": "Gráfico propio de la edición",
-    "public_policy": "gráfico propio, con atribución de los datos",
-    "caption": "Disponibilidad de roca y diversidad descrita. (A) Superficie de afloramiento de rocas sedimentarias, en escala logarítmica. Razones iguales, como 2/1 y 10/5, ocupan distancias iguales. (B) Número estimado de especies de invertebrados descubiertas y nombradas entre 1900 y 1975. Se omiten el Pleistoceno y el Holoceno. La asociación entre ambas series admite varias explicaciones. Gráfico propio con valores aproximados leídos de la figura histórica de Foote y Miller (2007)."
+    "id": "FIG-C1-1-46",
+    "original_name": "Distribucion_rocas.png",
+    "declared_license": "Sin licencia de redistribución consignada",
+    "public_policy": "Enlace y visualización desde la edición de Bookdown",
+    "source_url": "https://bookdown.org/humgrafe/Paleobiologia/#fig:Distribucionrocas",
+    "caption": "Disponibilidad de roca y diversidad descrita. (A) Área de afloramiento de rocas sedimentarias para distintos periodos del Fanerozoico. La escala logarítmica representa diferencias multiplicativas: razones iguales, como 2/1 y 10/5, ocupan distancias iguales. (B) Número estimado de especies de invertebrados descubiertas y nombradas entre 1900 y 1975. Se omiten Pleistoceno y Holoceno. La asociación entre ambas series no identifica por sí sola su causa. Figura 1.1 de Foote y Miller (2007, p. 2)."
   },
   {
-    "id": "IMG-41a249d816b2",
-    "sha256": "41a249d816b2ed87cb1b4c57ead335d353ed7dd9b49122269612738cc60b6175",
-    "original_name": "b8-california.png",
-    "declared_license": "Gráfico propio de la edición",
-    "public_policy": "gráfico propio, con atribución de los datos",
-    "caption": "Abundancias de once especies de moluscos en una muestra viva y una acumulación de conchas de un arroyo mareal de California. Los círculos con centro marcado agrupan dos especies con los mismos recuentos. Gráfico propio con recuentos aproximados leídos de la figura 1.9a de Foote y Miller (2007), a partir de los datos de MacDonald (1969)."
+    "id": "FIG-C1-1-47",
+    "original_name": "Actuotaf_abundancias.png",
+    "declared_license": "Sin licencia de redistribución consignada",
+    "public_policy": "Enlace y visualización desde la edición de Bookdown",
+    "source_url": "https://bookdown.org/humgrafe/Paleobiologia/#fig:Actuotafabundancias",
+    "caption": "Abundancias de once especies de moluscos en una muestra viva y una acumulación de conchas de un arroyo mareal de California. Los puntos pequeños representan una especie y los grandes, dos especies con los mismos recuentos en ambas muestras. Datos de MacDonald (1969) reproducidos en Foote y Miller (2007, fig. 1.9a)."
   },
   {
-    "id": "IMG-22b854cae7a4",
-    "sha256": "22b854cae7a4ead257620059d9c0372a2689d5dd41246c7304c67a18634bd4e6",
-    "original_name": "b8-huecos.png",
-    "declared_license": "Gráfico propio de la edición",
-    "public_policy": "gráfico propio, con atribución de los datos",
-    "caption": "Estimación a partir de huecos en rangos observados. Las cruces marcan hallazgos. Se excluyen los extremos de cada especie y se cuentan solo los intervalos interiores. El conjunto da cinco registros en dieciséis oportunidades. Gráfico propio basado en los datos didácticos de la figura 1.18 de Foote y Miller (2007)."
+    "id": "FIG-C1-1-48",
+    "original_name": "Probabilidad_muestreo1.png",
+    "declared_license": "Sin licencia de redistribución consignada",
+    "public_policy": "Enlace y visualización desde la edición de Bookdown",
+    "source_url": "https://bookdown.org/humgrafe/Paleobiologia/#fig:Probabilidadmuestreo1",
+    "caption": "Estimación a partir de huecos en rangos observados. Las X señalan intervalos con registro. Se excluyen primera y última aparición de cada especie y se cuentan únicamente las oportunidades interiores. El conjunto contiene cinco presencias en dieciséis oportunidades: probabilidad estimada de 0,3125 por intervalo. Figura 1.18 de Foote y Miller (2007, p. 22)."
   },
   {
-    "id": "IMG-94f47957453a",
-    "sha256": "94f47957453ad82bb03cfac07528c17345d62e61f00e123c696356a2f8e08ac6",
-    "original_name": "b8-rangos.png",
-    "declared_license": "Gráfico propio de la edición",
-    "public_policy": "gráfico propio, con atribución de los datos",
-    "caption": "Frecuencias ilustrativas de los rangos observados con dos probabilidades de muestreo, bajo el supuesto de uniformidad. Las barras de uno, dos y tres intervalos permiten calcular la probabilidad de registro por intervalo. Gráfico propio a partir del modelo descrito por Foote y Miller (2007, fig. 1.19)."
+    "id": "FIG-C1-1-49",
+    "original_name": "Probabilidad_muestreo2.png",
+    "declared_license": "Sin licencia de redistribución consignada",
+    "public_policy": "Enlace y visualización desde la edición de Bookdown",
+    "source_url": "https://bookdown.org/humgrafe/Paleobiologia/#fig:Probabilidadmuestreo2",
+    "caption": "Distribuciones de frecuencias de rangos estratigráficos observados para dos calidades de muestreo. Bajo el supuesto de uniformidad, las frecuencias correspondientes a uno, dos y tres intervalos permiten estimar la probabilidad de registro. La duración de un rango observado no equivale necesariamente a la duración biológica completa del taxón. Figura 1.19 de Foote y Miller (2007, p. 23), a partir de Foote y Raup (1996)."
   },
   {
-    "id": "IMG-3694dfb3a6ae",
-    "sha256": "3694dfb3a6ae8e79dcee693b19989837f37bb4bdd1ccc96fa2309f35c0ad3c29",
-    "original_name": "b9-curva-rarefaccion.png",
-    "declared_license": "Gráfico propio de la edición",
-    "public_policy": "gráfico propio, con atribución de los datos",
-    "caption": "Curva exacta de rarefacción en una colección hipotética de 50 registros y nueve taxones. El punto intermedio indica la riqueza esperada al seleccionar 20 registros. Gráfico propio."
+    "id": "FIG-C1-1-50",
+    "original_name": "Rarefaccion1.png",
+    "declared_license": "Sin licencia de redistribución consignada",
+    "public_policy": "Enlace y visualización desde la edición de Bookdown",
+    "source_url": "https://bookdown.org/humgrafe/Paleobiologia/#fig:Rarefaccion1",
+    "caption": "Curva de rarefacción de especies para la muestra mayor de moluscos miocenos de Dinamarca. Los puntos inferiores corresponden a otras muestras del mismo estudio. Figura 1.17 de Foote y Miller (2007, p. 20), a partir de Sorgenfrei (1958)."
   },
   {
-    "id": "IMG-4a4381d7358d",
-    "sha256": "4a4381d7358d99310d88afc587ecb65e12aa6c1f9e8c8d435375a765069efbfd",
-    "original_name": "b9-rarefaccion-dinamarca.png",
-    "declared_license": "Gráfico propio de la edición",
-    "public_policy": "gráfico propio, con atribución de los datos",
-    "caption": "Rarefacción de los moluscos miocenos de Dinamarca a 1 000 de los 2 954 ejemplares de la colección. Se espera recuperar alrededor del 61 % de las especies y más del 80 % de los órdenes observados. Gráfico propio a partir de las cifras de Foote y Miller (2007), basadas en Sorgenfrei (1958)."
+    "id": "FIG-C1-1-51",
+    "original_name": "Rarefaccion2.png",
+    "declared_license": "Sin licencia de redistribución consignada",
+    "public_policy": "Enlace y visualización desde la edición de Bookdown",
+    "source_url": "https://bookdown.org/humgrafe/Paleobiologia/#fig:Rarefaccion2",
+    "caption": "Rarefacción de una muestra de moluscos miocenos de Dinamarca. El extremo derecho corresponde a 2 954 ejemplares. Las curvas muestran la proporción esperada de taxones observados que se recuperaría con tamaños menores, para distintos niveles taxonómicos. Una curva plana no demuestra que se haya alcanzado la riqueza total de la comunidad original. Figura 1.16 de Foote y Miller (2007, p. 18), a partir de Sorgenfrei (1958)."
   },
   {
     "id": "IMG-b3351676da6e",

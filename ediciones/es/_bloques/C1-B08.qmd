@@ -24,7 +24,19 @@ A esos filtros se añade la historia de la investigación. Accesibilidad, financ
 
 ::: {#C1-B08.P004 .pasaje data-passage-id="C1-B08.P004"}
 
-![Disponibilidad de roca y diversidad descrita. (A) Superficie de afloramiento de rocas sedimentarias, en escala logarítmica. Razones iguales, como 2/1 y 10/5, ocupan distancias iguales. (B) Número estimado de especies de invertebrados descubiertas y nombradas entre 1900 y 1975. Se omiten el Pleistoceno y el Holoceno. La asociación entre ambas series admite varias explicaciones. Gráfico propio con valores aproximados leídos de la figura histórica de Foote y Miller (2007).](assets/b8-rocas-diversidad.png){#fig-distribucionrocas width=75%}
+::::: {#fig-distribucionrocas}
+
+:::: {.content-visible when-format="html:js"}
+
+```{=html}
+<p class="text-center"><img class="img-fluid" loading="lazy" referrerpolicy="no-referrer" src="https://bookdown.org/humgrafe/Paleobiologia/Figures/Distribucion_rocas.png" alt="Disponibilidad de roca y diversidad descrita. (A) Área de afloramiento de rocas sedimentarias para distintos periodos del Fanerozoico. La escala logarítmica representa diferencias multiplicativas: razones iguales, como 2/1 y 10/5, ocupan distancias iguales. (B) Número estimado de especies de invertebrados descubiertas y nombradas entre 1900 y 1975. Se omiten Pleistoceno y Holoceno. La asociación entre ambas series no identifica por sí sola su causa." style="width: 75%; height: auto;"></p>
+```
+
+::::
+
+Disponibilidad de roca y diversidad descrita. (A) Área de afloramiento de rocas sedimentarias para distintos periodos del Fanerozoico. La escala logarítmica representa diferencias multiplicativas: razones iguales, como 2/1 y 10/5, ocupan distancias iguales. (B) Número estimado de especies de invertebrados descubiertas y nombradas entre 1900 y 1975. Se omiten Pleistoceno y Holoceno. La asociación entre ambas series no identifica por sí sola su causa. Figura 1.1 de Foote y Miller (2007, p. 2). [Ver figura original en Bookdown](https://bookdown.org/humgrafe/Paleobiologia/#fig:Distribucionrocas).
+
+:::::
 
 :::
 
@@ -128,7 +140,19 @@ En un arroyo mareal de California se compararon de este modo las abundancias de 
 
 ::: {#C1-B08.P015 .pasaje data-passage-id="C1-B08.P015"}
 
-![Abundancias de once especies de moluscos en una muestra viva y una acumulación de conchas de un arroyo mareal de California. Los círculos con centro marcado agrupan dos especies con los mismos recuentos. Gráfico propio con recuentos aproximados leídos de la figura 1.9a de Foote y Miller (2007), a partir de los datos de MacDonald (1969).](assets/b8-california.png){#fig-actuotafabundancias width=50%}
+::::: {#fig-actuotafabundancias}
+
+:::: {.content-visible when-format="html:js"}
+
+```{=html}
+<p class="text-center"><img class="img-fluid" loading="lazy" referrerpolicy="no-referrer" src="https://bookdown.org/humgrafe/Paleobiologia/Figures/Actuotaf_abundancias.png" alt="Abundancias de once especies de moluscos en una muestra viva y una acumulación de conchas de un arroyo mareal de California. Los puntos pequeños representan una especie y los grandes, dos especies con los mismos recuentos en ambas muestras. Datos de MacDonald (1969) reproducidos en Foote y Miller (2007, fig. 1.9a)." style="width: 50%; height: auto;"></p>
+```
+
+::::
+
+Abundancias de once especies de moluscos en una muestra viva y una acumulación de conchas de un arroyo mareal de California. Los puntos pequeños representan una especie y los grandes, dos especies con los mismos recuentos en ambas muestras. Datos de MacDonald (1969) reproducidos en Foote y Miller (2007, fig. 1.9a). [Ver figura original en Bookdown](https://bookdown.org/humgrafe/Paleobiologia/#fig:Actuotafabundancias).
+
+:::::
 
 :::
 
@@ -154,7 +178,19 @@ En la figura, la especie 1 se registra por primera vez en el intervalo 1 y por �
 
 ::: {#C1-B08.P019 .pasaje data-passage-id="C1-B08.P019"}
 
-![Estimación a partir de huecos en rangos observados. Las cruces marcan hallazgos. Se excluyen los extremos de cada especie y se cuentan solo los intervalos interiores. El conjunto da cinco registros en dieciséis oportunidades. Gráfico propio basado en los datos didácticos de la figura 1.18 de Foote y Miller (2007).](assets/b8-huecos.png){#fig-probabilidadmuestreo1 width=75%}
+::::: {#fig-probabilidadmuestreo1}
+
+:::: {.content-visible when-format="html:js"}
+
+```{=html}
+<p class="text-center"><img class="img-fluid" loading="lazy" referrerpolicy="no-referrer" src="https://bookdown.org/humgrafe/Paleobiologia/Figures/Probabilidad_muestreo1.png" alt="Estimación a partir de huecos en rangos observados. Las X señalan intervalos con registro. Se excluyen primera y última aparición de cada especie y se cuentan únicamente las oportunidades interiores. El conjunto contiene cinco presencias en dieciséis oportunidades: probabilidad estimada de 0,3125 por intervalo." style="width: 75%; height: auto;"></p>
+```
+
+::::
+
+Estimación a partir de huecos en rangos observados. Las X señalan intervalos con registro. Se excluyen primera y última aparición de cada especie y se cuentan únicamente las oportunidades interiores. El conjunto contiene cinco presencias en dieciséis oportunidades: probabilidad estimada de 0,3125 por intervalo. Figura 1.18 de Foote y Miller (2007, p. 22). [Ver figura original en Bookdown](https://bookdown.org/humgrafe/Paleobiologia/#fig:Probabilidadmuestreo1).
+
+:::::
 
 :::
 
@@ -170,7 +206,19 @@ Al dividir f₂/f₁ por f₃/f₂ se obtiene la estimación p ≈ f₂²/(f₁ 
 
 ::: {#C1-B08.P021 .pasaje data-passage-id="C1-B08.P021"}
 
-![Frecuencias ilustrativas de los rangos observados con dos probabilidades de muestreo, bajo el supuesto de uniformidad. Las barras de uno, dos y tres intervalos permiten calcular la probabilidad de registro por intervalo. Gráfico propio a partir del modelo descrito por Foote y Miller (2007, fig. 1.19).](assets/b8-rangos.png){#fig-probabilidadmuestreo2 width=50%}
+::::: {#fig-probabilidadmuestreo2}
+
+:::: {.content-visible when-format="html:js"}
+
+```{=html}
+<p class="text-center"><img class="img-fluid" loading="lazy" referrerpolicy="no-referrer" src="https://bookdown.org/humgrafe/Paleobiologia/Figures/Probabilidad_muestreo2.png" alt="Distribuciones de frecuencias de rangos estratigráficos observados para dos calidades de muestreo. Bajo el supuesto de uniformidad, las frecuencias correspondientes a uno, dos y tres intervalos permiten estimar la probabilidad de registro. La duración de un rango observado no equivale necesariamente a la duración biológica completa del taxón." style="width: 50%; height: auto;"></p>
+```
+
+::::
+
+Distribuciones de frecuencias de rangos estratigráficos observados para dos calidades de muestreo. Bajo el supuesto de uniformidad, las frecuencias correspondientes a uno, dos y tres intervalos permiten estimar la probabilidad de registro. La duración de un rango observado no equivale necesariamente a la duración biológica completa del taxón. Figura 1.19 de Foote y Miller (2007, p. 23), a partir de Foote y Raup (1996). [Ver figura original en Bookdown](https://bookdown.org/humgrafe/Paleobiologia/#fig:Probabilidadmuestreo2).
+
+:::::
 
 :::
 
