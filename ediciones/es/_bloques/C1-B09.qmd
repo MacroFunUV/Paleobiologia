@@ -1,0 +1,310 @@
+::: {#C1-B09.P001 .pasaje data-passage-id="C1-B09.P001"}
+
+### Muestreo del registro fósil {#sec-muestreo-del-registro-fosil}
+
+:::
+
+::: {#C1-B09.P002 .pasaje data-passage-id="C1-B09.P002"}
+
+La pregunta útil no es si el registro fósil es completo en términos absolutos, sino si permite responder al problema que hemos planteado. Para reconstruir cambios de tamaño dentro de una especie de trilobite, la mala conservación de otros animales de cuerpo blando puede ser poco relevante. Para estimar su abundancia relativa en toda la comunidad, ese mismo filtro resulta decisivo. El diseño debe relacionar la pregunta, la unidad de observación y los procesos que han producido los datos (Foote y Miller, 2007, pp. 17–18).
+
+:::
+
+::: {#C1-B09.P003 .pasaje data-passage-id="C1-B09.P003"}
+
+Es posible seleccionar aleatoriamente fósiles de una colección o puntos de muestreo de un afloramiento, pero esa aleatoriedad no convierte el conjunto preservado en una muestra aleatoria de toda la vida pasada. El muestreo estadístico actúa sobre un registro previamente filtrado. Además, la accesibilidad de los afloramientos y la selección de localidades pueden introducir otros efectos. Conviene distinguir, por tanto, entre el proceso de conservación y el procedimiento con el que tomamos nuestra muestra.
+
+:::
+
+::: {#C1-B09.P004 .pasaje data-passage-id="C1-B09.P004"}
+
+También debemos conocer la sensibilidad de cada medida al tamaño de muestra. El número de taxones observados suele aumentar al examinar más material: una colección grande tiene más oportunidades de incluir formas raras. Comparar directamente su riqueza con la de una colección pequeña puede confundir diferencias biológicas con diferencias de esfuerzo. La rarefacción permite evaluar una parte de ese problema al estimar cuántos taxones esperaríamos en submuestras de tamaño común.
+
+:::
+
+::: {#C1-B09.P005 .pasaje data-passage-id="C1-B09.P005"}
+
+La rarefacción clásica es una interpolación dentro de la muestra disponible. Si una colección contiene N registros, podemos calcular la riqueza esperada en una selección aleatoria de n registros, con n menor o igual que N. Al comparar colecciones, elegimos tamaños que todas puedan proporcionar y mantenemos la misma unidad de observación. Individuos, fragmentos y ocurrencias bibliográficas no son unidades intercambiables. El procedimiento estandariza el tamaño, pero no elimina diferencias de preservación, hábitat, duración del intervalo o protocolo de recogida (Foote y Miller, 2007, pp. 18–20).
+
+:::
+
+::: {#C1-B09.P006 .pasaje data-passage-id="C1-B09.P006"}
+
+![Curva exacta de rarefacción en una colección hipotética de 50 registros y nueve taxones. El punto intermedio indica la riqueza esperada al seleccionar 20 registros. Gráfico propio.](assets/b9-curva-rarefaccion.png){#fig-rarefaccion1 width=75%}
+
+:::
+
+::: {#C1-B09.P007 .pasaje data-passage-id="C1-B09.P007"}
+
+El cálculo puede entenderse mediante un submuestreo repetido. Primero se conoce la riqueza observada y la frecuencia de cada taxón en la colección. Después se fija un tamaño de submuestra que no supere el disponible.
+
+:::
+
+::: {#C1-B09.P008 .pasaje data-passage-id="C1-B09.P008"}
+
+Para cada tamaño, se seleccionan registros al azar sin reemplazo: un mismo registro no puede entrar dos veces en una submuestra. Se cuenta cuántos taxones diferentes contiene la selección. Una sola selección puede incluir por casualidad más o menos formas raras, por lo que su resultado no es todavía la riqueza esperada.
+
+:::
+
+::: {#C1-B09.P009 .pasaje data-passage-id="C1-B09.P009"}
+
+La operación se repite muchas veces y se calcula la media. Ese promedio aproxima la riqueza esperada para el tamaño elegido; la variación entre selecciones informa de la incertidumbre debida al submuestreo, condicionada a la colección disponible. No mide por sí sola la incertidumbre de todo el proceso de fosilización y recogida.
+
+:::
+
+::: {#C1-B09.P010 .pasaje data-passage-id="C1-B09.P010"}
+
+La riqueza esperada de una submuestra puede calcularse de forma exacta, sin recurrir a simulaciones. Para ello, calculamos la probabilidad de que cada taxón aparezca al menos una vez al seleccionar al azar, sin reemplazo, un número fijo de registros. La riqueza esperada es la suma de esas probabilidades.
+
+Imaginemos una colección con cinco registros, A, A, B, B y C, de la que elegimos dos. Hay diez parejas posibles, todas igual de probables. Para saber en cuántas aparece A, es más sencillo contar primero en cuántas falta. Con los tres registros que quedan al apartar los dos de A (B, B y C), podemos formar tres parejas. Por tanto, A falta en tres de las diez parejas y aparece en las otras siete. Como cada pareja en la que aparece suma un taxón a la riqueza, A aporta en promedio 0,7. B aporta otros 0,7 y C, que puede emparejarse con cualquiera de los otros cuatro registros, aporta 0,4. La riqueza esperada es, por tanto, de 1,8 taxones por pareja.
+
+El mismo procedimiento sirve para colecciones mayores. Para cada taxón, dividimos el número de submuestras que pueden formarse únicamente con registros de los demás taxones por el número total de submuestras posibles del tamaño elegido. Obtenemos así la probabilidad de que el taxón falte. Al restarla de 1 obtenemos su probabilidad de aparecer y, al sumar las probabilidades de todos los taxones, obtenemos la riqueza esperada (Foote y Miller, 2007, pp. 18–20).
+
+:::
+
+::: {#C1-B09.P011 .pasaje data-passage-id="C1-B09.P011"}
+
+Partimos de una colección de N registros. Con los N registros, la riqueza de la curva coincide con la observada en la colección completa. A partir de ese punto, podemos preguntar cuántos taxones esperaríamos si conserváramos solo N − 1 registros, o la mitad, o cualquier otro número menor. Cada cálculo toma sus registros de la colección completa. En el gráfico colocamos los tamaños de menor a mayor, de modo que la colección completa queda en el extremo derecho. La riqueza esperada aumenta o se mantiene hacia la derecha porque, al incorporar un registro a una submuestra, podemos añadir un taxón o volver a encontrar uno ya presente.
+
+:::
+
+::: {#C1-B09.P012 .pasaje data-passage-id="C1-B09.P012"}
+
+En el tramo calculado, una curva más inclinada indica que unos pocos registros adicionales aportan, en promedio, más taxones dentro de la colección estudiada. Una curva que se aplana indica que, dentro de esa colección, los registros adicionales aportan cada vez menos taxones.
+
+Las curvas suelen aplanarse antes en categorías taxonómicas superiores porque estas reúnen organismos de varias especies. En la muestra miocena de Dinamarca que utiliza el manual había 2 954 ejemplares, 86 especies, 64 géneros, 44 familias, 12 órdenes y tres clases de moluscos. Con 1 000 ejemplares se esperaba recuperar unas 52,5 especies, alrededor del 61 % de las observadas en la muestra completa, mientras que la proporción de órdenes era superior al 80 %. Estos porcentajes toman como referencia los taxones registrados en la colección (Foote y Miller, 2007, pp. 18–20).
+
+La rarefacción clásica calcula la riqueza esperada para tamaños de submuestra comprendidos dentro de los datos disponibles. Para predecir la riqueza con un tamaño mayor hacen falta otros métodos que modelen la aparición de taxones aún no observados. Cuanto más lejos se proyecta la curva, más depende el resultado de esos supuestos.
+
+También podemos comparar muestras a igual cobertura. Si estimamos que una muestra tiene una cobertura del 90 %, esperamos que, al tomar un nuevo registro con el mismo procedimiento, haya un 90 % de probabilidad de que pertenezca a un taxón ya observado. El 10 % restante corresponde a la probabilidad de encontrar uno que todavía falta. Muchos taxones raros pueden compartir ese 10 %, de modo que una cobertura alta puede coexistir con muchos taxones por descubrir.
+
+Dos muestras de 100 registros pueden tener coberturas muy distintas. Si una está dominada por unos pocos taxones frecuentes, esos 100 registros pueden representar gran parte de lo que cabe detectar. En otra, donde abundan los taxones registrados una sola vez, todavía puede quedar una fracción mayor por detectar. Comparar a igual cobertura consiste en estimar la riqueza de ambas a un mismo nivel de cobertura, aunque para alcanzarlo hagan falta tamaños distintos. Así, la comparación responde a una pregunta diferente de la comparación a igual número de registros (Chao y Jost, 2012).
+
+:::
+
+::: {#C1-B09.P013 .pasaje data-passage-id="C1-B09.P013"}
+
+![Rarefacción de los moluscos miocenos de Dinamarca a 1 000 de los 2 954 ejemplares de la colección. Se espera recuperar alrededor del 61 % de las especies y más del 80 % de los órdenes observados. Gráfico propio a partir de las cifras de Foote y Miller (2007), basadas en Sorgenfrei (1958).](assets/b9-rarefaccion-dinamarca.png){#fig-rarefaccion2 width=75%}
+
+:::
+
+::: {#C1-B09.P014 .pasaje data-passage-id="C1-B09.P014"}
+
+La construcción de la curva empieza por fijar una unidad de observación y una categoría taxonómica comunes. A lo largo del análisis se mantiene el mismo criterio para contar registros y reconocer taxones, desde la preparación de los datos hasta la rotulación de los ejes.
+
+:::
+
+::: {#C1-B09.P015 .pasaje data-passage-id="C1-B09.P015"}
+
+La comparación clásica se hace a igual número absoluto de unidades. Si contamos ejemplares, comparamos la riqueza esperada con el mismo número de ejemplares. Si los datos son ocurrencias, como en la práctica de este bloque, igualamos el número de ocurrencias. Con colecciones de 300 y 3 000 registros, podemos comparar ambas a 100, 200 o 300 registros. El 50 % de cada colección daría 150 y 1 500 registros, dos esfuerzos de submuestreo distintos.
+
+:::
+
+::: {#C1-B09.P016 .pasaje data-passage-id="C1-B09.P016"}
+
+Para cada tamaño común calculamos la riqueza esperada y conservamos, como referencia, la riqueza observada de la colección completa. Si usamos sorteos, repetimos la selección y fijamos una semilla para reproducirla. Cuando las ocurrencias proceden de varias localidades, conviene distinguir el número de registros del número de localidades representadas. Diez ocurrencias de un mismo yacimiento cuentan como diez entradas en una curva por registros, pero representan una sola localidad. Si la pregunta es cuántos géneros se acumulan al añadir localidades, agrupamos primero las ocurrencias por localidad y submuestreamos localidades completas. Para ello hacen falta identificadores de procedencia.
+
+:::
+
+::: {#C1-B09.P017 .pasaje data-passage-id="C1-B09.P017"}
+
+El gráfico representa tamaño de submuestra en el eje horizontal y riqueza esperada en el vertical. Al pasar de submuestras pequeñas a grandes, la riqueza aumenta o se mantiene. Si se normalizan ambos ejes, la figura describe la distribución relativa de las frecuencias dentro de cada colección; ya no compara directamente su riqueza a igual número de registros.
+
+:::
+
+::: {#C1-B09.P018 .pasaje data-passage-id="C1-B09.P018"}
+
+Finalmente interpretamos las diferencias junto con la extensión temporal, los ambientes, la taxonomía y el esfuerzo de investigación. La rarefacción puede mostrar que una diferencia de riqueza se reduce al igualar tamaños. No identifica por sí sola la causa de la diferencia restante ni ordena automáticamente la calidad del registro geológico.
+
+:::
+
+::: {#C1-B09.P019 .pasaje data-passage-id="C1-B09.P019"}
+
+### Práctica 1. Del registro fósil a la curva de rarefacción {#sec-practica-muestreo-r}
+
+Construiremos una comparación de dos listas de géneros desde cero. Empezaremos por abrir los archivos en R, comprobar qué representa cada fila y distinguir cuántos registros tenemos de cuántos géneros contienen. Después haremos un sorteo, lo repetiremos y dibujaremos las curvas. Al final podremos explicar qué aporta cada gráfico y qué información necesitaríamos para convertir el ejercicio en un análisis de investigación.
+
+El código usa R base. RStudio puede utilizarse para ejecutarlo por tramos y ver los resultados en la consola. Los recursos introductorios incluyen la [guía de instalación de R y RStudio](https://rstudio-education.github.io/hopr/starting.html), el [curso de R de la Universitat de València](https://www.uv.es/vcoll/curso_r.html) y el [tutorial de la Paleobiology Database](https://escholarship.org/content/qt6tm05630/qt6tm05630.pdf?t=s0797i).
+
+[Abre la práctica en su página propia](https://macrofunuv.github.io/Paleobiologia/practicas/rarefaccion.html) o [descarga el código y los datos](https://macrofunuv.github.io/Paleobiologia/materiales/practicas/Practica_01_R_y_datos.zip).
+
+:::
+
+::: {#C1-B09.P020 .pasaje data-passage-id="C1-B09.P020"}
+
+[Vídeo de introducción a Paleobiology Database](https://bookdown.org/humgrafe/Paleobiologia/videos/Curso%20PBDB.mp4).
+
+:::
+
+::: {#C1-B09.P021 .pasaje data-passage-id="C1-B09.P021"}
+
+
+
+:::
+
+::: {#C1-B09.P022 .pasaje data-passage-id="C1-B09.P022"}
+
+El curso puede consultarse en la [edición web del vídeo](https://bookdown.org/humgrafe/Paleobiologia/videos/Curso%20PBDB.mp4).
+
+:::
+
+::: {#C1-B09.P023 .pasaje data-passage-id="C1-B09.P023"}
+
+#### 1. Abrir los datos y comprobar qué contienen
+
+Los archivos [750–550 Ma](https://macrofunuv.github.io/Paleobiologia/materiales/datos/chapter01/genus-europe-750-550.csv) y [200–0 Ma](https://macrofunuv.github.io/Paleobiologia/materiales/datos/chapter01/genus-europe-200-0.csv) proceden de una descarga de la [Paleobiology Database](https://paleobiodb.org/classic/displayDownloadGenerator) atribuida a Europa. Cada fila contiene un nombre de género. El mismo nombre puede aparecer en muchas filas. Trabajaremos con registros de estas listas, que es la unidad que podemos contar directamente.
+
+Descomprime el material de la práctica y abre el archivo de R en RStudio. En el menú de la sesión, fija la carpeta de trabajo en la carpeta descomprimida. Para ejecutar una línea, coloca el cursor sobre ella y pulsa Ctrl + Intro. Ejecuta los pasos en orden, porque cada uno utiliza objetos creados en los anteriores. Las líneas que empiezan por # son comentarios. El símbolo <- guarda el resultado con el nombre que aparece a la izquierda.
+
+```r
+# Comprueba la carpeta de trabajo y que R ve los dos CSV.
+getwd()
+list.files()
+
+# Los archivos no tienen cabecera. [[1]] extrae la primera columna.
+tabla_antigua <- read.csv("genus-europe-750-550.csv", header = FALSE)
+tabla_reciente <- read.csv("genus-europe-200-0.csv", header = FALSE)
+
+# Quita espacios sobrantes al principio y al final de cada nombre.
+antiguo <- trimws(tabla_antigua[[1]])
+reciente <- trimws(tabla_reciente[[1]])
+
+# Muestra los primeros registros y comprueba si hay nombres vacíos.
+head(antiguo)
+head(reciente)
+stopifnot(!anyNA(antiguo), all(nzchar(antiguo)))
+stopifnot(!anyNA(reciente), all(nzchar(reciente)))
+```
+
+#### 2. Contar registros, géneros y frecuencias
+
+length() cuenta las entradas de una lista. unique() devuelve cada nombre una sola vez. Por eso, length(unique()) cuenta la riqueza de géneros observada. table() cuenta cuántas veces aparece cada nombre. Conservamos los nombres repetidos en los datos, porque su frecuencia afecta al resultado de los sorteos.
+
+```r
+# Un recuento de filas y otro de nombres distintos para cada lista.
+resumen <- data.frame(
+  intervalo = c("750-550 Ma", "200-0 Ma"),
+  registros = c(length(antiguo), length(reciente)),
+  generos = c(length(unique(antiguo)), length(unique(reciente)))
+)
+print(resumen)
+
+# Los seis géneros con más registros en la lista antigua.
+frecuencias_antigua <- table(antiguo)
+frecuencias_reciente <- table(reciente)
+head(sort(frecuencias_antigua, decreasing = TRUE))
+```
+
+Deberías obtener 329 registros y 107 nombres distintos en la lista antigua, y 268 213 registros y 21 522 nombres distintos en la reciente. Los nombres se cuentan tal como figuran en los archivos, antes de una revisión taxonómica.
+
+#### 3. Sacar una submuestra de 250 registros
+
+sample() elige registros al azar. Con replace = FALSE, cada fila puede entrar una sola vez en el sorteo, aunque varias filas pertenezcan al mismo género. set.seed() hace que podamos repetir el sorteo en las mismas condiciones. Cuenta primero las filas seleccionadas y después los géneros distintos que contienen.
+
+```r
+set.seed(2026)
+n <- 250
+submuestra <- sample(antiguo, size = n, replace = FALSE)
+length(submuestra)          # 250 registros seleccionados.
+length(unique(submuestra))  # Géneros en este sorteo.
+```
+
+#### 4. Repetir el sorteo y calcular la media
+
+Un sorteo puede recuperar más o menos géneros que otro. replicate() repite el cálculo y guarda los resultados. La media de los sorteos aproxima la riqueza esperada para 250 registros. El mínimo y el máximo describen la variación entre estas 500 submuestras de la colección.
+
+```r
+set.seed(2026)
+riquezas <- replicate(500, {
+  seleccion <- sample(antiguo, size = n, replace = FALSE)
+  length(unique(seleccion))
+})
+mean(riquezas)
+range(riquezas)
+```
+
+#### 5. Calcular la curva y comparar a igual número de registros
+
+Para construir la curva calcularemos la riqueza esperada directamente, como en el ejemplo de A, B y C. La función phyper() permite obtener, para cada género, la probabilidad de que salga al menos una vez al elegir registros sin reemplazo. Le damos el número de registros del género, el número de registros de todos los demás y el tamaño de la submuestra. Sumamos las probabilidades para obtener el número esperado de géneros.
+
+```r
+# Esta función recibe la tabla de frecuencias y el tamaño de submuestra.
+riqueza_esperada <- function(frecuencias, tamano) {
+  frecuencia <- as.integer(frecuencias)
+  total <- sum(frecuencia)
+
+  # lower.tail = FALSE pide la probabilidad de superar cero.
+  presencia <- phyper(0, m = frecuencia, n = total - frecuencia,
+                      k = tamano, lower.tail = FALSE)
+  sum(presencia)
+}
+
+# Comprueba el resultado exacto del ejemplo de cinco registros.
+riqueza_esperada(table(c("A", "A", "B", "B", "C")), 2)
+
+# Contrasta el promedio simulado con el resultado exacto.
+riqueza_esperada(frecuencias_antigua, 250)
+riqueza_esperada(frecuencias_reciente, 250)
+
+# Un tamaño común puede llegar hasta el total de la lista más pequeña.
+tamanos <- 0:min(length(antiguo), length(reciente))
+curva_antigua <- vapply(tamanos, function(n) {
+  riqueza_esperada(frecuencias_antigua, n)
+}, numeric(1))
+curva_reciente <- vapply(tamanos, function(n) {
+  riqueza_esperada(frecuencias_reciente, n)
+}, numeric(1))
+
+# plot() abre el gráfico y lines() añade la segunda curva.
+plot(tamanos, curva_antigua, type = "l", lwd = 2, col = "#17606b",
+     ylim = range(c(curva_antigua, curva_reciente)),
+     xlab = "Número de registros", ylab = "Géneros esperados")
+lines(tamanos, curva_reciente, lwd = 2, lty = 2, col = "#9a4a26")
+legend("topleft", c("750-550 Ma", "200-0 Ma"),
+       col = c("#17606b", "#9a4a26"), lty = c(1, 2), lwd = 2, bty = "n")
+```
+
+A 250 registros esperamos unos 94 géneros en la lista antigua y 238 en la reciente. Cada curva responde a la misma pregunta para su lista. Al llegar a 329 registros usamos toda la colección antigua y solo una pequeña parte de la reciente.
+
+![Riqueza esperada de géneros a tamaños comunes, desde 0 hasta 329 registros. La línea continua corresponde a 750–550 Ma y la discontinua a 200–0 Ma.](assets/C1-B09_comun.png){#fig-rarefaccion-europa-comun}
+
+#### 6. Ampliación. Comparar la forma de las curvas
+
+En este segundo gráfico cada lista conserva su propia escala. En el eje horizontal, el 100 % equivale a 329 registros en la lista antigua y a 268 213 en la reciente. En el eje vertical, dividimos la riqueza esperada por la riqueza observada de la lista correspondiente. Ambas curvas llegan a 1 al usar todos sus registros. Esta representación sirve para comparar qué fracción de los géneros ya registrados se recupera a lo largo de cada lista.
+
+```r
+porcentajes <- 0:100
+
+curva_relativa <- function(frecuencias) {
+  tamanos <- round(sum(frecuencias) * porcentajes / 100)
+  esperados <- vapply(tamanos, function(n) {
+    riqueza_esperada(frecuencias, n)
+  }, numeric(1))
+  esperados / length(frecuencias)
+}
+
+plot(porcentajes, curva_relativa(frecuencias_antigua), type = "l",
+     ylim = c(0, 1), lwd = 2, col = "#17606b",
+     xlab = "Registros seleccionados (% de cada lista)",
+     ylab = "Fracción esperada de los géneros de la lista")
+lines(porcentajes, curva_relativa(frecuencias_reciente),
+      lwd = 2, lty = 2, col = "#9a4a26")
+legend("bottomright", c("750-550 Ma", "200-0 Ma"),
+       col = c("#17606b", "#9a4a26"), lty = c(1, 2), lwd = 2, bty = "n")
+```
+
+![Curvas normalizadas por el tamaño y la riqueza observada de cada lista. Ambas alcanzan 1 por construcción.](assets/C1-B09_normalizada.png){#fig-rarefaccion-europa-normalizada}
+
+#### 7. Interpretar los resultados
+
+Explica con tus palabras qué se iguala en el primer gráfico y qué representa el 50 % en el segundo. Cambia el tamaño de 250 a 100 registros y comprueba si se mantiene el orden de las riquezas esperadas. Indica qué datos necesitarías para comparar las dos listas a igual número de localidades.
+
+Estas listas contienen nombres, sin identificadores de colección, coordenadas ni edades individuales. A igual número de registros, la lista reciente devuelve más géneros esperados. Los dos intervalos reúnen organismos, ambientes e historias de investigación diferentes. Para atribuir la diferencia a la calidad de muestreo habría que recuperar los metadatos de las ocurrencias, revisar la taxonomía y definir unidades de comparación equivalentes.
+
+Lecturas recomendadas
+
+Foote, M. y Miller, A. I. (2007). *Principles of Paleontology*, pp. 17–20. Presentación de la rarefacción clásica y sus límites.
+
+Chao, A. y Jost, L. (2012). Coverage-based rarefaction and extrapolation: standardizing samples by completeness rather than size. *Ecology*, 93, 2533–2547. Ampliación sobre comparaciones a cobertura común. [Artículo original](https://doi.org/10.1890/11-1952.1).
+
+:::

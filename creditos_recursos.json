@@ -352,5 +352,37 @@
     "declared_license": "Gráfico propio de la edición",
     "public_policy": "gráfico propio, con atribución de los datos",
     "caption": "Frecuencias ilustrativas de los rangos observados con dos probabilidades de muestreo, bajo el supuesto de uniformidad. Las barras de uno, dos y tres intervalos permiten calcular la probabilidad de registro por intervalo. Gráfico propio a partir del modelo descrito por Foote y Miller (2007, fig. 1.19)."
+  },
+  {
+    "id": "IMG-3694dfb3a6ae",
+    "sha256": "3694dfb3a6ae8e79dcee693b19989837f37bb4bdd1ccc96fa2309f35c0ad3c29",
+    "original_name": "b9-curva-rarefaccion.png",
+    "declared_license": "Gráfico propio de la edición",
+    "public_policy": "gráfico propio, con atribución de los datos",
+    "caption": "Curva exacta de rarefacción en una colección hipotética de 50 registros y nueve taxones. El punto intermedio indica la riqueza esperada al seleccionar 20 registros. Gráfico propio."
+  },
+  {
+    "id": "IMG-4a4381d7358d",
+    "sha256": "4a4381d7358d99310d88afc587ecb65e12aa6c1f9e8c8d435375a765069efbfd",
+    "original_name": "b9-rarefaccion-dinamarca.png",
+    "declared_license": "Gráfico propio de la edición",
+    "public_policy": "gráfico propio, con atribución de los datos",
+    "caption": "Rarefacción de los moluscos miocenos de Dinamarca a 1 000 de los 2 954 ejemplares de la colección. Se espera recuperar alrededor del 61 % de las especies y más del 80 % de los órdenes observados. Gráfico propio a partir de las cifras de Foote y Miller (2007), basadas en Sorgenfrei (1958)."
+  },
+  {
+    "id": "IMG-b3351676da6e",
+    "sha256": "b3351676da6e75827fec815fb74b90d321aaf134c68bbfc53dd9003db969fcbc",
+    "original_name": "C1-B09_comun.png",
+    "declared_license": "Gráfico propio de la edición",
+    "public_policy": "gráfico propio, con atribución de los datos",
+    "caption": "Gráfico de la práctica de rarefacción calculado en R con las listas didácticas derivadas de Paleobiology Database."
+  },
+  {
+    "id": "IMG-d1f73b0203ef",
+    "sha256": "d1f73b0203ef43a3515b2cf96032d88b184f51e82d8f96ecbe090a694d23be62",
+    "original_name": "C1-B09_normalizada.png",
+    "declared_license": "Gráfico propio de la edición",
+    "public_policy": "gráfico propio, con atribución de los datos",
+    "caption": "Gráfico de la práctica de rarefacción calculado en R con las listas didácticas derivadas de Paleobiology Database."
   }
 ]

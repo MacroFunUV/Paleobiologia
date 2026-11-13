@@ -47,5 +47,14 @@
     "type": "Paquete de R",
     "topic": "Huellas y rastros",
     "status": "documentación pública existente"
+  },
+  {
+    "id": "PRA-001",
+    "title": "Práctica 1. Del registro fósil a la curva de rarefacción",
+    "url": "practicas/rarefaccion.html",
+    "type": "Práctica en R",
+    "topic": "Muestreo del registro fósil",
+    "passage": "C1-B09.P019",
+    "status": "actividad aceptada"
   }
 ]

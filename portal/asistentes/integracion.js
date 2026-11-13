@@ -44,7 +44,10 @@
     const holder = make('div', 'paleo-frame-holder');
     const status = make('p', 'paleo-status', 'Conectando con el asistente…'); holder.append(status);
     if (pending.has(scope) || !connection.enabled || !endpoint) { status.textContent = 'La conversación estará disponible cuando se actualice el equipo de oficina. Puedes explorar estas preguntas y consultar las fuentes.'; return holder; }
-    if (transition && scope === 'general') holder.prepend(make('p', 'paleo-small', 'El asistente general consulta por ahora los bloques B1–B7.'));
+    if (transition?.covered_blocks?.length && scope === 'general') {
+      const lastBlock = transition.covered_blocks.at(-1).split('-')[1];
+      holder.prepend(make('p', 'paleo-small', `El asistente general consulta por ahora los bloques B1–B${Number(lastBlock.slice(1))}.`));
+    }
     const iframe = make('iframe'); iframe.title = scope === 'general' ? 'Asistente general de Paleobiología' : 'Tutor ' + scope;
     iframe.setAttribute('sandbox', 'allow-scripts allow-forms allow-same-origin allow-popups'); iframe.referrerPolicy = 'no-referrer';
     const url = new URL('/embed.html', endpoint); url.searchParams.set('scope', scope); url.searchParams.set('book', connection.book_fingerprint); url.searchParams.set('registry', connection.registry_fingerprint); if (scope !== 'general') url.searchParams.set('embedded', '1'); iframe.src = url.href; iframe.hidden = true;

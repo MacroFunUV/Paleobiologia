@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.08",
+  "version": "2026.11.13",
   "language": "es",
   "partial": true,
   "blocks": [
@@ -431,6 +431,40 @@
         "C1-B08.P021",
         "C1-B08.P022"
       ]
+    },
+    {
+      "id": "C1-B09",
+      "chapter": 1,
+      "chapter_file": "introduccion",
+      "title": "Muestreo y estandarización de la diversidad",
+      "accepted": true,
+      "source_sha256": "f510ae7a0c783cc7aaeb69715812771d18bb7a7765a864ade4d4652e6659a22d",
+      "approval_date": "2026-11-13",
+      "passages": [
+        "C1-B09.P001",
+        "C1-B09.P002",
+        "C1-B09.P003",
+        "C1-B09.P004",
+        "C1-B09.P005",
+        "C1-B09.P006",
+        "C1-B09.P007",
+        "C1-B09.P008",
+        "C1-B09.P009",
+        "C1-B09.P010",
+        "C1-B09.P011",
+        "C1-B09.P012",
+        "C1-B09.P013",
+        "C1-B09.P014",
+        "C1-B09.P015",
+        "C1-B09.P016",
+        "C1-B09.P017",
+        "C1-B09.P018",
+        "C1-B09.P019",
+        "C1-B09.P020",
+        "C1-B09.P021",
+        "C1-B09.P022",
+        "C1-B09.P023"
+      ]
     }
   ],
   "paragraph_ids": [
@@ -791,7 +825,30 @@
     "C1-B08.P019",
     "C1-B08.P020",
     "C1-B08.P021",
-    "C1-B08.P022"
+    "C1-B08.P022",
+    "C1-B09.P001",
+    "C1-B09.P002",
+    "C1-B09.P003",
+    "C1-B09.P004",
+    "C1-B09.P005",
+    "C1-B09.P006",
+    "C1-B09.P007",
+    "C1-B09.P008",
+    "C1-B09.P009",
+    "C1-B09.P010",
+    "C1-B09.P011",
+    "C1-B09.P012",
+    "C1-B09.P013",
+    "C1-B09.P014",
+    "C1-B09.P015",
+    "C1-B09.P016",
+    "C1-B09.P017",
+    "C1-B09.P018",
+    "C1-B09.P019",
+    "C1-B09.P020",
+    "C1-B09.P021",
+    "C1-B09.P022",
+    "C1-B09.P023"
   ],
   "translations": {
     "val": "pendiente"

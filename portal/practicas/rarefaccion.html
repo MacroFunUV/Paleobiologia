@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Práctica 1. Del registro fósil a la curva de rarefacción · Paleobiología Esencial</title>
+<link rel="stylesheet" href="../assets/sitio.css">
+<style>article.reading img{max-width:100%;height:auto} article.reading pre{overflow:auto;padding:1rem;background:#eef1eb;border:1px solid #d9e0d7;border-radius:.4rem} article.reading figure{margin:2rem 0} article.reading figcaption{font-size:.9rem}</style>
+
+<!-- paleo-app:start -->
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#285d55">
+<link rel="apple-touch-icon" href="../assets/app-icon-192.png">
+<link rel="stylesheet" href="../assets/app.css">
+<script src="../assets/app.js" defer></script>
+<!-- paleo-app:end -->
+</head><body>
+<header class="top"><a class="brand" href="../index.html">PALEOBIOLOGÍA ESENCIAL<small>HUMBERTO G. FERRÓN · MACROFUNUV</small></a><nav aria-label="Principal"><a href="../es/introduccion.html#C1-B09.P001">Bloque 9</a><a href="../recursos.html">Aplicaciones y prácticas</a><a href="../app/">App móvil</a></nav></header>
+<main class="wrap"><div class="page-title"><p class="eyebrow">Muestreo del registro fósil · R base</p><h1>Práctica 1. Del registro fósil a la curva de rarefacción</h1><p><a class="button" href="../materiales/practicas/Practica_01_R_y_datos.zip" download>Descargar el código y los datos (ZIP)</a></p></div>
+<article class="reading"><p>Construiremos una comparación de dos listas de géneros desde cero.
+Empezaremos por abrir los archivos en R, comprobar qué representa cada
+fila y distinguir cuántos registros tenemos de cuántos géneros
+contienen. Después haremos un sorteo, lo repetiremos y dibujaremos las
+curvas. Al final podremos explicar qué aporta cada gráfico y qué
+información necesitaríamos para convertir el ejercicio en un análisis de
+investigación.</p>
+<p>El código usa R base. RStudio puede utilizarse para ejecutarlo por
+tramos y ver los resultados en la consola. Los recursos introductorios
+incluyen la <a
+href="https://rstudio-education.github.io/hopr/starting.html">guía de
+instalación de R y RStudio</a>, el <a
+href="https://www.uv.es/vcoll/curso_r.html">curso de R de la Universitat
+de València</a> y el <a
+href="https://escholarship.org/content/qt6tm05630/qt6tm05630.pdf?t=s0797i">tutorial
+de la Paleobiology Database</a>.</p>
+<p><a
+href="https://bookdown.org/humgrafe/Paleobiologia/videos/Curso%20PBDB.mp4">Vídeo
+de introducción a Paleobiology Database</a>.</p>
+<h2 id="abrir-los-datos-y-comprobar-qué-contienen">1. Abrir los datos y
+comprobar qué contienen</h2>
+<p>Los archivos <a
+href="../materiales/datos/chapter01/genus-europe-750-550.csv">750–550
+Ma</a> y <a
+href="../materiales/datos/chapter01/genus-europe-200-0.csv">200–0 Ma</a>
+proceden de una descarga de la <a
+href="https://paleobiodb.org/classic/displayDownloadGenerator">Paleobiology
+Database</a> atribuida a Europa. Cada fila contiene un nombre de género.
+El mismo nombre puede aparecer en muchas filas. Trabajaremos con
+registros de estas listas, que es la unidad que podemos contar
+directamente.</p>
+<p>Descomprime el material de la práctica y abre el archivo de R en
+RStudio. En el menú de la sesión, fija la carpeta de trabajo en la
+carpeta descomprimida. Para ejecutar una línea, coloca el cursor sobre
+ella y pulsa Ctrl + Intro. Ejecuta los pasos en orden, porque cada uno
+utiliza objetos creados en los anteriores. Las líneas que empiezan por #
+son comentarios. El símbolo &lt;- guarda el resultado con el nombre que
+aparece a la izquierda.</p>
+<pre class="r"><code># Comprueba la carpeta de trabajo y que R ve los dos CSV.
+getwd()
+list.files()
+
+# Los archivos no tienen cabecera. [[1]] extrae la primera columna.
+tabla_antigua &lt;- read.csv(&quot;genus-europe-750-550.csv&quot;, header = FALSE)
+tabla_reciente &lt;- read.csv(&quot;genus-europe-200-0.csv&quot;, header = FALSE)
+
+# Quita espacios sobrantes al principio y al final de cada nombre.
+antiguo &lt;- trimws(tabla_antigua[[1]])
+reciente &lt;- trimws(tabla_reciente[[1]])
+
+# Muestra los primeros registros y comprueba si hay nombres vacíos.
+head(antiguo)
+head(reciente)
+stopifnot(!anyNA(antiguo), all(nzchar(antiguo)))
+stopifnot(!anyNA(reciente), all(nzchar(reciente)))</code></pre>
+<h2 id="contar-registros-géneros-y-frecuencias">2. Contar registros,
+géneros y frecuencias</h2>
+<p>length() cuenta las entradas de una lista. unique() devuelve cada
+nombre una sola vez. Por eso, length(unique()) cuenta la riqueza de
+géneros observada. table() cuenta cuántas veces aparece cada nombre.
+Conservamos los nombres repetidos en los datos, porque su frecuencia
+afecta al resultado de los sorteos.</p>
+<pre class="r"><code># Un recuento de filas y otro de nombres distintos para cada lista.
+resumen &lt;- data.frame(
+  intervalo = c(&quot;750-550 Ma&quot;, &quot;200-0 Ma&quot;),
+  registros = c(length(antiguo), length(reciente)),
+  generos = c(length(unique(antiguo)), length(unique(reciente)))
+)
+print(resumen)
+
+# Los seis géneros con más registros en la lista antigua.
+frecuencias_antigua &lt;- table(antiguo)
+frecuencias_reciente &lt;- table(reciente)
+head(sort(frecuencias_antigua, decreasing = TRUE))</code></pre>
+<p>Deberías obtener 329 registros y 107 nombres distintos en la lista
+antigua, y 268 213 registros y 21 522 nombres distintos en la reciente.
+Los nombres se cuentan tal como figuran en los archivos, antes de una
+revisión taxonómica.</p>
+<h2 id="sacar-una-submuestra-de-250-registros">3. Sacar una submuestra
+de 250 registros</h2>
+<p>sample() elige registros al azar. Con replace = FALSE, cada fila
+puede entrar una sola vez en el sorteo, aunque varias filas pertenezcan
+al mismo género. set.seed() hace que podamos repetir el sorteo en las
+mismas condiciones. Cuenta primero las filas seleccionadas y después los
+géneros distintos que contienen.</p>
+<pre class="r"><code>set.seed(2026)
+n &lt;- 250
+submuestra &lt;- sample(antiguo, size = n, replace = FALSE)
+length(submuestra)          # 250 registros seleccionados.
+length(unique(submuestra))  # Géneros en este sorteo.</code></pre>
+<h2 id="repetir-el-sorteo-y-calcular-la-media">4. Repetir el sorteo y
+calcular la media</h2>
+<p>Un sorteo puede recuperar más o menos géneros que otro. replicate()
+repite el cálculo y guarda los resultados. La media de los sorteos
+aproxima la riqueza esperada para 250 registros. El mínimo y el máximo
+describen la variación entre estas 500 submuestras de la colección.</p>
+<pre class="r"><code>set.seed(2026)
+riquezas &lt;- replicate(500, {
+  seleccion &lt;- sample(antiguo, size = n, replace = FALSE)
+  length(unique(seleccion))
+})
+mean(riquezas)
+range(riquezas)</code></pre>
+<h2 id="calcular-la-curva-y-comparar-a-igual-número-de-registros">5.
+Calcular la curva y comparar a igual número de registros</h2>
+<p>Para construir la curva calcularemos la riqueza esperada
+directamente, como en el ejemplo de A, B y C. La función phyper()
+permite obtener, para cada género, la probabilidad de que salga al menos
+una vez al elegir registros sin reemplazo. Le damos el número de
+registros del género, el número de registros de todos los demás y el
+tamaño de la submuestra. Sumamos las probabilidades para obtener el
+número esperado de géneros.</p>
+<pre class="r"><code># Esta función recibe la tabla de frecuencias y el tamaño de submuestra.
+riqueza_esperada &lt;- function(frecuencias, tamano) {
+  frecuencia &lt;- as.integer(frecuencias)
+  total &lt;- sum(frecuencia)
+
+  # lower.tail = FALSE pide la probabilidad de superar cero.
+  presencia &lt;- phyper(0, m = frecuencia, n = total - frecuencia,
+                      k = tamano, lower.tail = FALSE)
+  sum(presencia)
+}
+
+# Comprueba el resultado exacto del ejemplo de cinco registros.
+riqueza_esperada(table(c(&quot;A&quot;, &quot;A&quot;, &quot;B&quot;, &quot;B&quot;, &quot;C&quot;)), 2)
+
+# Contrasta el promedio simulado con el resultado exacto.
+riqueza_esperada(frecuencias_antigua, 250)
+riqueza_esperada(frecuencias_reciente, 250)
+
+# Un tamaño común puede llegar hasta el total de la lista más pequeña.
+tamanos &lt;- 0:min(length(antiguo), length(reciente))
+curva_antigua &lt;- vapply(tamanos, function(n) {
+  riqueza_esperada(frecuencias_antigua, n)
+}, numeric(1))
+curva_reciente &lt;- vapply(tamanos, function(n) {
+  riqueza_esperada(frecuencias_reciente, n)
+}, numeric(1))
+
+# plot() abre el gráfico y lines() añade la segunda curva.
+plot(tamanos, curva_antigua, type = &quot;l&quot;, lwd = 2, col = &quot;#17606b&quot;,
+     ylim = range(c(curva_antigua, curva_reciente)),
+     xlab = &quot;Número de registros&quot;, ylab = &quot;Géneros esperados&quot;)
+lines(tamanos, curva_reciente, lwd = 2, lty = 2, col = &quot;#9a4a26&quot;)
+legend(&quot;topleft&quot;, c(&quot;750-550 Ma&quot;, &quot;200-0 Ma&quot;),
+       col = c(&quot;#17606b&quot;, &quot;#9a4a26&quot;), lty = c(1, 2), lwd = 2, bty = &quot;n&quot;)</code></pre>
+<p>A 250 registros esperamos unos 94 géneros en la lista antigua y 238
+en la reciente. Cada curva responde a la misma pregunta para su lista.
+Al llegar a 329 registros usamos toda la colección antigua y solo una
+pequeña parte de la reciente.</p>
+<figure>
+<img src="../es/assets/C1-B09_comun.png"
+alt="Riqueza esperada de géneros a tamaños comunes, desde 0 hasta 329 registros. La línea continua corresponde a 750–550 Ma y la discontinua a 200–0 Ma." />
+<figcaption aria-hidden="true">Riqueza esperada de géneros a tamaños
+comunes, desde 0 hasta 329 registros. La línea continua corresponde a
+750–550 Ma y la discontinua a 200–0 Ma.</figcaption>
+</figure>
+<h2 id="ampliación.-comparar-la-forma-de-las-curvas">6. Ampliación.
+Comparar la forma de las curvas</h2>
+<p>En este segundo gráfico cada lista conserva su propia escala. En el
+eje horizontal, el 100 % equivale a 329 registros en la lista antigua y
+a 268 213 en la reciente. En el eje vertical, dividimos la riqueza
+esperada por la riqueza observada de la lista correspondiente. Ambas
+curvas llegan a 1 al usar todos sus registros. Esta representación sirve
+para comparar qué fracción de los géneros ya registrados se recupera a
+lo largo de cada lista.</p>
+<pre class="r"><code>porcentajes &lt;- 0:100
+
+curva_relativa &lt;- function(frecuencias) {
+  tamanos &lt;- round(sum(frecuencias) * porcentajes / 100)
+  esperados &lt;- vapply(tamanos, function(n) {
+    riqueza_esperada(frecuencias, n)
+  }, numeric(1))
+  esperados / length(frecuencias)
+}
+
+plot(porcentajes, curva_relativa(frecuencias_antigua), type = &quot;l&quot;,
+     ylim = c(0, 1), lwd = 2, col = &quot;#17606b&quot;,
+     xlab = &quot;Registros seleccionados (% de cada lista)&quot;,
+     ylab = &quot;Fracción esperada de los géneros de la lista&quot;)
+lines(porcentajes, curva_relativa(frecuencias_reciente),
+      lwd = 2, lty = 2, col = &quot;#9a4a26&quot;)
+legend(&quot;bottomright&quot;, c(&quot;750-550 Ma&quot;, &quot;200-0 Ma&quot;),
+       col = c(&quot;#17606b&quot;, &quot;#9a4a26&quot;), lty = c(1, 2), lwd = 2, bty = &quot;n&quot;)</code></pre>
+<figure>
+<img src="../es/assets/C1-B09_normalizada.png"
+alt="Curvas normalizadas por el tamaño y la riqueza observada de cada lista. Ambas alcanzan 1 por construcción." />
+<figcaption aria-hidden="true">Curvas normalizadas por el tamaño y la
+riqueza observada de cada lista. Ambas alcanzan 1 por
+construcción.</figcaption>
+</figure>
+<h2 id="interpretar-los-resultados">7. Interpretar los resultados</h2>
+<p>Explica con tus palabras qué se iguala en el primer gráfico y qué
+representa el 50 % en el segundo. Cambia el tamaño de 250 a 100
+registros y comprueba si se mantiene el orden de las riquezas esperadas.
+Indica qué datos necesitarías para comparar las dos listas a igual
+número de localidades.</p>
+<p>Estas listas contienen nombres, sin identificadores de colección,
+coordenadas ni edades individuales. A igual número de registros, la
+lista reciente devuelve más géneros esperados. Los dos intervalos reúnen
+organismos, ambientes e historias de investigación diferentes. Para
+atribuir la diferencia a la calidad de muestreo habría que recuperar los
+metadatos de las ocurrencias, revisar la taxonomía y definir unidades de
+comparación equivalentes.</p>
+<p>Lecturas recomendadas</p>
+<p>Foote, M. y Miller, A. I. (2007). <em>Principles of
+Paleontology</em>, pp. 17–20. Presentación de la rarefacción clásica y
+sus límites.</p>
+<p>Chao, A. y Jost, L. (2012). Coverage-based rarefaction and
+extrapolation: standardizing samples by completeness rather than size.
+<em>Ecology</em>, 93, 2533–2547. Ampliación sobre comparaciones a
+cobertura común.</p>
+<p class="quiet">Las dos listas didácticas derivan de la <a href="https://paleobiodb.org/">Paleobiology Database</a>. Los archivos contienen nombres de géneros. Para un análisis de investigación, consulta los registros originales y su bibliografía.</p></article></main>
+<footer><div class="wrap"><a href="../es/introduccion.html#C1-B09.P019">Volver a la práctica en el libro</a></div></footer></body></html>
